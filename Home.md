@@ -1,0 +1,1 @@
+Welcome to the ai4k12 wiki! This is interim site is being used to organize the "AI for K-12" initiative and help us get started on the dialog that will eventually result in (1) national guidelines for AI education for K-12, and (2) an online, curated resource directory to facilitate AI instruction.
