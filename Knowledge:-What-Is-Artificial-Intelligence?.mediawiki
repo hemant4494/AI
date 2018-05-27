@@ -9,7 +9,8 @@ Students should know that:
 ** Speech recognition
 ** Machine learning
 ** Natural language understanding
-** Planning
+** Knowledge representation
+** Planning / optimization
 ** Game playing
 ** Automated reasoning / theorem proving
 ** Robotics
