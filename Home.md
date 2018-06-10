@@ -6,5 +6,10 @@ Welcome to the ai4k12 wiki! This is interim site is being used to organize the "
 * "AI for K-12" symposium, October 20, 2018 in Washington, DC, part of the AAAI Fall Symposium series.
 
 ### Resources
-* The AI for K-12 guidelines will be modeled after the CSTA K-12 Computer Science Standards. 
+* The AI for K-12 guidelines will be modeled after the 2017 CSTA K-12 Computer Science Standards. You can:
+** [Read about the standards](https://www.csteachers.org/page/standards)
+** [View the standards](https://sites.google.com/site/cstastandards/standards) (or download a [PDF version](https://drive.google.com/open?id=0B0TlX1G3mywqXzNWMVdKX0lTSkU)
+** [View the K-12 Computer Science Framework](https://k12cs.org/), which informed the development of the standards.
+
+
 
