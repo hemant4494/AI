@@ -1,0 +1,10 @@
+# Cognimates
+* Name: Cognimates
+* Subject Area: General AI
+* Type: Web site with a variety of AI demo projects/activities, some powered by Scratch extensions
+* Grade(s): 2-5 (recommended ages 7-10)
+* URL: [cognimates.me](https://cognimates.me)
+* Creator: [Cynthia Breazeal](https://www.media.mit.edu/people/cynthiab/overview/), MIT Media Lab
+* License: 
+
+Description: 
