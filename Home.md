@@ -21,5 +21,7 @@ The AI for K-12 guidelines will be modeled after the 2017 CSTA K-12 Computer Sci
 
 * The AI for K-12 Working Group is being formed now. We are currently seeking active K-12 teachers in all grade levels. A list of members will be released once the working group is complete.
 
+* [AI for K-12 Working Group Membership Commitment](https://github.com/touretzkyds/ai4k12/raw/master/documents/AI4K12-Membership-Commitment.pdf): what we expect from working group members.
+
 ### Announcements
 * 5/15/2018: AAAI [press release](https://aaai.org/Pressroom/Releases/release-18-0515.php) announcing the AI for K-12 initiative.
