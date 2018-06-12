@@ -8,3 +8,4 @@ Authors: Stuart Russell (UC Berkeley) and Peter Norvig (Google)
 
 Description: this is currently the standard textbook for undergraduate AI courses. It could potentially be used in an AI elective for advanced high school students. The course web site includes sample code and online demos that may be useful for such an elective.
 
+![](https://github.com/touretzkyds/ai4k12/raw/master/images/aima-cover-3rd.jpg)
