@@ -8,3 +8,4 @@
 * License: 
 
 Description: Cognimates Scratch extensions provide capabilities such as speech recognition, sentiment recognition from text, and trainable visual object recognition (using Watson). The activity descriptions show how to use these extensions to create engaging demos.
+![](https://github.com/touretzkyds/ai4k12/raw/master/images/cognimates.png)
