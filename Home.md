@@ -15,7 +15,11 @@ The AI for K-12 guidelines will be modeled after the 2017 CSTA K-12 Computer Sci
 * [View the K-12 Computer Science Framework](https://k12cs.org/), which informed the development of the standards
 
 ### Administration
-* The AI for K-12 initiative is chaired by Professor David Touretzky of Carnegie Mellon University.
+* The AI for K-12 steering committee members are:
+> * David Touretzky, Carnegie Mellon University (chair)
+> * Fred Martin, U. Mass. Lowell and CSTA
+> * Christina Gardner-McCune, University of Florida
+> * Deborah Seehorn, CSTA
 
 * To join the AI for K-12 mailing list, send mail to [ai4k12@aaai.org](mailto:ai4k12@aaai.org).
 
