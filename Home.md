@@ -1,9 +1,9 @@
 Welcome to the ai4k12 wiki! This is interim site is being used to organize the AI for K-12 initiative jointly sponsored by [AAAI](https://AAAI.org) and [CSTA](https://csteachers.org). This page will help us get started on the dialog that will eventually result in (1) national guidelines for AI education for K-12, and (2) an online, curated resource directory to facilitate AI instruction.
 
 ### Upcoming Events
-* CSTA 2018 conference, July 7-10 in Omaha, Nebraska. Visit the [conference web site](https://www.csteachers.org/general/custom.asp?page=2018Conference) for more information. We will be holding an **AI for K-12 breakfast** for CSTA attendees on **July 9** (moved up from July 10). Everyone with an interest in AI education is welcome.
+* CSTA 2018 conference, July 7-10 in Omaha, Nebraska. Visit the [conference web site](https://www.csteachers.org/general/custom.asp?page=2018Conference) for more information. We will be holding an **AI for K-12 breakfast** for CSTA attendees on **July 9** (moved up from July 10). The breakfast is currently full (120 people signed up) and the waiting list has been closed.
 
-* "AI for K-12" symposium, October 20, 2018 in Washington, DC, part of the AAAI Fall Symposium series. Registration information will be announced soon.
+* "AI for K-12" symposium, October 20, 2018 in Washington, DC, part of the AAAI Fall Symposium series. Registration information will be announced soon. Click [here](https://docs.google.com/forms/d/e/1FAIpQLScTNnsUv3WNRs1wFRgxSOJHyG79Q-AF6_N8xxec2oZRbkk8wA/viewform) to apply to attend the symposium.
 
 ### Resources
 The AI for K-12 guidelines will be modeled after the 2017 CSTA K-12 Computer Science Standards. You can:
