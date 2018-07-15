@@ -2,6 +2,7 @@
 * Name: Artificial Intelligence: A Modern Approach
 * Subject: General AI
 * Type: Textbook
+* Year: 2011 (3rd edition)
 * Level: undergraduate
 * URL: [aima.cs.berkeley.edu](http://aima.cs.berkeley.edu/)
 * Authors: Stuart Russell (UC Berkeley) and Peter Norvig (Google)
