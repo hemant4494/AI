@@ -1,5 +1,5 @@
 # Artificial Intelligence: A Modern Approach
-* Name: Artificial Intelligence: A Modern Approach
+* Title: Artificial Intelligence: A Modern Approach
 * Subject: General AI
 * Type: Textbook
 * Year: 2011 (3rd edition)
