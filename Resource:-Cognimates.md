@@ -7,5 +7,5 @@
 * Creator: [Stefania Druga](https://www.media.mit.edu/people/sdruga/overview/), MIT Media Lab
 * License: 
 
-Description: Cognimates Scratch extensions provide capabilities such as speech recognition, sentiment recognition from text, and trainable visual object recognition (using Watson). The activity descriptions show how to use these extensions to create engaging demos. Children can also create their own AI models on the Teach AI section
+Description: Cognimates Scratch extensions provide capabilities such as speech recognition, sentiment recognition from text, and trainable visual object recognition (using Watson). The activity descriptions show how to use these extensions to create engaging demos. Children can also create their own AI models on the Teach AI section.
 ![](https://github.com/touretzkyds/ai4k12/raw/master/images/cognimates.png)
