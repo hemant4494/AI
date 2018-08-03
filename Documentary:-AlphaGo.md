@@ -1,6 +1,7 @@
 * Title: AlphaGo
 * Subject: Game playing
 * Type: Documentary video
+* Duration: 90 minutes
 * Year: 2017
 * Director: [Greg Kohs](https://www.imdb.com/name/nm0463473/?ref_=tt_ov_dr)
 * Level: high school and up
