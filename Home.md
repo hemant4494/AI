@@ -20,9 +20,9 @@ The AI for K-12 guidelines will be modeled after the 2017 CSTA K-12 Computer Sci
 > * Christina Gardner-McCune, University of Florida
 > * Deborah Seehorn, CSTA
 
-* To join the AI for K-12 mailing list, send mail to [ai4k12@aaai.org](mailto:ai4k12@aaai.org).
+* List of [[Working Group Members]]
 
-* The AI for K-12 Working Group is being formed now. We are currently seeking active K-12 teachers at all grade levels. <br/> [Click here to apply](https://docs.google.com/forms/d/e/1FAIpQLSeQ79fDeVzZIAXZRKK5SJnaIRC4KnHa4yFeK4eRIdT14Z1hRg/viewform?usp=sf_link) to join the working group. Applications are due by July 15.
+* To join the AI for K-12 mailing list, send mail to [ai4k12@aaai.org](mailto:ai4k12@aaai.org).
 
 * [AI for K-12 Working Group Membership Commitment](https://github.com/touretzkyds/ai4k12/raw/master/documents/AI4K12-Membership-Commitment.pdf): what we expect from working group members.
 
