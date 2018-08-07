@@ -22,7 +22,7 @@
 * Smadar Bergman
 
 ### From the Steering Committee ###
-* Dave Touretzky
+* David Touretzky
 * Fred Martin
 * Christina Gardner-McCune
 * Deborah Seehorn
