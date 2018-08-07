@@ -21,7 +21,7 @@
 * Jared Amalong
 * Smadar Bergman
 
-### Steering Committee ###
+### From the Steering Committee ###
 * Dave Touretzky
 * Fred Martin
 * Christina Gardner-McCune
