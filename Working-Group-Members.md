@@ -1,6 +1,7 @@
 ### K-2 Grade Band ###
 * Susan Amsler-Akacem
 * April DeGennaro
+* Charlotte Dungan
 * Vicky Sedgwick
 
 ### 3-5 Grade Band ###
@@ -32,4 +33,6 @@
 * Christina Gardner-McCune, University of Florida (co-chair)
 * Fred Martin, U. Mass. Lowell and CSTA Chair
 * Deborah Seehorn, CSTA
-* David Touretzky, Carnegie Mellon (chair)
+* Dave Touretzky, Carnegie Mellon (chair)
+
+To contact the working group, email Dave Touretzky at dst (at) cs.cmu.edu
