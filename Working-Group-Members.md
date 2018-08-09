@@ -1,28 +1,35 @@
 ### K-2 Grade Band ###
-* Vicky Sedgwick
-* April DeGennaro
 * Susan Amsler-Akacem
+* April DeGennaro
+* Vicky Sedgwick
 
 ### 3-5 Grade Band ###
-* Kelly Powers
+* Marlo Barnett
 * Phillip Eaglin
 * Todd Lash
-* Marlo Barnett
+* Kelly Powers
 
 ### 6-8 Grade Band ###
-* Minsoo Park
 * Padmaja Bandaru
-* Juan Palomares
 * Vincent Gregorio
+* Juan Palomares
+* Minsoo Park
 
 ### 9-12 Grade Band ###
-* Dianne O'Grady-Cunniff
-* Kate Lockwood
 * Jared Amalong
 * Smadar Bergman
+* Kate Lockwood
+* Dianne O'Grady-Cunniff
 
-### From the Steering Committee ###
-* David Touretzky
-* Fred Martin
-* Christina Gardner-McCune
-* Deborah Seehorn
+### Academia/Industry
+* Hal Abelson, MIT
+* Cynthia Breazeal, Jibo and MIT
+* Matt Dawson, Google
+* Tess Posner, AI for All
+* Matthijs Spaan, TU Delft and AAAI
+
+### Steering Committee ###
+* Christina Gardner-McCune, University of Florida (co-chair)
+* Fred Martin, U. Mass. Lowell and CSTA Chair
+* Deborah Seehorn, CSTA
+* David Touretzky, Carnegie Mellon (chair)
