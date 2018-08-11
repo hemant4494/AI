@@ -17,10 +17,10 @@
 * Minsoo Park, Director of Teaching and Learning, Countryside School, Savoy, IL
 
 ### 9-12 Grade Band ###
-* Jared Amalong
-* Smadar Bergman
-* Kate Lockwood
-* Dianne O'Grady-Cunniff
+* Jared Amalong, Computer Science Coordinator, Sacramento County Office of Education, Sacramento, CA
+* Smadar Bergman, Computer Science Teacher, Chicago Public Schools, Chicago, IL
+* Kate Lockwood, Director of Computer Science and Engineering, St. Paul Academy, St. Paul, MN
+* Dianne O'Grady-Cunniff, CS Teacher, La Plata High School, La Plata, MD
 
 ### Academia/Industry
 * Hal Abelson, MIT
