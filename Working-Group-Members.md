@@ -26,7 +26,7 @@
 * Hal Abelson, MIT
 * Cynthia Breazeal, Jibo and MIT
 * Matt Dawson, Google
-* Tess Posner, AI for All
+* Tess Posner, AI4All
 * Matthijs Spaan, TU Delft and AAAI
 
 ### Steering Committee ###
