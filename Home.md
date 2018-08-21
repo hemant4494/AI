@@ -11,8 +11,6 @@ The AI for K-12 guidelines will be modeled after the 2017 CSTA K-12 Computer Sci
 
 * [View the standards](https://sites.google.com/site/cstastandards/standards) (or download a [PDF version](https://drive.google.com/file/d/0B0TlX1G3mywqbXpydGdIVk00Y1U/view)
 
-(https://drive.google.com/open?id=0B0TlX1G3mywqXzNWMVdKX0lTSkU)
-
 * [View the K-12 Computer Science Framework](https://k12cs.org/), which informed the development of the standards
 
 ### Administration
