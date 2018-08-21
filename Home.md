@@ -7,7 +7,7 @@ Welcome to the ai4k12 wiki! This is interim site is being used to organize the A
 ### Resources
 The AI for K-12 guidelines will be modeled after the 2017 CSTA K-12 Computer Science Standards. You can:
 
-* [Read about the CSTA K-12 Computer Science Standards](https://www.csteachers.org/page/standards). Click on the "Standards" pulldown menu to view the actual standards.
+* [Read about the CSTA K-12 Computer Science Standards](https://www.csteachers.org/page/standards). Click on the "Standards" pulldown menu to view a searchable version of the standards.
 
 * Download a [PDF version](https://drive.google.com/file/d/0B0TlX1G3mywqbXpydGdIVk00Y1U/view) of the standards.
 
