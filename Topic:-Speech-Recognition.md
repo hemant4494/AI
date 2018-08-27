@@ -4,7 +4,7 @@
 
 * **Grades K-2:** Some types of devices can recognize human speech. This includes most cellphones, and home entertainment systems like Amazon's Echo or Google Home.
 
-* **Grades 3-5:** Speech recognition systems use grammatical knowledge to disambiguate homophones such as bear/bare or there/their/they're. Example: "_There_ is no hot water" vs. "_Their_ hot water is off".
+* **Grades 3-5:** Speech recognition systems use grammatical knowledge to disambiguate homophones such as bear/bare or there/their/they're. Example: "_There_ is no hot water" vs. "_Their_ hot water is off" vs. "_They're_ waiting for the hot water to come back on".
 
 * **Grades 6-8:**
 
