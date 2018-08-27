@@ -24,6 +24,8 @@ Languages other than English
 
 Accents; child voices
 
-Applications: Alexa, Siri, Cortana
+Applications: Alexa, Siri, Cortana. What do they do? How are they useful?
 
-Demos: [[Demo: Speech Recognition in Chrome]], Alexa, Siri
+Demos: 
+* [[Demo: Speech Recognition in Chrome]]
+* Alexa, Siri, Cortana
