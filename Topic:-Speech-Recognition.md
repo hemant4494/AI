@@ -20,7 +20,7 @@
 3. CACM January 2014 -  A historical perspective of speech recognition.
 Xuedong Huang, James Baker, and Raj Reddy. Commun. ACM 57, 1 (January 2014), 94-103. DOI: [acm.org](https://doi.org/10.1145/2500887)
 
-4. CACM April 2018 - Speech emotion recognition: two decades in a nutshell, benchmarks, and ongoing trends
+4. CACM April 2018 - Speech emotion recognition: two decades in a nutshell, benchmarks, and ongoing trends.
 Björn W. Schuller. Commun. ACM 61, 5 (April 2018), 90-99. DOI: doi.org/10.1145/3129340 [acm.org](https://doi.org/10.1145/3129340)
 
 5. Video: [youtube.com](https://www.youtube.com/watch?v=A9UvEc_ISfQ)
