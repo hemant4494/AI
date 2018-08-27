@@ -26,6 +26,6 @@ Accents; child voices
 
 Applications: Alexa, Siri, Cortana. What do they do? How are they useful?
 
-Demos: 
+Demo Resources: 
 * [[Demo: Speech Recognition in Chrome]]
 * Alexa, Siri, Cortana
