@@ -14,4 +14,4 @@ Accents; child voices
 
 Applications: Alexa, Siri, Cortana
 
-Demos: annyang, Alexa, Siri
+Demos: [[Demo: Speech Recognition in Chrome]], Alexa, Siri
