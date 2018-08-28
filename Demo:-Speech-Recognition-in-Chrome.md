@@ -2,7 +2,7 @@
 * Subject Area: speech recognition
 * Type: in-browser demo software (Google Chrome only)
 * Grade(s): all ages
-* URL: [https://www.cs.cmu.edu/~dst/SpeechRecognition](https://www.cs.cmu.edu/~dst/SpeechRecognition)
+* URL: [https://www.cs.cmu.edu/~dst/SpeechDemo](https://www.cs.cmu.edu/~dst/SpeechDemo)
 * Creators: Dave Touretzky and Sarah Pam
 * License: public domain
 
