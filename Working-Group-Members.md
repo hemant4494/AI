@@ -20,7 +20,7 @@
 * Jared Amalong, Computer Science Coordinator, Sacramento County Office of Education, Sacramento, CA
 * Smadar Bergman, Computer Science Teacher, Chicago Public Schools, Chicago, IL
 * Kate Lockwood, Director of Computer Science and Engineering, St. Paul Academy, St. Paul, MN
-* **Dianne O'Grady-Cunniff** (lead), CS Teacher, La Plata High School, La Plata, MD
+* **Dianne O'Grady-Cunniff** (lead), Director, Maryland Center for Computing Education, Adelphi, MD
 
 ### Academia/Industry
 * Hal Abelson, MIT
