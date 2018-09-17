@@ -25,6 +25,8 @@ Björn W. Schuller. Commun. ACM 61, 5 (April 2018), 90-99. DOI: doi.org/10.1145/
 
 5. Video: Speech Emotion Recognition. [youtube.com](https://www.youtube.com/watch?v=A9UvEc_ISfQ)
 
+6. Machine Learning is Fun Part 6: How to do Speech Recognition with Deep Learning. Adam Geitgey, Medium, December 2016. [medium.com](https://medium.com/@ageitgey/machine-learning-is-fun-part-6-how-to-do-speech-recognition-with-deep-learning-28293c162f7a)
+
 
 ## Miscellaneous concepts to incorporate
 
