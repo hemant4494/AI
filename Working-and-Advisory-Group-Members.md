@@ -22,7 +22,7 @@
 * Kate Lockwood, Director of Computer Science and Engineering, St. Paul Academy, St. Paul, MN
 * **Dianne O'Grady-Cunniff** (lead), Director, Maryland Center for Computing Education, Adelphi, MD
 
-### Academia/Industry
+### Academia/Industry ###
 * Hal Abelson, MIT
 * Cynthia Breazeal, Jibo and MIT
 * Matt Dawson, Google
@@ -34,5 +34,9 @@
 * Fred Martin, U. Mass. Lowell and CSTA Chair
 * Deborah Seehorn, CSTA
 * Dave Touretzky, Carnegie Mellon (chair)
+
+### Advisory Group ###
+* Laura Hintzman Schmidt, Advancing AI Wisconsin
+* Miles Berry, Roehampton University, UK
 
 To contact the working group, email Dave Touretzky at dst (at) cs.cmu.edu
