@@ -22,7 +22,7 @@ The AI for K-12 guidelines will be modeled after the 2017 CSTA K-12 Computer Sci
 > * Christina Gardner-McCune, University of Florida
 > * Deborah Seehorn, CSTA
 
-* List of [[Working Group Members]]
+* List of [[Working and Advisory Group Members]]
 
 * [AI for K-12 Working Group Membership Commitment](https://github.com/touretzkyds/ai4k12/raw/master/documents/AI4K12-Membership-Commitment.pdf): what we expect from working group members.
 
