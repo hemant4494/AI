@@ -35,8 +35,8 @@
 * Deborah Seehorn, CSTA
 * Dave Touretzky, Carnegie Mellon (chair)
 
+To contact the working group, email Dave Touretzky at dst (at) cs.cmu.edu
+
 ### Advisory Group ###
 * Laura Hintzman Schmidt, Advancing AI Wisconsin
 * Miles Berry, Roehampton University, UK
-
-To contact the working group, email Dave Touretzky at dst (at) cs.cmu.edu
