@@ -7,4 +7,5 @@
 * Creators: Ken Kahn and Niall Winters
 * License: New BSD
 
-Description: The eCraft2Learn project is developing a set of extensions to the Snap! programming language to enable children (and non-expert programmers) to build AI programs.
+Description: The eCraft2Learn project is developing a set of extensions to the Snap! programming language to enable children (and non-expert programmers) to build AI programs. Activities include speech recognition and generation, image recognition, machine learning, and language processing.
+![](https://github.com/touretzkyds/ai4k12/raw/master/images/ecraft2learn.png)
