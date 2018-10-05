@@ -38,5 +38,7 @@
 To contact the working group, email Dave Touretzky at dst (at) cs.cmu.edu
 
 ### Advisory Group ###
-* Laura Hintzman Schmidt, Advancing AI Wisconsin
 * Miles Berry, Roehampton University, UK
+* Amy Eguchi, Bloomfield College
+* Laura Hintzman Schmidt, Advancing AI Wisconsin
+
