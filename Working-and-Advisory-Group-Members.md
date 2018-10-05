@@ -30,15 +30,15 @@
 * Matthijs Spaan, TU Delft and AAAI
 
 ### Steering Committee ###
-* Christina Gardner-McCune, University of Florida (co-chair)
+* Christina Gardner-McCune, University of Florida (co-chair), Gainesville, FL
 * Fred Martin, U. Mass. Lowell and CSTA Chair
 * Deborah Seehorn, CSTA
-* Dave Touretzky, Carnegie Mellon (chair)
+* Dave Touretzky, Carnegie Mellon (chair), Pittsburgh, PA
 
 To contact the working group, email Dave Touretzky at dst (at) cs.cmu.edu
 
 ### Advisory Group ###
 * Miles Berry, Roehampton University, UK
-* Amy Eguchi, Bloomfield College
+* Amy Eguchi, Bloomfield College, Bloomfield, NJ
 * Laura Hintzman Schmidt, Advancing AI Wisconsin
 
