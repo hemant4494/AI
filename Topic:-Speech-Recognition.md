@@ -29,6 +29,11 @@
 >
 > e. Video: Speech Emotion Recognition. [youtube.com](https://www.youtube.com/watch?v=A9UvEc_ISfQ)
 
+## Demo Resources ##
+* [[Demo: Speech Recognition in Chrome]]
+* Alexa, Siri, Cortana
+* Use [Audacity](https://www.audacityteam.org/) (free download) to record a speech segment and display the spectrogram.
+
 ## Miscellaneous concepts to incorporate
 
 Audio -> Formants -> Phones -> Syllables -> Words -> Phrases
@@ -45,6 +50,3 @@ Accents; child voices
 
 Applications: Alexa, Siri, Cortana. What do they do? How are they useful?
 
-Demo Resources: 
-* [[Demo: Speech Recognition in Chrome]]
-* Alexa, Siri, Cortana
