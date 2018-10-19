@@ -4,7 +4,7 @@ Welcome to the ai4k12 wiki! This is interim site is being used to organize the A
 
 ### Upcoming Events
 
-* "AI for K-12" symposium, October 20, 2018 in Washington, DC, part of the AAAI Fall Symposium series.
+* "AI for K-12" symposium, October 20, 2018 in Washington, DC, part of the AAAI Fall Symposium series. Twitter hashtag #AI4K12.
 
 ### Resources
 The AI for K-12 guidelines will be modeled after the 2017 CSTA K-12 Computer Science Standards. You can:
