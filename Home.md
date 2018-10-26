@@ -4,6 +4,10 @@ Welcome to the ai4k12 wiki! This interim site is being used to organize the AI f
 
 ### Upcoming Events
 
+* "AI for K-12" special session at [SIGCSE-2019](https://sigcse2019.sigcse.org/index.html) (February 27-March 2, 2019, in Minneapolis, MN)
+
+### Recent Events
+
 * "AI for K-12" symposium, October 20, 2018 in Washington, DC, part of the AAAI Fall Symposium series. Twitter hashtag [#AI4K12](https://twitter.com/search?q=%23AI4K12&src=typd).
 
 ### Resources
