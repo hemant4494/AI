@@ -4,6 +4,8 @@ Welcome to the ai4k12 wiki! This interim site is being used to organize the AI f
 
 ### Upcoming Events
 
+* "Blue sky talk" at [AAAI-19](https://aaai.org/Conferences/AAAI-19/) (January 27-February 1, 2019, in Honolulu, HI)
+
 * "AI for K-12" special session at [SIGCSE-2019](https://sigcse2019.sigcse.org/index.html) (February 27-March 2, 2019, in Minneapolis, MN)
 
 ### Recent Events
