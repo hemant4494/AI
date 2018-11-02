@@ -14,7 +14,7 @@
 * [[Documentary: AlphaGo]]
 
 ## Professional Development
-* [[Online Course: Artificial Intelligence Explorations and Their Practical Use in Schools]]
+* [[Online Course: Artificial Intelligence Explorations and Their Practical Use in Schools]] (ISTE)
 
 ## Software Packages
 * [[Software: Calypso for Cozmo]]
