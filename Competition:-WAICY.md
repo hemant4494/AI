@@ -6,6 +6,6 @@
 * Creator: [WholeRen Education](https://www.wholerengroup.com)
 
 Description:
-The World Artificial Intelligence Competition for Youth (WAICY) is a global competition challenging students to learn and use artificial intelligence (AI) technology to solve real problems. The competition is open to students from age 4 to 20 from all around the world. Each year, the competition has a unique theme. In 2018, the theme was “how to make the world better with AI”.
+The World Artificial Intelligence Competition for Youth (WAICY) is a global competition challenging students to create innovative and artistic demonstrations of how artificial intelligence technology can solve real problems. The competition is open to students from age 4 to 20 from all around the world. Each year, the competition has a unique theme. In 2018, the theme was “how to make the world better with AI”.
 
-The WAICY aims to bring AI to students all around the world and spark creative, innovative, and artistic demonstrations of the technology that is able to make a change to the future.
+![](https://github.com/touretzkyds/ai4k12/raw/master/images/readyai-waicy.jpg)
