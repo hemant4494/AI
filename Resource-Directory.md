@@ -8,10 +8,12 @@
 
 ## Demos
 * [[Demo: Speech Recognition in Chrome]]
+* [[Demo: TensorFlow Playground]]
 
 ## Documentaries
 * [[Documentary: AlphaGo]]
 
-## Software
+## Software Packages
 * [[Software: Calypso for Cozmo]]
-* [[Software: TensorFlow Playground]]
+* [[Software: Cognimates]]
+* [[Software: eCraft2Learn]]
