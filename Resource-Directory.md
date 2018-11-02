@@ -4,7 +4,7 @@
 
 ## Competitions
 * [[Competition: Halite]]
-* [[Competition: WAICY]] (World Artificial Intelligence Competition for Youth
+* [[Competition: WAICY]] (World Artificial Intelligence Competition for Youth)
 
 ## Demos
 * [[Demo: Speech Recognition in Chrome]]
@@ -12,6 +12,9 @@
 
 ## Documentaries
 * [[Documentary: AlphaGo]]
+
+## Professional Development
+* [[Online Course: Artificial Intelligence Explorations and Their Practical Use in Schools]]
 
 ## Software Packages
 * [[Software: Calypso for Cozmo]]
