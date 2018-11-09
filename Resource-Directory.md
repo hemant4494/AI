@@ -1,6 +1,7 @@
 ## Books
 * [[Book: Artificial Intelligence: A Modern Approach]]
 * [[Book: What to Think About Machines That Think]]
+* [[Book Series: The World of Artificial Intelligence 4D]]
 
 ## Competitions
 * [[Competition: Halite]]
