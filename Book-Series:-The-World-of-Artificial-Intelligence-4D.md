@@ -5,7 +5,7 @@
 * Year: 2019
 * Publisher: Capstone Press
 
-This is a series of four books covering various aspects of AI for elementary and middle school children.
+This is a series of four books covering various aspects of AI for elementary and middle school children. The written material is accompanied by bonus videos accessible via the web or the publisher's app.
 
 **Artificial Intelligence and Work**, by Alicia Z. Klepeis. [Amazon link](https://www.amazon.com/Artificial-Intelligence-Work-Augmented-Experience/dp/1543554717)
 
