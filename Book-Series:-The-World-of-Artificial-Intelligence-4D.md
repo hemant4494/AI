@@ -15,3 +15,4 @@ This is a series of four books covering various aspects of AI for elementary and
 
 **Artificial Intelligence and Humanoid Robots**, by Alicia Z. Klepeis. [Amazon link](https://www.amazon.com/Artificial-Intelligence-Humanoid-Robots-Experience/dp/1543554695)
 
+![](https://github.com/touretzkyds/ai4k12/raw/master/images/world-of-ai.png)
