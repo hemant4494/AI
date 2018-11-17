@@ -33,8 +33,8 @@ The AI for K-12 guidelines will be modeled after the 2017 CSTA K-12 Computer Sci
 
 * The AI for K-12 steering committee members are:
 > * David Touretzky, Carnegie Mellon University (chair)
+> * Christina Gardner-McCune, University of Florida (co-chair)
 > * Fred Martin, U. Mass. Lowell and CSTA
-> * Christina Gardner-McCune, University of Florida
 > * Deborah Seehorn, CSTA
 
 * List of [[Working and Advisory Group Members]]
