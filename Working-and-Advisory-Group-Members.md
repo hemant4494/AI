@@ -41,6 +41,7 @@ To contact the working group, email Dave Touretzky at dst (at) cs.cmu.edu
 * Miles Berry, Roehampton University, UK
 * Amy Eguchi, Bloomfield College, Bloomfield, NJ
 * Laura Hintzman Schmidt, Advancing AI Wisconsin
+* Irene Lee, MIT, Cambridge, MA
 * Joseph South, ISTE, Portland, OR
 * Tom Vander Ark, Getting Smart, Federal Way, WA
 * Joyce D. Williams, Defense Acquisitions University, Ft. Belvoir, VA
