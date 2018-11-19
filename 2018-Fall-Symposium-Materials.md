@@ -3,7 +3,7 @@ These are some materials from the "AI for K-12" Symposium held October 20, 2018 
 * [Meeting Agenda](https://github.com/touretzkyds/ai4k12/blob/master/documents/2018-symposium/Agenda.pdf)
 * [Intro Slides](https://github.com/touretzkyds/ai4k12/blob/master/documents/2018-symposium/Intro-Slides.pdf) - What is the "AI for K-12" initiative?
 * [David Haury (NSF)](https://github.com/touretzkyds/ai4k12/blob/master/documents/2018-symposium/David_Haury_AI4K12.pdf) - AI for K-12: Converging agendas
-* Ken Kahn
+* [Ken Kahn](https://github.com/touretzkyds/ai4k12/blob/master/documents/2018-symposium/Ken_Kahn_AI4K12.pdf) - AI programming by children
 * Cynthia Breazeal
 * [Wells Santo](https://github.com/touretzkyds/ai4k12/blob/master/documents/2018-symposium/Wells_Santo_AI4K12.pdf) - AI and society
 * [Charlotte Dungan](https://github.com/touretzkyds/ai4k12/blob/master/documents/2018-symposium/Charlotte_Dungan_AI4K12.pdf) - "What to think about machines that think" (book resource)
