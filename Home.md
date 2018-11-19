@@ -11,8 +11,7 @@ Welcome to the ai4k12 wiki! This interim site is being used to organize the AI f
 ### Recent Events
 
 * "AI for K-12" symposium, October 20, 2018 in Washington, DC, part of the AAAI Fall Symposium series. Twitter hashtag [#AI4K12](https://twitter.com/search?q=%23AI4K12&src=typd).
-  * Details from the symposium will be published here soon.
-  * Symposium agenda; speaker slides; photos.
+* The [[2018 Fall Symposium Materials]] are now available here.
 
 ### Resources
 
