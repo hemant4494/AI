@@ -4,7 +4,7 @@ These are some materials from the "AI for K-12" Symposium held October 20, 2018 
 * [Intro Slides](https://github.com/touretzkyds/ai4k12/blob/master/documents/2018-symposium/Intro-Slides.pdf)
 * [David Haury (NSF)](https://github.com/touretzkyds/ai4k12/blob/master/documents/2018-symposium/David_Haury_AI4K12.pdf)
 * [3-5 Grade Band](https://github.com/touretzkyds/ai4k12/blob/master/documents/2018-symposium/Grades-3-5.pdf)
-* 9-12 Grade Band
+* [9-12 Grade Band](https://github.com/touretzkyds/ai4k12/blob/master/documents/2018-symposium/Grades-9-12.pdf)
 * [Charlotte Dungan](https://github.com/touretzkyds/ai4k12/blob/master/documents/2018-symposium/Charlotte_Dungan_AI4K12.pdf) - What to think about machines that think
-* [Wells Santo](https://github.com/touretzkyds/ai4k12/blob/master/documents/2018-symposium/Wells_Santo_AI4K12.pdf) - Societal Impacts
-
+* [Wells Santo](https://github.com/touretzkyds/ai4k12/blob/master/documents/2018-symposium/Wells_Santo_AI4K12.pdf) - AI and society
+* Cynthia Breazeal
