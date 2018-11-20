@@ -3,7 +3,7 @@ These are some materials from the "AI for K-12" Symposium held October 20, 2018 
 * [Meeting Agenda](https://github.com/touretzkyds/ai4k12/blob/master/documents/2018-symposium/Agenda.pdf)
 * [Intro Slides](https://github.com/touretzkyds/ai4k12/blob/master/documents/2018-symposium/Intro-Slides.pdf) - What is the "AI for K-12" initiative?
 * [David Haury](https://github.com/touretzkyds/ai4k12/blob/master/documents/2018-symposium/David_Haury_AI4K12.pdf), NSF - AI for K-12: Converging agendas
-* [Ken Kahn](https://github.com/touretzkyds/ai4k12/blob/master/documents/2018-symposium/Ken_Kahn_AI4K12.pdf), Oxford University - AI programming by children
+* [Ken Kahn](https://github.com/touretzkyds/ai4k12/blob/master/documents/2018-symposium/Ken_Kahn_AI4K12.pdf), University of Oxford - AI programming by children
   * Full slide deck: [http://tinyurl.com/ai-programming-kahn](http://tinyurl.com/ai-programming-kahn)
   * Software: [https://ecraft2learn..github.io/ai](https://ecraft2learn..github.io/ai)
 * [Cynthia Breazeal](https://github.com/touretzkyds/ai4k12/blob/master/documents/2018-symposium/Cynthia_Breazeal_AI4K12.pdf), MIT - Towards early AI for preK-2nd grade
