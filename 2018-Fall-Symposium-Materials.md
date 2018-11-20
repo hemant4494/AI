@@ -9,4 +9,4 @@ These are some materials from the "AI for K-12" Symposium held October 20, 2018 
 * [Charlotte Dungan](https://github.com/touretzkyds/ai4k12/blob/master/documents/2018-symposium/Charlotte_Dungan_AI4K12.pdf), North Carolina School of Science and Mathematics - "What to think about machines that think" (book resource)
 
 * [3-5 Grade Band](https://github.com/touretzkyds/ai4k12/blob/master/documents/2018-symposium/Grades-3-5.pdf) (Brian Stamford) - What can kids in grades 3-5 do?
-* [9-12 Grade Band](https://github.com/touretzkyds/ai4k12/blob/master/documents/2018-symposium/Grades-9-12.pdf) - What can kids in grades 9-12 do?
+* [9-12 Grade Band](https://github.com/touretzkyds/ai4k12/blob/master/documents/2018-symposium/Grades-9-12.pdf) (Diane O'Grady-Cunniff) - What can kids in grades 9-12 do?
