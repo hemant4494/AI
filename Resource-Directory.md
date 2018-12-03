@@ -11,9 +11,6 @@
 * [[Demo: Speech Recognition in Chrome]]
 * [[Demo: TensorFlow Playground]]
 
-## Documentaries
-* [[Documentary: AlphaGo]]
-
 ## Professional Development
 * [[Online Course: Artificial Intelligence Explorations and Their Practical Use in Schools]] (ISTE)
 
@@ -21,3 +18,7 @@
 * [[Software: Calypso for Cozmo]]
 * [[Software: Cognimates]]
 * [[Software: eCraft2Learn]]
+
+## Videos
+* [[Documentary: AlphaGo]]
+* [[Video: How Snapchat's Filters Work]]
