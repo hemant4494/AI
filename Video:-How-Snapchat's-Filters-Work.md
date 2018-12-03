@@ -8,3 +8,5 @@
 * Publisher: Vox
 
 Description: an informative but not uncomfortably technical description of how computers recognize faces based on feature detection, and how these features are used to implement the image transformations behind Snapchat filters. Great use of visuals.
+
+![](https://github.com/touretzkyds/ai4k12/raw/master/images/vox-snapchat.jpg)
