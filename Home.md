@@ -6,9 +6,9 @@ Welcome to the ai4k12 wiki! This interim site is being used to organize the AI f
 
 * "Blue sky talk" at [AAAI-19](https://aaai.org/Conferences/AAAI-19/) (January 27-February 1, 2019, in Honolulu, HI). Here is the paper: [Envisioning AI for K-12: What should every child know about AI?](https://github.com/touretzkyds/ai4k12/raw/master/documents/AAAI_Blue_Sky_2019.pdf)
 
-* "AI for K-12" special session at [SIGCSE-2019](https://sigcse2019.sigcse.org/index.html) (February 27-March 2, 2019, in Minneapolis, MN)
+* "The AI for K-12 Initiative" special session at [SIGCSE 2019](https://sigcse2019.sigcse.org/index.html) (February 27-March 2, 2019, in Minneapolis, MN)
 
-* "AI for K-12" BOF (Birds of a Feather) at [SIGCSE-2019](https://sigcse2019.sigcse.org/index.html)
+* "AI for K-12: Making Room for AI in the K-12 CS Curriculum" BOF (Birds of a Feather) session at [SIGCSE 2019](https://sigcse2019.sigcse.org/index.html)
 
 ### Recent Events
 
