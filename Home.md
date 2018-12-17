@@ -10,6 +10,8 @@ Welcome to the ai4k12 wiki! This interim site is being used to organize the AI f
 
 * "AI for K-12: Making Room for AI in the K-12 CS Curriculum" BOF (Birds of a Feather) session at [SIGCSE 2019](https://sigcse2019.sigcse.org/index.html)
 
+* "K-12 Guidelines for Artificial Intelligence: What Students Should Know", session at [ISTE 2019](https://conference.iste.org/2019/) (June 23-26, 2019, in Philadelpha, PA)
+
 ### Recent Events
 
 * "AI for K-12" symposium, October 20, 2018 in Washington, DC, part of the AAAI Fall Symposium series. Twitter hashtag [#AI4K12](https://twitter.com/search?q=%23AI4K12&src=typd).
