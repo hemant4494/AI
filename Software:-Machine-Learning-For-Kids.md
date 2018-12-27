@@ -6,3 +6,6 @@
 * Creator: Dale Lane, IBM
 
 Description:  introduces kids to machine learning by providing hands-on experiences for training machine learning systems and building things with them in Scratch. Includes roughly two dozen projects students can build. Each project includes written guidance for teachers and a project worksheet for students.
+
+
+![](https://github.com/touretzkyds/ai4k12/raw/master/images/machinelearningforkids.png)
