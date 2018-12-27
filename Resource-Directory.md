@@ -18,6 +18,7 @@
 * [[Software: Calypso for Cozmo]]
 * [[Software: Cognimates]]
 * [[Software: eCraft2Learn]]
+* [[Software: Machine Learning for Kids]]
 
 ## Videos
 * [[Documentary: AlphaGo]]
