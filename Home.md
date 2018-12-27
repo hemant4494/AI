@@ -21,9 +21,9 @@ Welcome to the ai4k12 wiki! This interim site is being used to organize the AI f
 
 ### Resources
 
-Please use [this form](https://docs.google.com/forms/d/e/1FAIpQLSdn9G93qavpHk2r1xKikm4o0ftcRYGPvPCrKZ8UEWnWbGhFAA/viewform) to submit suggestions to our curated directory of AI for K-12 resources.
+[[Resource Directory]]: table of contents.
 
-[[Resource Directory]] Table of Contents
+Please use [this form](https://docs.google.com/forms/d/e/1FAIpQLSdn9G93qavpHk2r1xKikm4o0ftcRYGPvPCrKZ8UEWnWbGhFAA/viewform) to submit suggestions to our curated directory of AI for K-12 resources.
 
 The AI for K-12 guidelines will be modeled after the 2017 CSTA K-12 Computer Science Standards. You can:
 
