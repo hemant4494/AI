@@ -7,8 +7,8 @@
 ### 3-5 Grade Band ###
 * Marlo Barnett, Technology Intervention Specialist, Carver Middle School, Chicago, IL
 * Phillip Eaglin, CEO & STEM Instructor, Changing Expectations, Austin, TX
-* Kelly Powers, Teacher in Residence, Cornell Tech, New York, NY
-* **Brian Stamford** (lead), Allegheny Intermediate Unit, Pittsburgh, PA
+* **Kelly Powers** (lead), Teacher in Residence, Cornell Tech, New York, NY
+* Brian Stamford, Allegheny Intermediate Unit, Pittsburgh, PA
 
 ### 6-8 Grade Band ###
 * Padmaja Bandaru, Computer Science Teacher, Advanced Math And Science Academy Charter School, Marlborough, MA
