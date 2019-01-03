@@ -6,7 +6,7 @@ Welcome to the ai4k12 wiki! This interim site is being used to organize the AI f
 
 * "Blue sky talk" at [AAAI-19](https://aaai.org/Conferences/AAAI-19/) (January 27-February 1, 2019, in Honolulu, HI). Here is the paper: [Envisioning AI for K-12: What should every child know about AI?](https://github.com/touretzkyds/ai4k12/raw/master/documents/AAAI_Blue_Sky_2019.pdf)
 
-* [Tools for Teaching Artificial Intelligence in K-12]( https://www.readyai.org/tools-for-teaching-artificial-intelligence-in-k-12/) workshop, Sunday, January 27, 2019, at the Daniel K. Inouye Elementary School, Wahiawa Hawaii. Sponsored by [ReadyAI](https://ReadyAI.org) and AAAI as an outreach event for AAAI-19. [Registration link](https://goo.gl/forms/vB338hkOfTbqvg2Z2).
+* [Tools for Teaching Artificial Intelligence in K-12]( https://www.readyai.org/tools-for-teaching-artificial-intelligence-in-k-12/) workshop, Sunday, January 27, 2019, at the Daniel K. Inouye Elementary School, Wahiawa Hawaii. Sponsored by [ReadyAI](https://ReadyAI.org) and AAAI as an outreach event for AAAI-19. [Registration link](https://goo.gl/forms/vB338hkOfTbqvg2Z2). Informational [flyer](https://github.com/touretzkyds/ai4k12/raw/master/documents/Tools4AI-Flyer20190102.pdf).
 
 * "The AI for K-12 Initiative" special session at [SIGCSE 2019](https://sigcse2019.sigcse.org/index.html) (February 27-March 2, 2019, in Minneapolis, MN)
 
