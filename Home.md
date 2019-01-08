@@ -4,7 +4,9 @@ Welcome to the ai4k12 wiki! This interim site is being used to organize the AI f
 
 ### Upcoming Events
 
-* "Blue sky talk" at [AAAI-19](https://aaai.org/Conferences/AAAI-19/) (January 27-February 1, 2019, in Honolulu, HI). Here is the paper: [Envisioning AI for K-12: What should every child know about AI?](https://github.com/touretzkyds/ai4k12/raw/master/documents/AAAI_Blue_Sky_2019.pdf)
+* Panel at [EAAI-19](https://pages.mtu.edu/~lebrown/eaai/) in Honolulu: "The AI4K12 Initiative and How To Contribute To It". Dave Touretzky, Christina Gardner-McCune, and Cynthia Breazeal. Tuesday, January 29, 11:35 AM - 12:25 PM.
+
+* "Blue sky talk" at [AAAI-19](https://aaai.org/Conferences/AAAI-19/) (January 27-February 1, 2019, in Honolulu, HI). The talk is Wednesday afternoon, Jan. 30. Here is the paper: [Envisioning AI for K-12: What should every child know about AI?](https://github.com/touretzkyds/ai4k12/raw/master/documents/AAAI_Blue_Sky_2019.pdf)
 
 * [Tools for Teaching Artificial Intelligence in K-12]( https://www.readyai.org/tools-for-teaching-artificial-intelligence-in-k-12/) workshop, Sunday, January 27, 2019, at the Daniel K. Inouye Elementary School, Wahiawa Hawaii. Sponsored by [ReadyAI](https://ReadyAI.org) and AAAI as an outreach event for AAAI-19. [Registration link](https://goo.gl/forms/vB338hkOfTbqvg2Z2). Informational [flyer](https://github.com/touretzkyds/ai4k12/raw/master/documents/Tools4AI-Flyer20190102.pdf).
 
