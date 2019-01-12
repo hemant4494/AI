@@ -1,6 +1,7 @@
 ## Books
 * [[Book: AI Super-Powers: China, Silicon Valley, and The New World Order]]
 * [[Book: Artificial Intelligence: A Modern Approach]]
+* [[Book: How Smart Machines Think]]
 * [[Book: What to Think About Machines That Think]]
 * [[Book Series: The World of Artificial Intelligence 4D]]
 
