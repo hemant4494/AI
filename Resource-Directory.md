@@ -1,5 +1,6 @@
 ## Books
 * [[Book: AI Super-Powers: China, Silicon Valley, and The New World Order]]
+* [[Book: Architects of Intelligence: The truth about AI from the people building it]]
 * [[Book: Artificial Intelligence: A Modern Approach]]
 * [[Book: How Smart Machines Think]]
 * [[Book: What to Think About Machines That Think]]
