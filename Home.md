@@ -1,3 +1,5 @@
+![](https://github.com/touretzkyds/ai4k12/raw/master/images/AI4K12_Transparent_BG.png)
+
 # Direct link: [AI4K12.org](http://AI4K12.org)
 
 Welcome to the ai4k12 wiki! This interim site is being used to organize the AI for K-12 initiative jointly sponsored by [AAAI](https://AAAI.org) and [CSTA](https://csteachers.org). This page will help us get started on the dialog that will eventually result in (1) national guidelines for AI education for K-12, and (2) an online, curated resource directory to facilitate AI instruction.
