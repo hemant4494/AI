@@ -40,7 +40,7 @@ To contact the working group, email Dave Touretzky at dst (at) cs.cmu.edu
 ### Advisory Group ###
 * Miles Berry, Roehampton University, UK
 * Amy Eguchi, Bloomfield College, Bloomfield, NJ
-* Laura Hintzman Schmidt, Advancing AI Wisconsin
+* Laura Hintzman Schmidt, MSOE University, Milwaukee, WI
 * Irene Lee, MIT, Cambridge, MA
 * Dahua Lin, Chinese University of Hong Kong, China
 * Joseph South, ISTE, Portland, OR
