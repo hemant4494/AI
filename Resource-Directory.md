@@ -26,3 +26,4 @@
 ## Videos
 * [[Documentary: AlphaGo]]
 * [[Video: How Snapchat's Filters Work]]
+* [[Video: Humans Need Not Apply]]
