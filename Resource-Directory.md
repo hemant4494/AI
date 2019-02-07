@@ -3,6 +3,7 @@
 * [[Book: Architects of Intelligence: The truth about AI from the people building it]]
 * [[Book: Artificial Intelligence: A Modern Approach]]
 * [[Book: How Smart Machines Think]]
+* [[Book: Teaching AI: Exploring New Frontiers for Learning]]
 * [[Book: What to Think About Machines That Think]]
 * [[Book Series: The World of Artificial Intelligence 4D]]
 
