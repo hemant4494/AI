@@ -7,7 +7,7 @@
 * Level: high school and up
 * Watch online: (YouTube)[https://www.youtube.com/watch?v=OcycT1Jwsns]
 
-Description: explains how convolutional neural networks are used in computer vision.
+Description: explains how convolutional neural networks and recurrent neural networks are used in computer vision.
 
 
 ![](https://github.com/touretzkyds/ai4k12/raw/master/images/How-Computer-Vision-Works-video.png)
