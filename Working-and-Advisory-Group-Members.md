@@ -12,7 +12,7 @@
 
 ### 6-8 Grade Band ###
 * Padmaja Bandaru, Computer Science Teacher, Advanced Math And Science Academy Charter School, Marlborough, MA
-* Vincent Gregorio, Computer Science/Robotics Teacher, King Science and Technology Magnet, Omaha, NE
+* Sheena Vaidyanathan, Computer Science Teacher, Los Altos School District, Los Altos, CA
 * Juan Palomares, Technology Coordinator/ CS teacher/ Spanish Teacher, Berendo Middle School, Los Angeles, CA
 * **Minsoo Park** (lead), Director of Teaching and Learning, Countryside School, Savoy, IL
 
