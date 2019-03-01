@@ -7,7 +7,7 @@ Welcome to the ai4k12 wiki! This interim site is being used to organize the AI f
 ### Upcoming Events
 
 
-* "The AI for K-12 Initiative" special session at [SIGCSE 2019](https://sigcse2019.sigcse.org/index.html) on Thursday, February 28, 2019, 3:45-5:00 pm in Minneapolis, MN
+* "The AI for K-12 Initiative" special session ([slides](https://github.com/touretzkyds/ai4k12/raw/master/documents/2019-SIGCSE-special-session.pdf)) at [SIGCSE 2019](https://sigcse2019.sigcse.org/index.html) on Thursday, February 28, 2019, 3:45-5:00 pm in Minneapolis, MN.
 
 * "AI for K-12: Making Room for AI in the K-12 CS Curriculum" BOF (Birds of a Feather) session at [SIGCSE 2019](https://sigcse2019.sigcse.org/index.html), on Thursday, February 28, 2019, 5:30-6:20 pm.
 
