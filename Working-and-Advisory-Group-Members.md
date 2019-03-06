@@ -12,9 +12,10 @@
 
 ### 6-8 Grade Band ###
 * **Padmaja Bandaru** (lead), Computer Science Teacher, Advanced Math And Science Academy Charter School, Marlborough, MA
-* Sheena Vaidyanathan, Computer Science Teacher, Los Altos School District, Los Altos, CA
+* Josh Caldwell, Code.org, Seattle, WA
 * Juan Palomares, Technology Coordinator/ CS teacher/ Spanish Teacher, Berendo Middle School, Los Angeles, CA
 * Minsoo Park, Director of Teaching and Learning, Countryside School, Savoy, IL
+* Sheena Vaidyanathan, Computer Science Teacher, Los Altos School District, Los Altos, CA
 
 ### 9-12 Grade Band ###
 * Jared Amalong, Computer Science Coordinator, Sacramento County Office of Education, Sacramento, CA
