@@ -2,22 +2,21 @@
 
 # Direct link: [AI4K12.org](http://AI4K12.org)
 
-Welcome to the ai4k12 wiki! This interim site is being used to organize the AI for K-12 initiative jointly sponsored by [AAAI](https://AAAI.org) and [CSTA](https://csteachers.org). This page will help us get started on the dialog that will eventually result in (1) national guidelines for AI education for K-12, and (2) an online, curated [[Resource Directory]] to facilitate AI instruction. To join the AI for K-12 mailing list, send mail to [ai4k12@aaai.org](mailto:ai4k12@aaai.org).
+Welcome to the ai4k12 wiki! This interim site is being used to organize the AI for K-12 initiative jointly sponsored by [AAAI](https://AAAI.org) and [CSTA](https://csteachers.org). This page will help us get started on the dialog that will eventually result in (1) national guidelines for AI education for K-12, and (2) an online, curated [[Resource Directory]] to facilitate AI instruction. To join the AI for K-12 mailing list, send mail to [ai4k12@aaai.org](mailto:ai4k12@aaai.org). To read about the initiative, see these ([slides](https://github.com/touretzkyds/ai4k12/raw/master/documents/2019-SIGCSE-special-session.pdf)).
 
 ### Upcoming Events
 
+* "K-12 Guidelines for Artificial Intelligence: What Students Should Know", session at [ISTE 2019](https://conference.iste.org/2019/) (June 23-26, 2019, in Philadelpha, PA)
+
+* "K-12 AI Playground", a workshop at [CSTA 2019](https://www.csteachers.org/page/2019conference), July 7-10, 2019 in Phoenix, AZ.
+
+* "How to teach AI across K-12", a special session at  [CSTA 2019](https://www.csteachers.org/page/2019conference), July 7-10, 2019 in Phoenix, AZ.
+
+### Recent Events
 
 * "The AI for K-12 Initiative" special session ([slides](https://github.com/touretzkyds/ai4k12/raw/master/documents/2019-SIGCSE-special-session.pdf)) at [SIGCSE 2019](https://sigcse2019.sigcse.org/index.html) on Thursday, February 28, 2019, 3:45-5:00 pm in Minneapolis, MN.
 
 * "AI for K-12: Making Room for AI in the K-12 CS Curriculum" BOF (Birds of a Feather) session at [SIGCSE 2019](https://sigcse2019.sigcse.org/index.html), on Thursday, February 28, 2019, 5:30-6:20 pm.
-
-* "K-12 Guidelines for Artificial Intelligence: What Students Should Know", session at [ISTE 2019](https://conference.iste.org/2019/) (June 23-26, 2019, in Philadelpha, PA)
-
-* "K-12 AI Playground", a workshop at [CSTA 2019](https://www.csteachers.org/page/2019conference), July, 2019 in Phoenix, AZ.
-
-* "How to teach AI across K-12", a special session at  [CSTA 2019](https://www.csteachers.org/page/2019conference), July, 2019 in Phoenix, AZ.
-
-### Recent Events
 
 * [Tools for Teaching Artificial Intelligence in K-12]( https://www.readyai.org/tools-for-teaching-artificial-intelligence-in-k-12/) workshop, Sunday, January 27, 2019, at the Daniel K. Inouye Elementary School, Wahiawa Hawaii. Sponsored by [ReadyAI](https://ReadyAI.org) and AAAI as an outreach event for AAAI-19. [Registration link](https://goo.gl/forms/vB338hkOfTbqvg2Z2). Informational [flyer](https://github.com/touretzkyds/ai4k12/raw/master/documents/Tools4AI-Flyer20190102.pdf).
 
