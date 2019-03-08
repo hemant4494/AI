@@ -54,6 +54,13 @@ The AI for K-12 guidelines will be modeled after the 2017 CSTA K-12 Computer Sci
 * [AI for K-12 Working Group Membership Commitment](https://github.com/touretzkyds/ai4k12/raw/master/documents/AI4K12-Membership-Commitment.pdf): what we expect from working group members.
 
 ### Announcements
+* 3/5/2019: NSF funding awarded for the AI for K-12 initiative.
+
 * 7/9/2018: 120 people attended the "AI for K-12" breakfast at [CSTA 2018](https://www.csteachers.org/general/custom.asp?page=2018Conference).
 
 * 5/15/2018: AAAI [press release](https://aaai.org/Pressroom/Releases/release-18-0515.php) announcing the AI for K-12 initiative.
+
+
+***
+
+This web site is based upon work supported by the National Science Foundation under Grant No. DRL-1846073. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the National Science Foundation.
