@@ -18,7 +18,7 @@ Welcome to the ai4k12 wiki! This interim site is being used to organize the AI f
 
 * "AI for K-12: Making Room for AI in the K-12 CS Curriculum" BOF (Birds of a Feather) session at [SIGCSE 2019](https://sigcse2019.sigcse.org/index.html), on Thursday, February 28, 2019, 5:30-6:20 pm.
 
-* [Tools for Teaching Artificial Intelligence in K-12]( https://www.readyai.org/tools-for-teaching-artificial-intelligence-in-k-12/) workshop, Sunday, January 27, 2019, at the Daniel K. Inouye Elementary School, Wahiawa Hawaii. Sponsored by [ReadyAI](https://ReadyAI.org) and AAAI as an outreach event for AAAI-19. [Registration link](https://goo.gl/forms/vB338hkOfTbqvg2Z2). Informational [flyer](https://github.com/touretzkyds/ai4k12/raw/master/documents/Tools4AI-Flyer20190102.pdf).
+* [Tools for Teaching Artificial Intelligence in K-12]( https://www.readyai.org/tools-for-teaching-artificial-intelligence-in-k-12/) workshop, Sunday, January 27, 2019, at the Daniel K. Inouye Elementary School, Wahiawa Hawaii. Sponsored by [ReadyAI](https://ReadyAI.org) and AAAI as an outreach event for AAAI-19. [Short video](https://www.youtube.com/watch?v=9qJj34B8uJo&feature=youtu.be). Informational [flyer](https://github.com/touretzkyds/ai4k12/raw/master/documents/Tools4AI-Flyer20190102.pdf).
 
 * Panel at [EAAI-19](https://pages.mtu.edu/~lebrown/eaai/) in Honolulu: "The AI4K12 Initiative and How To Contribute To It". Dave Touretzky, Christina Gardner-McCune, and Cynthia Breazeal. Tuesday, January 29, 11:35 AM - 12:25 PM.
 
