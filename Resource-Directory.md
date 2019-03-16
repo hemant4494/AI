@@ -1,4 +1,4 @@
-## Books
+## Books and Reports
 * [[Book: AI Super-Powers: China, Silicon Valley, and The New World Order]]
 * [[Book: Architects of Intelligence: The truth about AI from the people building it]]
 * [[Book: Artificial Intelligence: A Modern Approach]]
@@ -6,6 +6,7 @@
 * [[Book: Teaching AI: Exploring New Frontiers for Learning]]
 * [[Book: What to Think About Machines That Think]]
 * [[Book Series: The World of Artificial Intelligence 4D]]
+* [[Report: Automation and Artificial Intelligence: How machines are affecting people and places]]
 
 ## Competitions
 * [[Competition: Halite]]
