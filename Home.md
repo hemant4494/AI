@@ -6,7 +6,9 @@ Welcome to the ai4k12 wiki! This interim site is being used to organize the AI f
 
 ### Upcoming Events
 
-* "K-12 Guidelines for Artificial Intelligence: What Students Should Know", session at [ISTE 2019](https://conference.iste.org/2019/) (June 23-26, 2019, in Philadelpha, PA)
+* "Preparing ALL Students for an Era of Continuous Digital Disruption", [session](https://ww2.eventrebels.com/er/CFP/AgendaAtAGlance.jsp?CFPID=870&ScreenID=590&DisplayPresenterID=157434&DisplayProgramItemID=150444&DisplayProgramSessionID=51639&Token=P26UWQWSE&PreviousScreens=589) at CoSN Envision 2030: Leadership for Learning. (April 1-4 in Portland, OR.) Includes discussion of the AI4K12 Initiative.
+
+* "K-12 Guidelines for Artificial Intelligence: What Students Should Know", session at [ISTE 2019](https://conference.iste.org/2019/) (June 23-26, 2019, in Philadelpha, PA) Includes discussion of the AI4K12 Initiative.
 
 * "K-12 AI Playground", a workshop at [CSTA 2019](https://www.csteachers.org/page/2019conference), July 7-10, 2019 in Phoenix, AZ.
 
