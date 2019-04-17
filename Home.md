@@ -6,8 +6,6 @@ Welcome to the ai4k12 wiki! This interim site is being used to organize the AI f
 
 ### Upcoming Events
 
-* "An AI Curriculum in the K12 Classroom -- Preparing Students for the Future", panel discussion at the [10th Annual ASU+GSV Summit](https://www.asugsvsummit.com) (April 8-10, 2019) in San Diego, CA.
-
 * "K-12 Guidelines for Artificial Intelligence: What Students Should Know", session at [ISTE 2019](https://conference.iste.org/2019/) (June 23-26, 2019, in Philadelpha, PA) Includes discussion of the AI4K12 Initiative.
 
 * "K-12 AI Playground", a workshop at [CSTA 2019](https://www.csteachers.org/page/2019conference), July 7-10, 2019 in Phoenix, AZ.
@@ -15,6 +13,8 @@ Welcome to the ai4k12 wiki! This interim site is being used to organize the AI f
 * "How to teach AI across K-12", a special session at  [CSTA 2019](https://www.csteachers.org/page/2019conference), July 7-10, 2019 in Phoenix, AZ.
 
 ### Recent Events
+
+* "An AI Curriculum in the K12 Classroom -- Preparing Students for the Future", panel discussion at the [10th Annual ASU+GSV Summit](https://www.asugsvsummit.com) (April 8-10, 2019) in San Diego, CA.
 
 * "Preparing ALL Students for an Era of Continuous Digital Disruption", [session](https://ww2.eventrebels.com/er/CFP/AgendaAtAGlance.jsp?CFPID=870&ScreenID=590&DisplayPresenterID=157434&DisplayProgramItemID=150444&DisplayProgramSessionID=51639&Token=P26UWQWSE&PreviousScreens=589) at CoSN Envision 2030: Leadership for Learning. (April 1-4 in Portland, OR.) Includes discussion of the AI4K12 Initiative.
 
@@ -33,6 +33,8 @@ Welcome to the ai4k12 wiki! This interim site is being used to organize the AI f
 ### Resources
 
 [[Resource Directory]]: table of contents.
+
+**Five Big Ideas in AI**: a [poster](https://github.com/touretzkyds/ai4k12/blob/master/documents/AI4K12_Five_Big_Ideas_Poster.pdf?raw=true) you can print, and an illustrative [graphic](https://github.com/touretzkyds/ai4k12/blob/master/documents/AI4K12_Five_Big_Ideas_Graphic.png?raw=true).
 
 Please use [this form](https://docs.google.com/forms/d/e/1FAIpQLSdn9G93qavpHk2r1xKikm4o0ftcRYGPvPCrKZ8UEWnWbGhFAA/viewform) to submit suggestions to our curated directory of AI for K-12 resources.
 
@@ -58,6 +60,8 @@ The AI for K-12 guidelines will be modeled after the 2017 CSTA K-12 Computer Sci
 * [AI for K-12 Working Group Membership Commitment](https://github.com/touretzkyds/ai4k12/raw/master/documents/AI4K12-Membership-Commitment.pdf): what we expect from working group members.
 
 ### Announcements
+* 4/16/2019: "Five Big Ideas in AI" [poster](https://github.com/touretzkyds/ai4k12/blob/master/documents/AI4K12_Five_Big_Ideas_Poster.pdf?raw=true) and  [graphic](https://github.com/touretzkyds/ai4k12/blob/master/documents/AI4K12_Five_Big_Ideas_Graphic.png?raw=true) released.
+
 * 3/5/2019: NSF funding awarded for the AI for K-12 initiative.
 
 * 7/9/2018: 120 people attended the "AI for K-12" breakfast at [CSTA 2018](https://www.csteachers.org/general/custom.asp?page=2018Conference).
