@@ -1,3 +1,5 @@
-Materials produced by the AI4K12 Initiative, including the "Five Big Ideas in AI" poster and infographic, are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+Materials produced by the AI4K12 Initiative, including the "Five Big Ideas in AI" poster and infographic, are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. Other licensing terms are possible by special arrangement.
 
-To view a copy of this license, visit [http://creativecommons.org/licenses/by-nc-sa/4.0/](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+To view a copy of the Creative Commons license, visit [http://creativecommons.org/licenses/by-nc-sa/4.0/](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+To discuss alternative licensing terms, please contact the AI4K12 chair.
