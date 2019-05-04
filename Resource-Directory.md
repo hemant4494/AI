@@ -16,8 +16,11 @@
 * [[Demo: Speech Recognition in Chrome]]
 * [[Demo: TensorFlow Playground]]
 
-## Professional Development
+## Online Courses for Professional Development
 * [[Online Course: Artificial Intelligence Explorations and Their Practical Use in Schools]] (ISTE)
+
+## Online Courses for K-12 Students
+* [[Online Course: AI+ME]] (ReadyAI)
 
 ## Software Packages
 * [[Software: Calypso for Cozmo]]
