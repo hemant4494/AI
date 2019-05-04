@@ -16,7 +16,7 @@
 * [[Demo: Speech Recognition in Chrome]]
 * [[Demo: TensorFlow Playground]]
 
-## Online Courses for Professional Development
+## Online Professional Development Courses
 * [[Online Course: Artificial Intelligence Explorations and Their Practical Use in Schools]] (ISTE)
 
 ## Online Courses for K-12 Students
