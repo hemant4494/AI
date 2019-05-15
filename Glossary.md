@@ -2,7 +2,7 @@
 
 * **Artificial intelligence (AI):** a body of techniques that allow computers to do things that, when humans do them, are considered evidence of intelligence.
 
-* **Machine learning:** A subfield of Artificial Intelligence focusing on techniques to improve a computer's performance on tasks through exposure to "training data". Three important types of machine learning are _supervised learning_, _unsupervised learning_, and _reinforcement learning_.
+* **Machine learning:** A subfield of Artificial Intelligence focusing on techniques that improve a computer's performance on tasks by analyzing _training data_. Three important types of machine learning are _supervised learning_, _unsupervised learning_, and _reinforcement learning_. Modern AI applications, such as speech recognition systems, are often constructed using machine learning techniques applied to huge training sets.
 
 * **Natural language:** the language people use to communicate with each other in everyday life. This is distinct from computer languages used for programming or for giving commands to a computer. Computer languages have a rigid vocabulary and syntax, while natural language is fluid and ambiguous, and includes phenomena such as imagery, sarcasm, and alliteration. Natural language understanding is difficult for computers.
 
