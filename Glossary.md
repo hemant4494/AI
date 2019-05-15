@@ -15,3 +15,8 @@
 * **Turing test:** a thought experiment proposed by the mathematician Alan Turing to justify the claim that a machine could be said to possess "intelligence". A human interrogator engages in dialog via teletype machine with both another human being and a computer posing as a human being. Turing proposed that if the interrogator cannot reliably distinguish the machine from the human, the machine can be said to be intelligent. [(Wikipedia article)](https://en.wikipedia.org/wiki/Turing_test)
 
 * **Unsupervised learning:** a machine learning technique that finds structure in unlabeled data. One example is _clustering_, where the computer examines a collection of examples and groups them into categories based on perceived similarity. In a sense, the computer "discovers" the categories; they are not given to it. (If each example came labeled with its correct category, this would be _supervised learning_.)
+
+
+***
+
+To be added: bias, fairness. classification, reasoning, representation, transparency, machine translation, feature vector, logic, search, neural network, backpropagation, chatbot
