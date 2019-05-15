@@ -6,7 +6,7 @@
 
 * **Natural language:** the language people use to communicate with each other in everyday life. This is distinct from computer languages used for programming or for giving commands to a computer. Computer languages have a rigid vocabulary and syntax, while natural language is fluid and ambiguous, and includes phenomena such as imagery, sarcasm, and alliteration. Natural language understanding is difficult for computers.
 
-* **Perception:** The extraction of meaning from sensory signals.
+* **Perception:** The extraction of meaning from sensory signals. A microphone senses sound and converts it to an electrical signal. Understanding the sound, e.g., recognizing the words being spoken or the music being played, constitutes perception.
 
 * **Reinforcement learning:** a type of machine learning where the training data is labeled with a "reward" signal telling the computer how good its outputs have been. This differs from _supervised learning_ where each training example's label tells the computer exactly what output it should have produced. Reinforcement learning is typically applied to sequential tasks where the reward signal comes only at the end. An example is game playing, where the reward signal comes after the final move and tells the computer whether it won or lost the game. Using reinforcement learning, computers have become experts in games such as backgammon by playing against themselves for thousands of games.
 
