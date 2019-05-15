@@ -1,6 +1,6 @@
 * **Agent:** any artificial intelligence program that interacts with the world via a _sense-deliberate-act_ cycle. Agents may be physical devices such as robots, or exist purely as software, such as automated stock-trading programs.
 
-* **Artificial intelligence:** a body of techniques that allow computers to do things that, when humans do them, are considered evidence of intelligence.
+* **Artificial intelligence (AI):** a body of techniques that allow computers to do things that, when humans do them, are considered evidence of intelligence.
 
 * **Machine learning:** A subfield of Artificial Intelligence focusing on techniques to improve a computer's performance on tasks through exposure to "training data". Three important types of machine learning are _supervised learning_, _unsupervised learning_, and _reinforcement learning_.
 
