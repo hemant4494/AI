@@ -2,8 +2,16 @@
 
 * **Artificial intelligence:** a body of techniques that allow computers to do things that, when humans do them, are considered evidence of intelligence.
 
-* **Machine learning:** A subfield of Artificial Intelligence focusing on techniques to improve a computer's performance on a task through exposure to "training data".
+* **Machine learning:** A subfield of Artificial Intelligence focusing on techniques to improve a computer's performance on tasks through exposure to "training data". Three important types of machine learning are _supervised learning_, _unsupervised learning_, and _reinforcement learning_.
+
+* **Natural language:** the language people use to communicate with each other in everyday life. This is distinct from computer languages used for programming or for giving commands to a computer. Computer languages have a rigid vocabulary and syntax, while natural language is fluid and ambiguous, and includes phenomena such as imagery, sarcasm, and alliteration. Natural language understanding is difficult for computers.
 
 * **Perception:** The extraction of meaning from sensory signals.
 
-* **Turing test:** a thought experiment proposed by the mathematician Alan Turing to justify the claim that a machine could possess "intelligence". A human interrogator engages in dialog via teletype machine with both another human being and a computer posing as a human being. If the interrogator cannot reliably distinguish the machine from the human, the machine can be said to be intelligent.
+* **Reinforcement learning:** a type of machine learning where the training data is labeled with a "reward" signal telling the computer how good its outputs have been. This differs from _supervised learning_ where each training example's label tells the computer exactly what output it should have produced. Reinforcement learning is typically applied to sequential tasks where the reward signal comes only at the end. An example is game playing, where the reward signal comes after the final move and tells the computer whether it won or lost the game. Using reinforcement learning, computers have become experts in games such as backgammon by playing against themselves for thousands of games.
+
+* **Supervised learning:** a type of machine learning where the training data consists of input examples plus the desired output for each input. The desired outputs are called "labels", and the data is called "labeled data". For example, the training data could be pictures, some of which contain cats, and the labels could be 1 for "cat" or 0 for "no cat". The learning algorithm goes through the training set repeatedly, and slowly adjusts the model's parameters to make it more likely to produce the correct output for each input.
+
+* **Turing test:** a thought experiment proposed by the mathematician Alan Turing to justify the claim that a machine could possess "intelligence". A human evaluator engages in dialog via teletype machine with both another human being and a computer posing as a human being. If the evaluator cannot reliably distinguish the machine from the human, the machine can be said to be intelligent. [Wikipedia](https://en.wikipedia.org/wiki/Turing_test)
+
+* **Unsupervised learning:** a machine learning technique that finds structure in unlabeled data. One example is _clustering_, where the computer examines a collection of examples and groups them into categories based on perceived similarity. In a sense, the computer "discovers" the categories; they are not given to it. (If each example came labeled with its correct category, this would be _supervised learning_.)
