@@ -1,4 +1,4 @@
-* **Agent:** any artificial intelligence entity that interacts with the world via a _sense-deliberate-act_ cycle. Agents may be physical devices such as robots, or exist purely as software, such as automated stock-trading programs.
+* **Agent:** any artificial intelligence program that interacts with the world via a _sense-deliberate-act_ cycle. Agents may be physical devices such as robots, or exist purely as software, such as automated stock-trading programs.
 
 * **Artificial intelligence:** a body of techniques that allow computers to do things that, when humans do them, are considered evidence of intelligence.
 
