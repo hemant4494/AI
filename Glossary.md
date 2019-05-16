@@ -1,10 +1,10 @@
-* **Agent:** any artificial intelligence program that interacts with the world via a _sense-deliberate-act_ cycle. Agents may be physical devices such as robots, or exist purely as software, such as automated stock-trading programs.
+* **Agent:** any artificial intelligence program that interacts with the world via a _sense-deliberate-act_ cycle (sometimes called "sense-think-act"). Agents may be physical devices such as robots, or exist purely as software, such as automated stock-trading programs.
 
 * **Artificial intelligence (AI):** a body of techniques that allow computers to do things that, when humans do them, are considered evidence of intelligence.
 
 * **Machine learning:** A subfield of Artificial Intelligence focusing on techniques that improve a computer's performance on tasks by analyzing _training data_. Three important types of machine learning are _supervised learning_, _unsupervised learning_, and _reinforcement learning_. Modern AI applications, such as speech recognition systems, are often constructed using machine learning techniques applied to huge training sets.
 
-* **Natural language:** the language people use to communicate with each other in everyday life. This is distinct from computer languages used for programming or for giving commands to a computer. Computer languages have a rigid vocabulary and syntax, while natural language is fluid and ambiguous, and includes phenomena such as imagery, sarcasm, and alliteration. Natural language understanding is difficult for computers.
+* **Natural language:** the language people use to communicate with each other in everyday life. This is distinct from computer languages used for programming or for giving commands to a computer. Computer languages have a rigid vocabulary and syntax, while natural language is fluid and ambiguous, and includes phenomena such as imagery, humor, sarcasm, and alliteration. Natural language understanding is difficult for computers.
 
 * **Perception:** The extraction of meaning from sensory signals. A microphone senses sound and converts it to an electrical signal. Understanding the sound, e.g., recognizing the words being spoken or the music being played, constitutes perception.
 
