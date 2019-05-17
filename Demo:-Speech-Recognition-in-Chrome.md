@@ -14,3 +14,5 @@ Some things to demonstrate:
 * Longer utterances usually work better than one or two word utterances.
 * Grammatical utterances are recognized much more easily than random strings of words.
 * Careful enunciation improves the recognition rate.
+
+Also see this Google demo page: [https://www.google.com/intl/en/chrome/demos/speech.html](https://www.google.com/intl/en/chrome/demos/speech.html)
