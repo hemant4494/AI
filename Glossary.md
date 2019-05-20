@@ -2,6 +2,8 @@
 
 * **Artificial intelligence (AI):** a body of techniques that allow computers to do things that, when humans do them, are considered evidence of intelligence.
 
+* **Backpropagation:** a supervised learning algorithm for training neural networks. For each training example, the network's actual output is compared with the desired output; the difference constitutes an error signal. This signal is propagated backwards from the output layer to earlier layers and used to adjust their weights so as to move the actual output slightly closer to the desired output.
+
 * **Chatbot:** a conversational agent that communicates with humans via a text or voice interface. The term is derived from "chatter" + "robot". Chatbots are a promising technology for online customer service applications where they help people find information about products or services. The simplest chatbots just search for keywords and return scripted replies, but more sophisticated chatbots may fall in the category of intelligent assistants.
 
 * **Classifier:** an algorithm that examines the features of an input pattern and assigns that input to a category (or "class"). Classifiers have many practical applications, such as spam filtering (using the classes "spam" and "not spam"), or sorting loan applications, where the classes might be "low", "medium", or "high" risk. Classifiers can be programmed by hand, but it is more common to train them using machine learning techniques and examples of each class.
@@ -25,4 +27,4 @@
 
 ***
 
-To be added: bias, fairness. classification, reasoning, representation, transparency, machine translation, feature vector, logic, search, neural network, backpropagation, chatbot
+To be added: bias, fairness. classification, reasoning, representation, transparency, machine translation, feature vector, logic, search.
