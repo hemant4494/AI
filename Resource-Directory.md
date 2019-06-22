@@ -21,6 +21,7 @@
 
 ## Online Courses for K-12 Students
 * [[Online Course: AI and ME]] (ReadyAI)
+* [[Online Course: AI4All Open Learning]] (AI4All)
 * [[Online Course: Elements of AI]] (Reaktor + University of Helsinki)
 
 ## Software Packages
