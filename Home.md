@@ -8,7 +8,7 @@ Welcome to the ai4k12 wiki! This interim site is being used to organize the AI f
 
 * "K-12 AI Playground", a workshop at [CSTA 2019](https://www.csteachers.org/page/2019conference) in Phoenix, AZ, on Monday, July 8, 2019, from 1:00 pm to 4:00 pm.
 
-* "How to teach AI across K-12", a special session at  [CSTA 2019](https://www.csteachers.org/page/2019conference), Tuesday July 9, 2019 from 10:00 am to 11:00 pm, in Phoenix, AZ.
+* "How to teach AI across K-12", a special session at  [CSTA 2019](https://www.csteachers.org/page/2019conference), Tuesday July 9, 2019 from 10:00 am to 11:00 am, in Phoenix, AZ.
 
 ### Recent Events
 
