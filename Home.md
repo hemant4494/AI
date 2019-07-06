@@ -10,6 +10,8 @@ Welcome to the ai4k12 wiki! This interim site is being used to organize the AI f
 
 * "How to teach AI across K-12", a special session at  [CSTA 2019](https://www.csteachers.org/page/2019conference), Tuesday July 9, 2019 from 10:00 am to 11:00 am, in Phoenix, AZ.
 
+* "Teaching AI in K-12" symposium, November 8-9, 2019, in Arlington, VA. Part of the [AAAI 2019 Fall Symposium Series](https://aaai.org/Symposia/Fall/fss19.php).
+
 ### Recent Events
 
 * "K-12 Guidelines for Artificial Intelligence: What Students Should Know", session at [ISTE 2019](https://conference.iste.org/2019/) (June 23-26, 2019, in Philadelpha, PA) Includes discussion of the AI4K12 Initiative.
