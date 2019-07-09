@@ -12,6 +12,9 @@
 * [[Competition: Halite]]
 * [[Competition: WAICY]] (World Artificial Intelligence Competition for Youth)
 
+## Curriculum Materials
+* [[Curriculum: ECS Alternate Curriculum Unit on Artificial Intelligence]]
+
 ## Demos
 * [[Demo: Speech Recognition in Chrome]]
 * [[Demo: TensorFlow Playground]]
