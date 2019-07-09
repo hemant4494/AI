@@ -36,5 +36,5 @@
 * [[Video: How Computer Vision Works]]
 * [[Video: How Snapchat's Filters Work]]
 * [[Video: Humans Need Not Apply]]
-* [[Video: The Power and Limits of AI]]
+* [[Video: The Power and Limits of Artificial Intelligence]]
 * [[Video: The Rise of AI]]
