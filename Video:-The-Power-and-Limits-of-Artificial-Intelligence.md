@@ -8,6 +8,6 @@
 * Level: Middle school and up
 * Watch online: [https://www.wired.com/story/power-limits-artificial-intelligence/](https://www.wired.com/story/power-limits-artificial-intelligence)
 
-An intelligent introduction to AI for the layman. At 41 minutes it has enough time to go into some depth, but never gets overly technical. Topics covered include self-driving cars, machine learning and neural networks, and applications of AI in areas such as medical diagnosis.
+An intelligent introduction to AI for the layman. At 41 minutes it has enough time to go into some depth, but never gets overly technical. Topics covered include self-driving cars, machine learning and neural networks, and applications of AI in areas such as medical diagnosis. In addition to the video itself, the accompanying web page, cited above, contains many useful links on AI topics.
 
 ![](https://github.com/touretzkyds/ai4k12/raw/master/images/WIRED_Guide_to_AI.jpg)
