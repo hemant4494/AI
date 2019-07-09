@@ -6,3 +6,4 @@
 
 [Exploring Computer Science](http://www.exploringcs.org/) is a year-long, research-based, high school intro-level computer science curriculum and teacher professional development program that focuses on broadening participation in computing. The aim of this twenty week alternate curriculum unit is to demystify the topic of AI, with students gaining an understanding of terminology such as machine learning and deep learning.
 
+![](https://github.com/touretzkyds/ai4k12/raw/master/images/ECS_AI_Curriculum_Unit.png)
