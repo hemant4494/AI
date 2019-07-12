@@ -14,7 +14,7 @@ Welcome to the ai4k12 wiki! This interim site is being used to organize the AI f
 
 ### Recent Events
 
-* "K-12 Guidelines for Artificial Intelligence: What Students Should Know", session at [ISTE 2019](https://conference.iste.org/2019/) (June 23-26, 2019, in Philadelpha, PA) Includes discussion of the AI4K12 Initiative. [(slides)]([slides](https://github.com/touretzkyds/ai4k12/raw/master/documents/ISTE_2019_Presentation_website_final.pdf)
+* "K-12 Guidelines for Artificial Intelligence: What Students Should Know", session at [ISTE 2019](https://conference.iste.org/2019/) (June 23-26, 2019, in Philadelpha, PA) Includes discussion of the AI4K12 Initiative. [(slides)](https://github.com/touretzkyds/ai4k12/raw/master/documents/ISTE_2019_Presentation_website_final.pdf)
 
 * "Incorporating AI in K-12 CS", webinar presented by CS For All, May 30, 2019, at 7:30 pm Eastern time. [(link)]( http://air.adobeconnect.com/bobby/ )
 
