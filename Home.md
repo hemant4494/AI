@@ -40,7 +40,7 @@ Welcome to the ai4k12 wiki! This interim site is being used to organize the AI f
 
 [[Resource Directory]]: table of contents.
 
-**Five Big Ideas in AI**: a [poster](https://github.com/touretzkyds/ai4k12/blob/master/documents/AI4K12_Five_Big_Ideas_Poster.pdf?raw=true) you can print, and an illustrative [graphic](https://github.com/touretzkyds/ai4k12/blob/master/documents/AI4K12_Five_Big_Ideas_Graphic.png?raw=true). Click for [[copyright and licensing information | Licensing Terms]]. Short link: [https://bit.ly/ai4k12-five-big-ideas](https://bit.ly/ai4k12-five-big-ideas)
+**Five Big Ideas in AI**: a [poster](https://github.com/touretzkyds/ai4k12/braw/master/documents/AI4K12_Five_Big_Ideas_Poster.pdf) you can print, and an illustrative [graphic](https://github.com/touretzkyds/ai4k12/blob/master/documents/AI4K12_Five_Big_Ideas_Graphic.png?raw=true). Click for [[copyright and licensing information | Licensing Terms]]. Short link: [https://bit.ly/ai4k12-five-big-ideas](https://bit.ly/ai4k12-five-big-ideas)
 
 Please use [this form](https://docs.google.com/forms/d/e/1FAIpQLSdn9G93qavpHk2r1xKikm4o0ftcRYGPvPCrKZ8UEWnWbGhFAA/viewform) to submit suggestions to our curated directory of AI for K-12 resources.
 
