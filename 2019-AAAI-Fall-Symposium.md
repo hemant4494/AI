@@ -5,6 +5,8 @@
 
 **Format**: The symposium will offer a mixture of invited talks, contributed talks, 5 minute lightning talks, panel discussions, breakout sessions, and an "AI playground" demo session. It will bring together AI researchers and educators, practicing K-12 teachers, curriculum designers, and tool/resource developers.
 
+**Web site**: [http://symposium.AI4K12.org](http://symposium.AI4K12.org)
+
 ## Submission Information
 * Submissions may be full papers (6-8 pages), extended abstracts (2 pages), or lightning talks (1 page summary).
 * Submission deadline is **August 2**, via [EasyChair](https://easychair.org/conferences/?conf=fss19).
