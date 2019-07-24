@@ -13,7 +13,8 @@
 * Decisions will be announced by August 16.
 
 ## Attendee Information
-* Attendee registration will open in mid-August. Registration deadline is **September 20**.
+* AAAI will open attendee registration in mid-August. Check this page for a registration link.
+* Registration deadline is **September 20, 2019**.
 * See the AAAI Fall Symposium series [web site](https://aaai.org/Symposia/Fall/fss19symposia.php#fs08) for more information.
 * AAAI has a professional [code of conduct](http://www.aaai.org/Conferences/code-of-conduct.php) for all its events and conferences, including this symposium.
 
