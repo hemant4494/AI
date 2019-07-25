@@ -55,7 +55,7 @@ The AI for K-12 guidelines will be modeled after the 2017 CSTA K-12 Computer Sci
 * [View the K-12 Computer Science Framework](https://k12cs.org/), which informed the development of the standards
 
 ### Administration
-* To join the AI for K-12 mailing list, send mail to [ai4k12@aaai.org](mailto:ai4k12@aaai.org).
+* To join the AI for K-12 mailing list, please visit [this page](https://aaai.org/Organization/mailing-lists.php)
 
 * The AI for K-12 steering committee members are:
 > * David Touretzky, Carnegie Mellon University (chair)
