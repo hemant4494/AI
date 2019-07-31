@@ -66,7 +66,7 @@ The AI for K-12 guidelines will be modeled after the 2017 CSTA K-12 Computer Sci
 > * Fred Martin, U. Mass. Lowell and CSTA
 > * Deborah Seehorn, CSTA
 
-* List of [[Working and Advisory Group Members]]
+* List of [[Working Group and Advisory Board Members]]
 
 * [AI for K-12 Working Group Membership Commitment](https://github.com/touretzkyds/ai4k12/raw/master/documents/AI4K12-Membership-Commitment.pdf): what we expect from working group members.
 
