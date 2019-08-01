@@ -10,6 +10,7 @@
 ## Submission Information
 * Submissions may be full papers (6-8 pages), extended abstracts (2 pages), or lightning talks (1 page summary).
 * Submission deadline is **August 2, 2019**, via [EasyChair](https://easychair.org/conferences/?conf=fss19).
+* See the [AAAI Author Kit](https://www.aaai.org/Publications/Templates/AuthorKit19.zip) for paper templates you can use.
 * Decisions will be announced by August 16.
 
 ## Attendee Information
