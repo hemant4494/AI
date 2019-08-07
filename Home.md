@@ -45,7 +45,7 @@ Welcome to the ai4k12 wiki! This interim site is being used to organize the AI f
 
 [[Resource Directory]]: table of contents.
 
-**Five Big Ideas in AI**: a [poster](https://github.com/touretzkyds/ai4k12/raw/master/documents/AI4K12_Five_Big_Ideas_Poster.pdf) you can print, and an illustrative [graphic](https://github.com/touretzkyds/ai4k12/blob/master/documents/AI4K12_Five_Big_Ideas_Graphic.png?raw=true). Click for [[copyright and licensing information | Licensing Terms]]. Short link: [https://bit.ly/ai4k12-five-big-ideas](https://bit.ly/ai4k12-five-big-ideas). This poster is also available in [Chinese](https://github.com/touretzkyds/ai4k12/raw/master/documents/AI4K12_Five_Big_Ideas_Poster_Chinese.pdf).
+**Five Big Ideas in AI**: a [poster](https://github.com/touretzkyds/ai4k12/raw/master/documents/AI4K12_Five_Big_Ideas_Poster.pdf) you can print, and an illustrative [graphic](https://github.com/touretzkyds/ai4k12/raw/master/documents/AI4K12_Five_Big_Ideas_Graphic.png). Click for [[copyright and licensing information | Licensing Terms]]. Short link: [https://bit.ly/ai4k12-five-big-ideas](https://bit.ly/ai4k12-five-big-ideas). This poster is also available in [Chinese](https://github.com/touretzkyds/ai4k12/raw/master/documents/AI4K12_Five_Big_Ideas_Poster_Chinese.pdf).
 
 Please use [this form](https://docs.google.com/forms/d/e/1FAIpQLSdn9G93qavpHk2r1xKikm4o0ftcRYGPvPCrKZ8UEWnWbGhFAA/viewform) to submit suggestions to our curated directory of AI for K-12 resources.
 
@@ -71,7 +71,7 @@ The AI for K-12 guidelines will be modeled after the 2017 CSTA K-12 Computer Sci
 * [AI for K-12 Working Group Membership Commitment](https://github.com/touretzkyds/ai4k12/raw/master/documents/AI4K12-Membership-Commitment.pdf): what we expect from working group members.
 
 ### Announcements
-* 4/16/2019: "Five Big Ideas in AI" [poster](https://github.com/touretzkyds/ai4k12/blob/master/documents/AI4K12_Five_Big_Ideas_Poster.pdf?raw=true) and  [graphic](https://github.com/touretzkyds/ai4k12/blob/master/documents/AI4K12_Five_Big_Ideas_Graphic.png?raw=true) released.
+* 4/16/2019: "Five Big Ideas in AI" [poster](https://github.com/touretzkyds/ai4k12/raw/master/documents/AI4K12_Five_Big_Ideas_Poster.pdf) and  [graphic](https://github.com/touretzkyds/ai4k12/raw/master/documents/AI4K12_Five_Big_Ideas_Graphic.png) released.
 
 * 3/5/2019: NSF funding awarded for the AI for K-12 initiative.
 
