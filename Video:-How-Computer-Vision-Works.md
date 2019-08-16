@@ -5,7 +5,7 @@
 * Publisher: Google Cloud Platform
 * Year: 2018
 * Level: high school and up
-* Watch online: (YouTube)[https://www.youtube.com/watch?v=OcycT1Jwsns]
+* Watch online: [YouTube](https://www.youtube.com/watch?v=OcycT1Jwsns)
 
 Description: explains how convolutional neural networks and recurrent neural networks are used in computer vision.
 
