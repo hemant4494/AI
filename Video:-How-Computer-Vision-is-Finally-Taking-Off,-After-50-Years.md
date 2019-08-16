@@ -7,3 +7,4 @@
 * Level: Middle school and up
 * Watch online: [YouTube](https://www.youtube.com/watch?time_continue=103&v=eQLcDmfmGB0)
 
+![](https://github.com/touretzkyds/ai4k12/raw/master/images/How-Computer-Vision-Taking-Off-video.png)
