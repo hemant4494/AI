@@ -36,6 +36,7 @@
 ## Videos
 * [[Documentary: AlphaGo]]
 * [[Documentary: CyberWork and the American Dream]]
+* [[Video: How Computer Vision is Finally Taking Off, After 50 Years]]
 * [[Video: How Computer Vision Works]]
 * [[Video: How Snapchat's Filters Work]]
 * [[Video: Humans Need Not Apply]]
