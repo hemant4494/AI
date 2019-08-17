@@ -5,6 +5,7 @@
 * [[Book: How Smart Machines Think]]
 * [[Book: Teaching AI: Exploring New Frontiers for Learning]]
 * [[Book: What to Think About Machines That Think]]
+* [[Book Series: Tinker Toddlers]]
 * [[Book Series: The World of Artificial Intelligence 4D]]
 * [[Report: Automation and Artificial Intelligence: How machines are affecting people and places]]
 
