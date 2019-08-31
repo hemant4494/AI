@@ -10,7 +10,7 @@ Welcome to the ai4k12 wiki! This interim site is being used to organize the AI f
 
 ### Upcoming Events
 
-* [["Teaching AI in K-12" symposium|2019 AAAI Fall Symposium]], November 8-9, 2019, in Arlington, VA. Part of the [AAAI 2019 Fall Symposium Series](https://aaai.org/Symposia/Fall/fss19.php).
+* [["Teaching AI in K-12" symposium|2019 AAAI Fall Symposium]], November 8-9, 2019, in Arlington, VA. Part of the [AAAI 2019 Fall Symposium Series](https://aaai.org/Symposia/Fall/fss19.php). Registration is now open.
 
 ### Recent Events
 
