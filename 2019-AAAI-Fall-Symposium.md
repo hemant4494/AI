@@ -8,10 +8,12 @@
 **Web site**: [http://symposium.AI4K12.org](http://symposium.AI4K12.org)
 
 ## Attendee Information
-* **Symposiun registration is now open:** [click here](https://cvent.me/3qq59) to register.
+* **Symposium registration is now open:** [click here](https://cvent.me/3qq59) to register.
+* * Special rate for current K-12 teachers: you can register at the "student member" rate of $225.
 * Registration deadline is **September 20, 2019**.
-* Room reservations at the Westin Arlingon Gateway: [click here]( https://www.marriott.com/event-reservations/reservation-link.mi?id=1553775582380&key=GRP&app=resvlin)
-* See the AAAI Fall Symposium series [web site](https://aaai.org/Symposia/Fall/fss19symposia.php#fs08) for more information.
+* For room reservations at the Westin Arlington Gateway, [click here]( https://www.marriott.com/event-reservations/reservation-link.mi?id=1553775582380&key=GRP&app=resvlin)
+* Additional registration and logistics information for attendees: [click here](http://www.aaai.org/Symposia/Fall/fss19.php)
+* See the AAAI Fall Symposium series [web site](https://aaai.org/Symposia/Fall/fss19symposia.php#fs08) for more program information.
 * AAAI has a professional [code of conduct](http://www.aaai.org/Conferences/code-of-conduct.php) for all its events and conferences, including this symposium.
 
 ## Submission Information
