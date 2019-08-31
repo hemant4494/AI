@@ -29,4 +29,7 @@ The symposium is organized by the [AI4K12 Initiative](http://AI4K12.org), led by
 * Fred Martin, University of Masachusetts Lowell, past CSTA board chair
 * Deborah Seehorn, CSTA
 
-![](https://github.com/touretzkyds/ai4k12/master/images/raw/ARTINT_Logo2_c_web_more.jpg)
+## Sponsorship
+Travel awards for K-12 teachers were made possible by a gift from the Artificial Intelligence Journal, published by Elsevier. The AI4K12 Initiative is funded by National Science Foundation award DRL-1846073.
+
+![](https://github.com/touretzkyds/ai4k12/raw/master/images/ARTINT_Logo2_c_web_more.jpg)
