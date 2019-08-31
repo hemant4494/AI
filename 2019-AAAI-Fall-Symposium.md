@@ -29,3 +29,4 @@ The symposium is organized by the [AI4K12 Initiative](http://AI4K12.org), led by
 * Fred Martin, University of Masachusetts Lowell, past CSTA board chair
 * Deborah Seehorn, CSTA
 
+![](https://github.com/touretzkyds/ai4k12/master/images/raw/ARTINT_Logo2_c_web_more.jpg)
