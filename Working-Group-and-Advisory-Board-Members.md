@@ -42,6 +42,7 @@ To contact the working group, email Dave Touretzky at dst (at) cs.cmu.edu
 * Miles Berry, Roehampton University, UK
 * Amy Eguchi, Bloomfield College, Bloomfield, NJ
 * Laura Hintzman Schmidt, MSOE University, Milwaukee, WI
+* Maitreyee Joshi, Microsoft, Seattle, WA
 * Irene Lee, MIT, Cambridge, MA
 * Dahua Lin, Chinese University of Hong Kong, China
 * Hari Raghavan, IBM, New York, NY
