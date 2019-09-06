@@ -24,7 +24,7 @@ Welcome to the ai4k12 wiki! This interim site is being used to organize the AI f
 
 * "Incorporating AI in K-12 CS", webinar presented by CS For All, May 30, 2019, at 7:30 pm Eastern time. [(link)]( http://air.adobeconnect.com/bobby/ )
 
-* "How Should K-12 Students Experience AI?" Presentation at AIAED 2019 (Artificial Intelligence + Adaptive Education), Beijing, China, May 24-25, 2019.
+* "How Should K-12 Students Experience AI?" Presentation at AIAED 2019 (Artificial Intelligence + Adaptive Education), Beijing, China, May 24-25, 2019. [(extended abstract)](https://github.com/touretzkyds/ai4k12/raw/master/documents/Touretzky-AIAED-2019-extended.pdf)
 
 * "An AI Curriculum in the K12 Classroom -- Preparing Students for the Future", panel discussion at the [10th Annual ASU+GSV Summit](https://www.asugsvsummit.com) (April 8-10, 2019) in San Diego, CA.
 
