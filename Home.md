@@ -13,6 +13,7 @@ Welcome to the ai4k12 wiki! This interim site is being used to organize the AI f
 * [["Teaching AI in K-12" symposium|2019 AAAI Fall Symposium]], November 8-9, 2019, in Arlington, VA. Part of the [AAAI 2019 Fall Symposium Series](https://aaai.org/Symposia/Fall/fss19.php). Registration is now open.
 
 ### Recent Events
+* "K-12 AI Education and Outreach" workshop held September 21 at STARS 2019. [(slides)](https://github.com/touretzkyds/ai4k12/raw/master/documents/STARS-AI4K12-Workshop-2019-09-21.pdf)
 
 * "K-12 AI Playground", a workshop at [CSTA 2019](https://www.csteachers.org/page/2019conference) in Phoenix, AZ, on Monday, July 8, 2019, from 1:00 pm to 4:00 pm. [(slides)](https://github.com/touretzkyds/ai4k12/raw/master/documents/CSTA_Workshop_K-12_AI_Playground_20190708.pdf) [(supplement)](https://github.com/touretzkyds/ai4k12/raw/master/documents/CSTA_2019_Machine_Learning_Supplement.pdf)
 
