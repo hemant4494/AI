@@ -32,6 +32,8 @@ The symposium is organized by the [AI4K12 Initiative](http://AI4K12.org), led by
 * Deborah Seehorn, CSTA
 
 ## Sponsorship
-Travel awards for K-12 teachers were made possible by a gift from the Artificial Intelligence Journal, published by Elsevier. The AI4K12 Initiative is funded by National Science Foundation award DRL-1846073.
+This material is based upon work supported by the National Science Foundation under Grant No. DRL-1846073. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
+
+Travel awards for K-12 teachers were made possible by a gift from the Artificial Intelligence Journal, published by Elsevier.The AI4K12 Initiative is funded by National Science Foundation award DRL-1846073.
 
 ![](https://github.com/touretzkyds/ai4k12/raw/master/images/ARTINT_Logo2_c_web_more.jpg)
