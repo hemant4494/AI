@@ -7,7 +7,7 @@
 
 **Web site**: [http://symposium.AI4K12.org](http://symposium.AI4K12.org)
 
-**Featured speakers**: Our keynote speaker is Hal Abelson (MIT). Other speakers include Miles Berry, Haley Payne, Stephania Druga, Sarah Judd, Shriram Krishnamurthi, Ning Wang & James Lester, and Tom Yeh.
+**Featured speakers**: Our keynote speaker is Hal Abelson (MIT). Other speakers include Miles Berry, Blakely Hoffman, Stephania Druga, Sarah Judd, Shriram Krishnamurthi, Ning Wang & James Lester, and Tom Yeh.
 
 ## Attendee Information
 * **Symposium registration is now open:** [click here](https://cvent.me/3qq59) to register.
