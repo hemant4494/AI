@@ -9,7 +9,7 @@
 
 **Featured speakers**: Our keynote speaker is Hal Abelson (MIT). Other speakers include Miles Berry, Blakely Hoffman, Stephania Druga, Sarah Judd, Shriram Krishnamurthi, Ning Wang & James Lester, and Tom Yeh.
 
-## Attendee Information
+## Registration and Attendee Information
 * **Symposium registration is now open:** [click here](https://cvent.me/3qq59) to register.
 * * Special rate for current K-12 teachers: you can register at the "student member" rate of $225.
 * Registration deadline is **October 11, 2019**.
