@@ -32,7 +32,7 @@
 10:25 AM|Ethics|Tom Yeh|Integrating Ethics into K12 AI Learning Experiences
 10:30 AM|**Coffee Break**
 11:00 AM|International|Larisa Schelkin|Bringing AI to K-12 Education via Global STEM Classroom®
-11:20 AM|International|Barnas Monteith
+11:20 AM|International|Barnas Monteith|A Brief Comparative Review of Multiple International Approaches to AI K-12 Education
 11:40 AM|Lightning Talks
 12:00 PM|**Lunch**
 1:30 PM|Activity|Irene Lee and Fred Martin|What do you meme? : A participatory simulation for teaching about neural networks and machine learning
@@ -44,5 +44,5 @@
 3:30 PM|**Coffee Break**
 3:45 PM|Tools|Stefania Druga
 4:05 PM|Tools|Jessica Van Brummelen|Conversational Artificial Intelligence Development Tools for K-12 Education
-4:24 PM|Wrap-up|Organizing Committee
+4:25 PM|Wrap-up|Organizing Committee
 4:30 PM|**Adjourn**
