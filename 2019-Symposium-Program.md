@@ -5,11 +5,11 @@
 |---:|-------|-------|-----|
 9:00 AM|Welcome|Organizing Committee|
 9:30 AM|Keynote|Hal Abelson
-10:15 AM|MS/HS Curriculum|Sarah Judd
+10:15 AM|MS/HS Curriculum|Sarah Judd|All means All: bringing project-based, approachable AI curriculum to more high school students through AI4ALL Open Learning
 10:35 AM|**Coffee Break**
 11:00 AM|MS/HS Curriculum|Kathi Fisler|Data Science as a Route to AI for Middle- and High-School Students
-11:20 AM|MS/HS Curriculum|Anand Ankur and Karon Weber|
-11:49 AM|MS/HS Curriculum|BlakelyPayne|Will YouTube pay attention to our ideas?: AI + Ethics in Middle School
+11:20 AM|MS/HS Curriculum|Karon Weber and Anand Ankur|
+11:49 AM|MS/HS Curriculum|Blakely Payne|Will YouTube pay attention to our ideas?: AI + Ethics in Middle School
 12:00 PM|**Lunch**
 1:30 PM|AI Playground
 2:30 PM|Panel|Jared Amalong, Charlotte Dungan, Kelly Powers, Vicky Sedgwick|Teacher perspectives from AI4K12 grade band members
@@ -35,7 +35,7 @@
 11:20 AM|International|Barnas Monteith
 11:40 AM|Lightning Talks
 12:00 PM|**Lunch**
-1:30 PM|Group activity|Irene Lee and Fred Martin
+1:30 PM|Activity|Irene Lee and Fred Martin|What do you meme? : A participatory simulation for teaching about neural networks and machine learning
 2:00 PM|Informal Learning|Claudio Pinhanez|30 Minutes to Introduce AI to Kids
 2:20 PM|Informal Learning|Elahe Javadi|Design and Implementation of AI Learning Cycles for AI Education in K-12	
 2:40 PM|Informal Learning|Yang|Teaching AI in K-12: ReadyAI's Workshop and WAICY as a Classroom Example
