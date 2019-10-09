@@ -4,7 +4,7 @@
 |Time|Session|Speaker|Title|
 |---:|-------|-------|-----|
 9:00 AM|Welcome|Organizing Committee|
-9:30 AM|Keynote|Hal Abelson
+9:30 AM|Keynote|Hal Abelson|From Computational Thinking to Computational Action
 10:15 AM|MS/HS Curriculum|Sarah Judd|All means All: bringing project-based, approachable AI curriculum to more high school students through AI4ALL Open Learning
 10:35 AM|**Coffee Break**
 11:00 AM|MS/HS Curriculum|Kathi Fisler|Data Science as a Route to AI for Middle- and High-School Students
@@ -16,7 +16,7 @@
 3:10 PM|Lightning talks|Nicole Cheetham; Handeep Dhoot
 3:30 PM|**Coffee Break**
 4:00 PM|Teacher PD|Nancye Blair Black|Empowering Educators to Teach Artificial Intelligence
-4:20 PM|Teacher PD|Justin Reich|INSPIRE CS-AI: Innovative New Spaces for Practice and Rehearsal in Teacher Education in Computer Science with Artificial Intelligence
+4:20 PM|Teacher PD|Dianne O'Grady-Cuniff|Building statewide awareness of AI in K12 through district planning and teacher outreach
 4:40 PM|Teacher PD|Elizabeth Taylor|K-12 AI Outreach in Higher Education: Pathways for Implementation
 5:00 PM|Teacher PD|Caitlin Quarrington|STEM-based AI education in professional development for K-12 teachers
 5:20 PM|Discussion
@@ -39,7 +39,7 @@
 2:00 PM|Informal Learning|Claudio Pinhanez|30 Minutes to Introduce AI to Kids
 2:20 PM|Informal Learning|Elahe Javadi|Design and Implementation of AI Learning Cycles for AI Education in K-12	
 2:40 PM|Informal Learning|Yang Cheng|Teaching AI in K-12: ReadyAI's Workshop and WAICY as a Classroom Example
-3:00 PM|Informal Learning|O'Grady-Cuniff
+3:00 PM|Tools|Justin Reich|INSPIRE CS-AI: Innovative New Spaces for Practice and Rehearsal in Teacher Education in Computer Science with Artificial Intelligence
 3:20 PM|Lightning Talks|Matt Turner; Dale Lane
 3:30 PM|**Coffee Break**
 3:45 PM|Tools|Stefania Druga
