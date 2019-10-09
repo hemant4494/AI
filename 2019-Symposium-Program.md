@@ -16,7 +16,7 @@
 3:10 PM|Lightning talks
 3:30 PM|**Coffee Break**
 4:00 PM|Teacher PD|Nancye Black
-4:29 PM}Teacher PD|Justin Reich
+4:20 PM|Teacher PD|Justin Reich
 4:40 PM|Teacher PD|Elizabeth Taylor
 5:00 PM|Teacher PD|Caitlin Quarrington
 5:20 PM|Debriefing/Conversation
@@ -24,6 +24,8 @@
 6:00 PM|Plenary session (optional)|
 
 ## Saturday November 9
+|Time|Session|Speaker|Title|
+|---:|-------|-------|-----|
 9:00 AM|Welcome|Organizing Committee
 9:15 AM|Pedagogy|Ning Wand and James Lester
 10:05 AM|Pedagogy|Miles Berry
