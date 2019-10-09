@@ -17,11 +17,11 @@
 3:30 PM|**Coffee Break**
 4:00 PM|Teacher PD|Nancye Blair Black|Empowering Educators to Teach Artificial Intelligence
 4:20 PM|Teacher PD|Justin Reich|INSPIRE CS-AI: Innovative New Spaces for Practice and Rehearsal in Teacher Education in Computer Science with Artificial Intelligence
-4:40 PM|Teacher PD|Elizabeth Taylor
+4:40 PM|Teacher PD|Elizabeth Taylor|K-12 AI Outreach in Higher Education: Pathways for Implementation
 5:00 PM|Teacher PD|Caitlin Quarrington|STEM-based AI education in professional development for K-12 teachers
 5:20 PM|Discussion
 5:40 PM|Adjourn for the day
-6:00 PM|Plenary session (optional)|Ning Wang
+6:00 PM|Plenary session (optional)|Ning Wang|Speakers from all 8 symposia will present brief (2-5 minutes) overviews of their key issues.
 
 ## Saturday November 9
 |Time|Session|Speaker|Title|
