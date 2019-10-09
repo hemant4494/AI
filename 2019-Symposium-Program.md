@@ -18,7 +18,7 @@
 4:00 PM|Teacher PD|Nancye Black
 4:20 PM|Teacher PD|Justin Reich
 4:40 PM|Teacher PD|Elizabeth Taylor
-5:00 PM|Teacher PD|Caitlin Quarrington
+5:00 PM|Teacher PD|Caitlin Quarrington|STEM-based AI education in professional development for K-12 teachers
 5:20 PM|Debriefing/Conversation
 5:40 PM|Adjourn for the day
 6:00 PM|Plenary session (optional)|
@@ -27,11 +27,11 @@
 |Time|Session|Speaker|Title|
 |---:|-------|-------|-----|
 9:00 AM|Welcome|Organizing Committee
-9:15 AM|Pedagogy|Ning Wand and James Lester
+9:15 AM|Pedagogy|Ning Wang and James Lester
 10:05 AM|Pedagogy|Miles Berry
 10:25 AM|Ethics|Tom Yeh
 10:30 AM|**Coffee Break**
-11:00 AM|International|Larisa Schelkin
+11:00 AM|International|Larisa Schelkin|Bringing AI to K-12 Education via Global STEM Classroom®
 11:20 AM|International|Barnas Monteith
 11:40 AM|Lightning Talks
 12:00 PM|**Lunch**
