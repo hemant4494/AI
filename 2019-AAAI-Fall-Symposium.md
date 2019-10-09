@@ -3,11 +3,11 @@
 
 **Location**: The [Westin Arlington Gateway](https://www.marriott.com/hotels/travel/wasag-the-westin-arlington-gateway/) in Arlington, Virginia.
 
-**Format**: The symposium will offer a mixture of invited talks, contributed talks, 5 minute lightning talks, panel discussions, breakout sessions, and an "AI playground" demo session. It will bring together AI researchers and educators, practicing K-12 teachers, curriculum designers, and tool/resource developers.
+## Click here for [[Draft Program|2019 Symposium Program]]
 
 **Web site**: [http://symposium.AI4K12.org](http://symposium.AI4K12.org)
 
-**Featured speakers**: Our keynote speaker is Hal Abelson (MIT). Other speakers include Miles Berry, Blakely Hoffman, Stephania Druga, Sarah Judd, Shriram Krishnamurthi, Ning Wang & James Lester, and Tom Yeh.
+**Featured speakers**: Our keynote speaker is Hal Abelson (MIT). Other speakers include Miles Berry, Blakely Hoffman, Stephania Druga, Sarah Judd, Kathi Fisler, Ning Wang & James Lester, and Tom Yeh.
 
 ## Registration and Attendee Information
 * **Symposium registration is now open:** [click here](https://cvent.me/3qq59) to register.
