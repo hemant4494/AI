@@ -11,9 +11,9 @@
 11:20 AM|MS/HS Curriculum|Karon Weber and Anand Ankur|
 11:49 AM|MS/HS Curriculum|Blakely Payne|Will YouTube pay attention to our ideas?: AI + Ethics in Middle School
 12:00 PM|**Lunch**
-1:30 PM|AI Playground
+1:30 PM|AI Playground|Cynthia Breazeal; Sarah Judd; Miles Berry; Dave Touretzky; Yang Cheng
 2:30 PM|Panel|Jared Amalong, Charlotte Dungan, Kelly Powers, Vicky Sedgwick|Teacher perspectives from AI4K12 grade band members
-3:10 PM|Lightning talks
+3:10 PM|Lightning talks|Nicole Cheetham; Handeep Dhoot
 3:30 PM|**Coffee Break**
 4:00 PM|Teacher PD|Nancye Blair Black|Empowering Educators to Teach Artificial Intelligence
 4:20 PM|Teacher PD|Justin Reich|INSPIRE CS-AI: Innovative New Spaces for Practice and Rehearsal in Teacher Education in Computer Science with Artificial Intelligence
@@ -33,14 +33,14 @@
 10:30 AM|**Coffee Break**
 11:00 AM|International|Larisa Schelkin|Bringing AI to K-12 Education via Global STEM Classroom®
 11:20 AM|International|Barnas Monteith|A Brief Comparative Review of Multiple International Approaches to AI K-12 Education
-11:40 AM|Lightning Talks
+11:40 AM|Lightning Talks|Burak Gencay; Caitlin Quarrington; Fredrik Heintze; Martin Kandlhofer
 12:00 PM|**Lunch**
 1:30 PM|Activity|Irene Lee and Fred Martin|What do you meme? : A participatory simulation for teaching about neural networks and machine learning
 2:00 PM|Informal Learning|Claudio Pinhanez|30 Minutes to Introduce AI to Kids
 2:20 PM|Informal Learning|Elahe Javadi|Design and Implementation of AI Learning Cycles for AI Education in K-12	
 2:40 PM|Informal Learning|Yang|Teaching AI in K-12: ReadyAI's Workshop and WAICY as a Classroom Example
 3:00 PM|Informal Learning|O'Grady-Cuniff
-3:20 PM|Lightning Talks
+3:20 PM|Lightning Talks|Dale Lane
 3:30 PM|**Coffee Break**
 3:45 PM|Tools|Stefania Druga
 4:05 PM|Tools|Jessica Van Brummelen|Conversational Artificial Intelligence Development Tools for K-12 Education
