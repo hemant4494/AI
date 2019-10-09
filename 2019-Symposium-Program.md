@@ -38,7 +38,7 @@
 1:30 PM|Activity|Irene Lee and Fred Martin|What do you meme? : A participatory simulation for teaching about neural networks and machine learning
 2:00 PM|Informal Learning|Claudio Pinhanez|30 Minutes to Introduce AI to Kids
 2:20 PM|Informal Learning|Elahe Javadi|Design and Implementation of AI Learning Cycles for AI Education in K-12	
-2:40 PM|Informal Learning|Yang|Teaching AI in K-12: ReadyAI's Workshop and WAICY as a Classroom Example
+2:40 PM|Informal Learning|Yang Cheng|Teaching AI in K-12: ReadyAI's Workshop and WAICY as a Classroom Example
 3:00 PM|Informal Learning|O'Grady-Cuniff
 3:20 PM|Lightning Talks|Matt Turner; Dale Lane
 3:30 PM|**Coffee Break**
