@@ -40,7 +40,7 @@
 2:20 PM|Informal Learning|Elahe Javadi|Design and Implementation of AI Learning Cycles for AI Education in K-12	
 2:40 PM|Informal Learning|Yang|Teaching AI in K-12: ReadyAI's Workshop and WAICY as a Classroom Example
 3:00 PM|Informal Learning|O'Grady-Cuniff
-3:20 PM|Lightning Talks|Dale Lane
+3:20 PM|Lightning Talks|Matt Turner; Dale Lane
 3:30 PM|**Coffee Break**
 3:45 PM|Tools|Stefania Druga
 4:05 PM|Tools|Jessica Van Brummelen|Conversational Artificial Intelligence Development Tools for K-12 Education
