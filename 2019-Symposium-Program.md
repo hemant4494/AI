@@ -27,7 +27,7 @@
 |Time|Session|Speaker|Title|
 |---:|-------|-------|-----|
 9:00 AM|Welcome|Organizing Committee
-9:15 AM|Pedagogy|Ning Wang and James Lester
+9:15 AM|Pedagogy|Ning Wang and James Lester|Building a Research Foundation for K-12 AI Education
 10:05 AM|Pedagogy|Miles Berry
 10:25 AM|Ethics|Tom Yeh|Integrating Ethics into K12 AI Learning Experiences
 10:30 AM|**Coffee Break**
