@@ -8,7 +8,7 @@
 10:15 AM|MS/HS Curriculum|Sarah Judd|All means All: bringing project-based, approachable AI curriculum to more high school students through AI4ALL Open Learning
 10:35 AM|**Coffee Break**
 11:00 AM|MS/HS Curriculum|Kathi Fisler|Data Science as a Route to AI for Middle- and High-School Students
-11:20 AM|MS/HS Curriculum|Karon Weber and Anand Ankur|
+11:20 AM|MS/HS Curriculum|Karon Weber and Anand Ankur|An Interdisciplinary Approach to Bring AI into Existing Curriculum
 11:49 AM|MS/HS Curriculum|Blakely Payne|Will YouTube pay attention to our ideas?: AI + Ethics in Middle School
 12:00 PM|**Lunch**|(on your own)
 1:30 PM|AI Playground|Cynthia Breazeal; Sarah Judd; Miles Berry; Dave Touretzky; Yang Cheng
