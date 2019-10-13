@@ -28,7 +28,7 @@
 |---:|-------|-------|-----|
 9:00 AM|Welcome|Organizing Committee
 9:15 AM|Pedagogy|Ning Wang and James Lester|Building a Research Foundation for K-12 AI Education
-10:05 AM|Pedagogy|Miles Berry
+10:05 AM|Pedagogy|Miles Berry|Computing in English Schools: Lessons to Learn for AI education
 10:25 AM|Ethics|Tom Yeh|Integrating Ethics into K12 AI Learning Experiences
 10:30 AM|**Coffee Break**
 11:00 AM|International|Larisa Schelkin|Bringing AI to K-12 Education via Global STEM Classroom®
