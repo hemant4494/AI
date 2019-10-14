@@ -42,7 +42,6 @@
 3:00 PM|Informal Learning|Dianne O'Grady-Cuniff and Nora Blasko|Building statewide awareness of AI in K12 through district planning and teacher outreach
 3:20 PM|Lightning Talks|Matt Turner; Dale Lane
 3:30 PM|**Coffee Break**
-3:45 PM|Tools|Stefania Druga
-4:05 PM|Tools|Jessica Van Brummelen|Conversational Artificial Intelligence Development Tools for K-12 Education
-4:25 PM|Wrap-up|Organizing Committee
+3:45 PM|Tools|Jessica Van Brummelen|Conversational Artificial Intelligence Development Tools for K-12 Education
+4:05 PM|Discussion|Everyone
 4:30 PM|**Adjourn**
