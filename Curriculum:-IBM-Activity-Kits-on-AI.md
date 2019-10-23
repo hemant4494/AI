@@ -11,4 +11,4 @@
 
 These activity kits introduce students to various aspects of AI, and include links to online demos, facilitator guides, and other online resources. The kit resources are downloadable from a Box.com repository (look for the link in the upper right corner of each activity page.)
 
-
+![](https://github.com/touretzkyds/ai4k12/raw/master/images/IBM-TJBot.png)
