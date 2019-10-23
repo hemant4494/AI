@@ -15,6 +15,7 @@
 
 ## Curriculum Materials
 * [[Curriculum: ECS Alternate Curriculum Unit on Artificial Intelligence]]
+* [[Curriculum: IBM Activity Kits on AI]]
 
 ## Demos
 * [[Demo: Speech Recognition in Chrome]]
