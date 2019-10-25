@@ -40,6 +40,7 @@
 * [[Documentary: CyberWork and the American Dream]]
 * [[Video Playlist: Computer Vision]]
 * [[Video Series: Crash Course Artificial Intelligence]]
+* [[Video Series: Crash Course Computer Science]]
 * [[Video: How Computer Vision is Finally Taking Off, After 50 Years]]
 * [[Video: How Computer Vision Works]]
 * [[Video: How Snapchat's Filters Work]]
