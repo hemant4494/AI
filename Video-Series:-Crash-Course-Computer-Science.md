@@ -3,7 +3,7 @@
 * Individual Titles:
 * * [Machine Learning & Artificial Intelligence](https://www.youtube.com/watch?v=z-EtmaFJieY&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&index=35)
 * * [Computer Vision](https://www.youtube.com/watch?v=-4E2-0sxVUM&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&index=36)
-* * [Natural Language Processing](https://www.youtube.com/watch?v=z-EtmaFJieY&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&index=35)
+* * [Natural Language Processing](https://www.youtube.com/watch?v=fOvTtapxa9c&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&index=37)
 * * [Robots](https://www.youtube.com/watch?v=3XkL0qQ21Oo&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&index=38)
 * * [The Singularity, Skynet, and the Future of Computing](https://www.youtube.com/watch?v=5TNAz1HYg18&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&index=41)
 * Type: video series
