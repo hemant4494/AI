@@ -3,7 +3,7 @@ Location: The Westin Arlington Gateway, room: Fitzgerald B
 
 Click here for the [[Symposium Home Page|2019 AAAI Fall Symposium]]
 
-##  Friday November 8
+##  Friday November 8, 2019
 
 |Time|Session|Speaker|Title|
 |---:|-------|-------|-----|
@@ -27,7 +27,7 @@ Click here for the [[Symposium Home Page|2019 AAAI Fall Symposium]]
 5:40 PM|Adjourn for the day
 6:00 PM|Plenary session (optional)|Ning Wang|Speakers from all 8 symposia will present brief (2-5 minutes) overviews of their key issues.
 
-## Saturday November 9
+## Saturday November 9, 2019
 |Time|Session|Speaker|Title|
 |---:|-------|-------|-----|
 9:00 AM|Welcome|Organizing Committee
