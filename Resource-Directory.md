@@ -38,9 +38,9 @@
 ## Videos
 * [[Documentary: AlphaGo]]
 * [[Documentary: CyberWork and the American Dream]]
-* [[Video Playlist: Computer Vision]]
-* [[Video Series: Crash Course Artificial Intelligence]]
-* [[Video Series: Crash Course Computer Science]]
+* [[Video Playlist: Computer Vision]] (5 videos on computer vision projects at Google)
+* [[Video Series: Crash Course Artificial Intelligence]] (10 episodes)
+* [[Video Series: Crash Course Computer Science]] (5 episodes deal with AI)
 * [[Video: How Computer Vision is Finally Taking Off, After 50 Years]]
 * [[Video: How Computer Vision Works]]
 * [[Video: How Snapchat's Filters Work]]
