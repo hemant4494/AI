@@ -11,8 +11,8 @@
 * * [Natural Language Processing](https://www.youtube.com/watch?v=oi0JXuL19TA&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=9)
 * * [Make an AI sound like a YouTuber](https://www.youtube.com/watch?v=kZWum5omEv4&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=10)
 * * [Reinforcement Learning](https://www.youtube.com/watch?v=nIgIv4IfJ6s&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=11)
-* * [Robotics](https://www.youtube.com/watch?v=_U21fT8VLp0&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=12)
 * * [Symbolic AI](https://www.youtube.com/watch?v=WHCo4m2VOws&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=13)
+* * [Robotics](https://www.youtube.com/watch?v=_U21fT8VLp0&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=12)
 * Type: Video series
 * Duration: about 12 minutes each
 * Host: Jabril Ashe
