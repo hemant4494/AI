@@ -33,7 +33,7 @@
 10:30 AM|**Coffee Break**
 11:00 AM|International|Larisa Schelkin|Bringing AI to K-12 Education via Global STEM Classroom®
 11:20 AM|International|Barnas Monteith|A Brief Comparative Review of Multiple International Approaches to AI K-12 Education
-11:40 AM|Lightning Talks|Burak Gencay; Caitlin Quarrington; Fredrik Heintze; Martin Kandlhofer
+11:40 AM|International Lightning Talks|Burak Gencay; Caitlin Quarrington; Fredrik Heintze; Martin Kandlhofer
 12:00 PM|**Lunch**|(on your own)
 1:30 PM|Activity|Irene Lee and Fred Martin|What do you meme? : A participatory simulation for teaching about neural networks and machine learning
 2:00 PM|Informal Learning|Claudio Pinhanez|30 Minutes to Introduce AI to Kids
