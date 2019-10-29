@@ -13,7 +13,7 @@
 12:00 PM|**Lunch**|(on your own)
 1:30 PM|AI Playground|Cynthia Breazeal; Sarah Judd; Miles Berry; Dave Touretzky; Yang Cheng
 2:30 PM|Panel|Jared Amalong, April DeGennaro, Charlotte Dungan, Kelly Powers, Vicky Sedgwick|Teacher perspectives from AI4K12 grade band members, moderated by Fred Martin
-3:10 PM|Lightning talks|Nicole Cheetham; Handeep Dhoot
+3:10 PM|Lightning talks|Nicole Cheetham; Handeep Dhoot; Matthew Turner
 3:30 PM|**Coffee Break**
 4:00 PM|Teacher PD|Nancye Blair Black|Empowering Educators to Teach Artificial Intelligence
 4:20 PM|Teacher PD|Justin Reich|INSPIRE CS-AI: Innovative New Spaces for Practice and Rehearsal in Teacher Education in Computer Science with Artificial Intelligence
@@ -40,8 +40,7 @@
 2:20 PM|Informal Learning|Elahe Javadi|Design and Implementation of AI Learning Cycles for AI Education in K-12	
 2:40 PM|Informal Learning|Yang Cheng|Teaching AI in K-12: ReadyAI's Workshop and WAICY as a Classroom Example
 3:00 PM|Informal Learning|Dianne O'Grady-Cuniff and Nora Blasko|Building statewide awareness of AI in K12 through district planning and teacher outreach
-3:20 PM|Lightning Talks|Matt Turner; Dale Lane
-3:30 PM|**Coffee Break**
-3:45 PM|Tools|Jessica Van Brummelen|Conversational Artificial Intelligence Development Tools for K-12 Education
+3:20 PM|Tools|Jessica Van Brummelen|Conversational Artificial Intelligence Development Tools for K-12 Education
+3:40 PM|**Coffee Break**
 4:05 PM|Discussion|Everyone
 4:30 PM|**Adjourn**
