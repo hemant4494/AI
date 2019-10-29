@@ -1,4 +1,6 @@
 # 2019 "Teaching AI in K-12" Symposium
+Location: The Westin Arlington Gateway, room: Fitzgerald B
+
 ##  Friday November 8
 
 |Time|Session|Speaker|Title|
