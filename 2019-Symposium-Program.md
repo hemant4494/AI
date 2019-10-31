@@ -17,7 +17,7 @@ Click here for the [[Symposium Home Page|2019 AAAI Fall Symposium]]
 12:00 PM|**Lunch**|(on your own)
 1:30 PM|AI Playground|Cynthia Breazeal; Sarah Judd; Miles Berry; Dave Touretzky; Yang Cheng
 2:30 PM|Panel|Jared Amalong, April DeGennaro, Charlotte Dungan, Kelly Powers, Vicky Sedgwick|Teacher perspectives from AI4K12 grade band members, moderated by Fred Martin
-3:10 PM|Lightning talks|Nicole Cheetham; Handeep Dhoot; Matthew Turner
+3:10 PM|Lightning talks|Nicole Cheetham; John Chapin; Handeep Dhoot; Matthew Turner
 3:30 PM|**Coffee Break**
 4:00 PM|Teacher PD|Nancye Blair Black|Empowering Educators to Teach Artificial Intelligence
 4:20 PM|Teacher PD|Justin Reich|INSPIRE CS-AI: Innovative New Spaces for Practice and Rehearsal in Teacher Education in Computer Science with Artificial Intelligence
@@ -32,8 +32,8 @@ Click here for the [[Symposium Home Page|2019 AAAI Fall Symposium]]
 |---:|-------|-------|-----|
 9:00 AM|Welcome|Organizing Committee
 9:15 AM|Pedagogy|Ning Wang and James Lester|Building a Research Foundation for K-12 AI Education
-10:05 AM|Pedagogy|Miles Berry|Computing in English Schools: Lessons to Learn for AI education
-10:25 AM|Ethics|Tom Yeh|Integrating Ethics into K12 AI Learning Experiences
+9:50 AM|Pedagogy|Miles Berry|Computing in English Schools: Lessons to Learn for AI education
+10:10 AM|Ethics|Tom Yeh|Integrating Ethics into K12 AI Learning Experiences
 10:30 AM|**Coffee Break**
 11:00 AM|International|Larisa Schelkin|Bringing AI to K-12 Education via Global STEM Classroom®
 11:20 AM|International|Barnas Monteith|A Brief Comparative Review of Multiple International Approaches to AI K-12 Education
