@@ -10,7 +10,7 @@
 **Featured speakers**: Our keynote speaker is Hal Abelson (MIT). Other speakers include Miles Berry, Blakely Hoffman, Sarah Judd, Kathi Fisler, Ning Wang & James Lester, and Tom Yeh.
 
 ## Registration and Attendee Information
-* **Symposium registration is now closed: we're full!** [old registration link](https://cvent.me/3qq59) to register.
+* **Symposium registration is now closed: we're full!** [(old registration link)](https://cvent.me/3qq59)
 * * Special rate for current K-12 teachers: you can register at the "student member" rate of $225.
 * Registration deadline is **October 11, 2019**.
 * For room reservations at the Westin Arlington Gateway, [click here]( https://www.marriott.com/event-reservations/reservation-link.mi?id=1553775582380&key=GRP&app=resvlin)
