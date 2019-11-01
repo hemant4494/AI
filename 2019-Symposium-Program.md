@@ -3,6 +3,9 @@ Location: The Westin Arlington Gateway, room: Fitzgerald B
 
 Click here for the [[Symposium Home Page|2019 AAAI Fall Symposium]]
 
+## Thursday November 7, 2019
+* AAAI Fall Symposium Series opening reception, 6:00 to 7:00 PM
+
 ##  Friday November 8, 2019
 
 |Time|Session|Speaker|Title|
