@@ -20,7 +20,10 @@ Click here for the [[Symposium Home Page|2019 AAAI Fall Symposium]]
 12:00 PM|**Lunch**|(on your own)
 1:30 PM|AI Playground|Cynthia Breazeal; Sarah Judd; Miles Berry; Dave Touretzky; Yang Cheng
 2:30 PM|Panel|Jared Amalong, April DeGennaro, Charlotte Dungan, Kelly Powers, Vicky Sedgwick|Teacher perspectives from AI4K12 grade band members, moderated by Fred Martin
-3:10 PM|Lightning talks|Nicole Cheetham; John Chapin; Handeep Dhoot; Matthew Turner
+3:10 PM|Lightning talks|Nicole Cheetham|A High School Student’s Perspective on Artificial Intelligence Education
+||| John Chapin | TBA
+||| Handeep Dhoot | AI Books for Toddlers
+||| Matthew Turner | Barriers to Convergence with AI in K-12
 3:30 PM|**Coffee Break**
 4:00 PM|Teacher PD|Nancye Blair Black|Empowering Educators to Teach Artificial Intelligence
 4:20 PM|Teacher PD|Justin Reich|INSPIRE CS-AI: Innovative New Spaces for Practice and Rehearsal in Teacher Education in Computer Science with Artificial Intelligence
@@ -40,7 +43,10 @@ Click here for the [[Symposium Home Page|2019 AAAI Fall Symposium]]
 10:30 AM|**Coffee Break**
 11:00 AM|International|Larisa Schelkin|Bringing AI to K-12 Education via Global STEM Classroom®
 11:20 AM|International|Barnas Monteith|A Brief Comparative Review of Multiple International Approaches to AI K-12 Education
-11:40 AM|International Lightning Talks|Burak Gencay; Caitlin Quarrington; Fredrik Heintze; Martin Kandlhofer
+11:40 AM|International Lightning Talks|Burak Gencay
+||| Caitlin Quarrington | Supporting AI Literacy Through Informal STEM Education
+||| Fredrik Heintze | Elements of AI: Teaching the Basics of AI to Everyone in Sweden
+||| Martin Kandlhofer | European Driving License for Robots and Intelligent Systems
 12:00 PM|**Lunch**|(on your own)
 1:30 PM|Activity|Irene Lee and Fred Martin|What do you meme? : A participatory simulation for teaching about neural networks and machine learning
 2:00 PM|Informal Learning|Claudio Pinhanez|30 Minutes to Introduce AI to Kids
