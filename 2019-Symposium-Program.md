@@ -18,7 +18,7 @@ Click here for the [[Symposium Home Page|2019 AAAI Fall Symposium]]
 11:20 AM|MS/HS Curriculum|Karon Weber and Anand Ankur|An Interdisciplinary Approach to Bring AI into Existing Curriculum
 11:40 AM|MS/HS Curriculum|Blakely Payne|Will YouTube pay attention to our ideas?: AI + Ethics in Middle School
 12:00 PM|**Lunch**|(on your own)
-1:30 PM|AI Playground|Cynthia Breazeal; Sarah Judd; Miles Berry; Dave Touretzky; Yang Cheng
+1:30 PM|AI Playground|Cynthia Breazeal; Sarah Judd; Miles Berry; Dave Touretzky; Yang Cheng; Thomas Deneux
 2:30 PM|Panel|Jared Amalong, April DeGennaro, Charlotte Dungan, Kelly Powers, Vicky Sedgwick|Teacher perspectives from AI4K12 grade band members, moderated by Fred Martin
 3:10 PM|Lightning talks|Nicole Cheetham|A High School Student’s Perspective on Artificial Intelligence Education
 ||| John Chapin | TBA
