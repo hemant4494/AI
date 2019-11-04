@@ -46,7 +46,7 @@ Click here for the [[Symposium Home Page|2019 AAAI Fall Symposium]]
 11:40 AM|International Lightning Talks|Burak Gencay| CS in K-12
 ||| Caitlin Quarrington | Supporting AI Literacy Through Informal STEM Education
 ||| Fredrik Heintze | Elements of AI: Teaching the Basics of AI to Everyone in Sweden
-||| Martin Kandlhofer | European Driving License for Robots and Intelligent Systems
+||| Martin Kandlhofer and Julia Lassnig | European Driving License for Robots and Intelligent Systems
 12:00 PM|**Lunch**|(on your own)
 1:30 PM|Activity|Irene Lee and Fred Martin|What do you meme? : A participatory simulation for teaching about neural networks and machine learning
 2:00 PM|Informal Learning|Claudio Pinhanez|30 Minutes to Introduce AI to Kids
