@@ -43,7 +43,7 @@ Click here for the [[Symposium Home Page|2019 AAAI Fall Symposium]]
 10:30 AM|**Coffee Break**
 11:00 AM|International|Larisa Schelkin|Bringing AI to K-12 Education via Global STEM Classroom®
 11:20 AM|International|Barnas Monteith|A Brief Comparative Review of Multiple International Approaches to AI K-12 Education
-11:40 AM|International Lightning Talks|Burak Gencay
+11:40 AM|International Lightning Talks|Burak Gencay| CS in K-12
 ||| Caitlin Quarrington | Supporting AI Literacy Through Informal STEM Education
 ||| Fredrik Heintze | Elements of AI: Teaching the Basics of AI to Everyone in Sweden
 ||| Martin Kandlhofer | European Driving License for Robots and Intelligent Systems
