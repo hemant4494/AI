@@ -27,7 +27,7 @@ Click here for the [[Symposium Home Page|2019 AAAI Fall Symposium]]
 |||Dave Touretzky|Calypso for Cozmo
 2:30 PM|Panel|Jared Amalong, April DeGennaro, Charlotte Dungan, Kelly Powers, Vicky Sedgwick|Teacher perspectives from AI4K12 grade band members, moderated by Fred Martin
 3:10 PM|Lightning talks|Nicole Cheetham|A High School Student’s Perspective on Artificial Intelligence Education
-||| John Chapin | TBA
+||| John Chapin | Machine Learning Goes to High School
 ||| Handeep Dhoot | AI Books for Toddlers
 ||| Matthew Turner | Barriers to Convergence with AI in K-12
 3:30 PM|**Coffee Break**
