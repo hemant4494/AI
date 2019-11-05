@@ -20,8 +20,8 @@ Click here for the [[Symposium Home Page|2019 AAAI Fall Symposium]]
 11:40 AM|MS/HS Curriculum|Blakely Payne|Will YouTube pay attention to our ideas?: AI + Ethics in Middle School
 12:00 PM|**Lunch**|(on your own)
 1:30 PM|AI Playground|Miles Berry|Jupyter notebooks for teaching AI
-|||Cynthia Breazeal|TBA
 |||Yang Cheng| AI+ME; AI-IN-A-BOX
+|||Daniella DiPaola and Blakely Payne|AI Ethics curriculum; robot construction kits
 |||Thomas Deneux|ALPHAI robot for machine learning
 |||Sarah Judd|AI4All Open Learning Initiative
 |||Dave Touretzky|Calypso for Cozmo
