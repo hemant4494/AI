@@ -11,6 +11,7 @@ Click here for the [[Symposium Home Page|2019 AAAI Fall Symposium]]
 |Time|Session|Speaker|Title|
 |---:|-------|-------|-----|
 9:00 AM|Welcome|Organizing Committee|
+|| Opening remarks| Chia Shen (NSF)
 9:30 AM|Keynote|Hal Abelson|From Computational Thinking to Computational Action
 10:15 AM|MS/HS Curriculum|Sarah Judd|All means All: bringing project-based, approachable AI curriculum to more high school students through AI4ALL Open Learning
 10:35 AM|**Coffee Break**
@@ -18,7 +19,12 @@ Click here for the [[Symposium Home Page|2019 AAAI Fall Symposium]]
 11:20 AM|MS/HS Curriculum|Karon Weber and Anand Ankur|An Interdisciplinary Approach to Bring AI into Existing Curriculum
 11:40 AM|MS/HS Curriculum|Blakely Payne|Will YouTube pay attention to our ideas?: AI + Ethics in Middle School
 12:00 PM|**Lunch**|(on your own)
-1:30 PM|AI Playground|Cynthia Breazeal; Sarah Judd; Miles Berry; Dave Touretzky; Yang Cheng; Thomas Deneux
+1:30 PM|AI Playground|Miles Berry|Jupyter notebooks for teaching AI
+|||Cynthia Breazeal|TBA
+|||Yang Cheng| AI+ME; AI-IN-A-BOX
+|||Thomas Deneux|ALPHAI robot for machine learning
+|||Sarah Judd|AI4All Open Learning Initiative
+|||Dave Touretzky|Calypso for Cozmo
 2:30 PM|Panel|Jared Amalong, April DeGennaro, Charlotte Dungan, Kelly Powers, Vicky Sedgwick|Teacher perspectives from AI4K12 grade band members, moderated by Fred Martin
 3:10 PM|Lightning talks|Nicole Cheetham|A High School Student’s Perspective on Artificial Intelligence Education
 ||| John Chapin | TBA
