@@ -21,8 +21,8 @@ Click here for the [[Symposium Home Page|2019 AAAI Fall Symposium]]
 12:00 PM|**Lunch**|(on your own)
 1:30 PM|AI Playground|Miles Berry|Jupyter notebooks for teaching AI
 |||Yang Cheng| AI+ME; AI-IN-A-BOX
-|||Daniella DiPaola and Blakely Payne|AI Ethics curriculum; robot construction kits
 |||Thomas Deneux|ALPHAI robot for machine learning
+|||Daniella DiPaola and Blakely Payne|AI Ethics curriculum; robot construction kits
 |||Sarah Judd|AI4All Open Learning Initiative
 |||Dave Touretzky|Calypso for Cozmo
 2:30 PM|Panel|Jared Amalong, April DeGennaro, Charlotte Dungan, Kelly Powers, Vicky Sedgwick|Teacher perspectives from AI4K12 grade band members, moderated by Fred Martin
