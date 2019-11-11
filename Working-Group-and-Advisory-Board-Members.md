@@ -46,7 +46,7 @@ To contact the working group, email Dave Touretzky at dst (at) cs.cmu.edu
 * Irene Lee, MIT, Cambridge, MA
 * Dahua Lin, Chinese University of Hong Kong, China
 * Hari Raghavan, IBM, New York, NY
-* Wells Santo, AI4All, Oakland, CA
+* Wells Santo, Oakland, CA
 * Joseph South, ISTE, Portland, OR
 * Tom Vander Ark, Getting Smart, Federal Way, WA
 * Joyce D. Williams, National Geospatial-Intelligence Agency, Springfield, VA
