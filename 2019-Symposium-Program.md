@@ -59,7 +59,7 @@ Click here for the [[Symposium Home Page|2019 AAAI Fall Symposium]]
 2:20 PM|Informal Learning|Elahe Javadi|Design and Implementation of AI Learning Cycles for AI Education in K-12	
 2:40 PM|Informal Learning|Yang Cheng|Teaching AI in K-12: ReadyAI's Workshop and WAICY as a Classroom Example
 3:00 PM|Informal Learning|Dianne O'Grady-Cuniff and Nora Blasko|Building statewide awareness of AI in K12 through district planning and teacher outreach
-3:20 PM|Tools|Jessica Van Brummelen|Conversational Artificial Intelligence Development Tools for K-12 Education
+3:20 PM|Tools|Jessica Van Brummelen|Conversational Artificial Intelligence Development Tools for K-12 Education [slides](https://github.com/touretzkyds/ai4k12/raw/master/documents/2019-symposium/Van_Brummelen_AI4K12_2019.pdf) [YouTube](https://youtu.be/_D8v3H71074)
 3:40 PM|**Coffee Break**
 4:05 PM|Discussion|Everyone
 4:30 PM|**Adjourn**
