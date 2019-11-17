@@ -19,7 +19,7 @@
 
 ### 9-12 Grade Band ###
 * **Jared Amalong** (lead), Computer Science Coordinator, Sacramento County Office of Education, Sacramento, CA
-* Smadar Bergman, Computer Science Teacher, Chicago Public Schools, Chicago, IL
+* Smadar Bergman, Computer Science Teacher, Adlai E. Stevenson High School, Lincolnshire, IL
 * John Chapin, Math and CS Teacher, Academies of Loudon, Leesburg, VA
 * Kate Lockwood, Director of Computer Science and Engineering, St. Paul Academy, St. Paul, MN
 
