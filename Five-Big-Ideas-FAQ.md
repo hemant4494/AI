@@ -1,11 +1,11 @@
 ## Frequently Asked Questions about the "Five Big Ideas in AI"
-This page refers to the "Five Big Ideas in AI" list published by the AI4K12 Initiative in the form of a poster that is available in several languages:
+This page refers to the "Five Big Ideas in AI" list developed by the AI4K12 Initiative. The list is published in the form of a poster that is available in several languages:
 
 * [English](https://github.com/touretzkyds/ai4k12/raw/master/documents/AI4K12_Five_Big_Ideas_Poster.pdf)
 * [Chinese](https://github.com/touretzkyds/ai4k12/raw/master/documents/AI4K12_Five_Big_Ideas_Poster_Chinese.pdf)
 * [Korean](https://github.com/touretzkyds/ai4k12/rawb/master/documents/AI4K12_Five_Big_Ideas_Poster_Korean.pdf)
-* [Turkish](https://github.com/touretzkyds/ai4k12/raw/master/documents/AI4K12_Five_Big_Ideas_Turkish.pdf)
 * [Portugese](https://github.com/touretzkyds/ai4k12/raw/master/documents/AI4K12_Five_Big_Ideas_Poster_Portugese.pdf)
+* [Turkish](https://github.com/touretzkyds/ai4k12/raw/master/documents/AI4K12_Five_Big_Ideas_Turkish.pdf)
 
 ### Why are there only five big ideas?
 
