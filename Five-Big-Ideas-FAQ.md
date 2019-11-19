@@ -21,7 +21,7 @@ The numbers are just for convenient reference. They do not indicate the priority
 
 ### Who is responsible for this list?
 
-This list was developed by the AI4K12 Steering Committee in consultation with the AI4K12 Working Group and Advisory Board, and additional input from members of the AI4K12 mailing list.
+This list was developed by the AI4K12 Steering Committee (David Touretzky, Christina Gardner-McCune, Fred Martin, and Deborah Seehorn) in consultation with the AI4K12 Working Group and Advisory Board, and additional input from members of the AI4K12 mailing list.
 
 
 
