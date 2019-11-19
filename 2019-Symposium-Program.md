@@ -27,12 +27,12 @@ Click here for the [[Symposium Home Page|2019 AAAI Fall Symposium]]
 |||Dave Touretzky|Calypso for Cozmo
 2:30 PM|Panel|Jared Amalong, April DeGennaro, Charlotte Dungan, Kelly Powers, Vicky Sedgwick|Teacher perspectives from AI4K12 grade band members, moderated by Fred Martin
 3:10 PM|Lightning talks|Nicole Cheetham|[A High School Student’s Perspective on Artificial Intelligence Education](https://github.com/touretzkyds/ai4k12/raw/master/documents/2019-symposium/Cheetham_AI4K12_2019.pptx)
-||| John Chapin | Machine Learning Goes to High School
+||| John Chapin | [Machine Learning Goes to High School](https://github.com/touretzkyds/ai4k12/raw/master/documents/2019-symposium/Chapin_AI4K12_2019.pdf)
 ||| Handeep Dhoot | AI Books for Toddlers
 ||| Matthew Turner | Barriers to Convergence with AI in K-12
 3:30 PM|**Coffee Break**
 4:00 PM|Teacher PD|Nancye Blair Black|Empowering Educators to Teach Artificial Intelligence
-4:20 PM|Teacher PD|Justin Reich|INSPIRE CS-AI: Innovative New Spaces for Practice and Rehearsal in Teacher Education in Computer Science with Artificial Intelligence
+4:20 PM|Teacher PD|Justin Reich|[INSPIRE CS-AI: Innovative New Spaces for Practice and Rehearsal in Teacher Education in Computer Science with Artificial Intelligence](https://github.com/touretzkyds/ai4k12/raw/master/documents/2019-symposium/Reich_AI4K12_2019.pdf)
 4:40 PM|Teacher PD|Elizabeth Taylor|K-12 AI Outreach in Higher Education: Pathways for Implementation
 5:00 PM|Teacher PD|Caitlin Quarrington|STEM-based AI education in professional development for K-12 teachers
 5:20 PM|Discussion
