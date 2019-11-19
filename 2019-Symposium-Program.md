@@ -15,9 +15,9 @@ Click here for the [[Symposium Home Page|2019 AAAI Fall Symposium]]
 9:30 AM|Keynote|Hal Abelson|[From Computational Thinking to Computational Action](https://drive.google.com/file/d/1nsrm_jdareIgz0OLTRPQjEDAl1LqGSww/view)
 10:15 AM|MS/HS Curriculum|Sarah Judd|[All means All: bringing project-based, approachable AI curriculum to more high school students through AI4ALL Open Learning](https://github.com/touretzkyds/ai4k12/raw/master/documents/2019-symposium/Judd_AI4K12_2019.pdf)
 10:35 AM|**Coffee Break**
-11:00 AM|MS/HS Curriculum|Kathi Fisler|Data Science as a Route to AI for Middle- and High-School Students
+11:00 AM|MS/HS Curriculum|Kathi Fisler|[Data Science as a Route to AI for Middle- and High-School Students](https://github.com/touretzkyds/ai4k12/raw/master/documents/2019-symposium/Fisler_AI4K12_2019.pdf)
 11:20 AM|MS/HS Curriculum|Karon Weber and Anand Ankur|An Interdisciplinary Approach to Bring AI into Existing Curriculum
-11:40 AM|MS/HS Curriculum|Blakely Payne|Will YouTube pay attention to our ideas?: AI + Ethics in Middle School
+11:40 AM|MS/HS Curriculum|Blakely Payne|[Will YouTube pay attention to our ideas?: AI + Ethics in Middle School](https://github.com/touretzkyds/ai4k12/raw/master/documents/2019-symposium/Payne_AI4K12_2019.pdf)
 12:00 PM|**Lunch**|(on your own)
 1:30 PM|AI Playground|Miles Berry|Jupyter notebooks for teaching AI
 |||Yang Cheng| AI+ME; AI-IN-A-BOX
