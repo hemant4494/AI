@@ -3,7 +3,7 @@ This page refers to the "Five Big Ideas in AI" list developed by the AI4K12 Init
 
 * [English](https://github.com/touretzkyds/ai4k12/raw/master/documents/AI4K12_Five_Big_Ideas_Poster.pdf)
 * [Chinese](https://github.com/touretzkyds/ai4k12/raw/master/documents/AI4K12_Five_Big_Ideas_Poster_Chinese.pdf)
-* [Korean](https://github.com/touretzkyds/ai4k12/rawb/master/documents/AI4K12_Five_Big_Ideas_Poster_Korean.pdf)
+* [Korean](https://github.com/touretzkyds/ai4k12/raw/master/documents/AI4K12_Five_Big_Ideas_Poster_Korean.pdf)
 * [Portugese](https://github.com/touretzkyds/ai4k12/raw/master/documents/AI4K12_Five_Big_Ideas_Poster_Portugese.pdf)
 * [Turkish](https://github.com/touretzkyds/ai4k12/raw/master/documents/AI4K12_Five_Big_Ideas_Turkish.pdf)
 
