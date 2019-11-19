@@ -44,7 +44,7 @@ Click here for the [[Symposium Home Page|2019 AAAI Fall Symposium]]
 |---:|-------|-------|-----|
 9:00 AM|Welcome|Organizing Committee
 9:15 AM|Pedagogy|Ning Wang and James Lester|Building a Research Foundation for K-12 AI Education
-9:50 AM|Pedagogy|Miles Berry|Computing in English Schools: Lessons to Learn for AI education
+9:50 AM|Pedagogy|Miles Berry|[Computing in English Schools: Lessons to Learn for AI education](https://github.com/touretzkyds/ai4k12/raw/master/documents/2019-symposium/Berry_AI4K12_2019.pdf)
 10:10 AM|Ethics|Tom Yeh|Integrating Ethics into K12 AI Learning Experiences
 10:30 AM|**Coffee Break**
 11:00 AM|International|Larisa Schelkin|Bringing AI to K-12 Education via Global STEM Classroom®
