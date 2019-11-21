@@ -28,7 +28,7 @@ Click here for the [[Symposium Home Page|2019 AAAI Fall Symposium]]
 2:30 PM|Panel|Jared Amalong, April DeGennaro, Charlotte Dungan, Kelly Powers, Vicky Sedgwick|Teacher perspectives from AI4K12 grade band members, moderated by Fred Martin
 3:10 PM|Lightning talks|Nicole Cheetham|[A High School Student’s Perspective on Artificial Intelligence Education](https://github.com/touretzkyds/ai4k12/raw/master/documents/2019-symposium/Cheetham_AI4K12_2019.pptx)
 ||| John Chapin | [Machine Learning Goes to High School](https://github.com/touretzkyds/ai4k12/raw/master/documents/2019-symposium/Chapin_AI4K12_2019.pdf)
-||| Handeep Dhoot | AI Books for Toddlers
+||| Handeep Dhoot | [AI Books for Toddlers](https://drive.google.com/open?id=1mLSBufKPeCFaPhH47xL-50Nda_OMSXTE)
 ||| Matthew Turner | [Barriers to Convergence with AI in K-12](https://github.com/touretzkyds/ai4k12/raw/master/documents/2019-symposium/Turner_AI4K12_2019.pdf)
 3:30 PM|**Coffee Break**
 4:00 PM|Teacher PD|Nancye Blair Black|Empowering Educators to Teach Artificial Intelligence
