@@ -28,7 +28,7 @@ Click here for the [[Symposium Home Page|2019 AAAI Fall Symposium]]
 2:30 PM|Panel|Jared Amalong, April DeGennaro, Charlotte Dungan, Kelly Powers, Vicky Sedgwick|Teacher perspectives from AI4K12 grade band members, moderated by Fred Martin
 3:10 PM|Lightning talks|Nicole Cheetham|[A High School Student’s Perspective on Artificial Intelligence Education](https://github.com/touretzkyds/ai4k12/raw/master/documents/2019-symposium/Cheetham_AI4K12_2019.pptx)
 ||| John Chapin | [Machine Learning Goes to High School](https://github.com/touretzkyds/ai4k12/raw/master/documents/2019-symposium/Chapin_AI4K12_2019.pdf)
-||| Handeep Dhoot | [AI Books for Toddlers](https://drive.google.com/open?id=1mLSBufKPeCFaPhH47xL-50Nda_OMSXTE)
+||| Handeep Dhoot | [AI Books for Toddlers](https://drive.google.com/open?id=1mLSBufKPeCFaPhH47xL-50Nda_OMSXTE) (video)
 ||| Matthew Turner | [Barriers to Convergence with AI in K-12](https://github.com/touretzkyds/ai4k12/raw/master/documents/2019-symposium/Turner_AI4K12_2019.pdf)
 3:30 PM|**Coffee Break**
 4:00 PM|Teacher PD|Nancye Blair Black|Empowering Educators to Teach Artificial Intelligence
@@ -51,8 +51,8 @@ Click here for the [[Symposium Home Page|2019 AAAI Fall Symposium]]
 11:20 AM|International|Barnas Monteith|A Brief Comparative Review of Multiple International Approaches to AI K-12 Education
 11:40 AM|International Lightning Talks|Burak Gencay| CS in K-12
 ||| Caitlin Quarrington | Supporting AI Literacy Through Informal STEM Education
-||| Fredrik Heintze | Elements of AI: Teaching the Basics of AI to Everyone in Sweden
-||| Martin Kandlhofer and Julia Lassnig | European Driving License for Robots and Intelligent Systems
+||| Fredrik Heintze | [Elements of AI: Teaching the Basics of AI to Everyone in Sweden](https://drive.google.com/open?id=1HupvjbjRGMtV9aH-LDXsW5DXtwOY0IDs)
+||| Martin Kandlhofer and Julia Lassnig | [European Driving License for Robots and Intelligent Systems](https://drive.google.com/open?id=1mB7PBqdj1SuZYQ4v6oOGfeAa84JCfWOl)
 12:00 PM|**Lunch**|(on your own)
 1:30 PM|Activity|Irene Lee and Fred Martin|[What do you meme? : A participatory simulation for teaching about neural networks and machine learning](https://github.com/touretzkyds/ai4k12/raw/master/documents/2019-symposium/Lee_AI4K12_2019.pdf)
 2:00 PM|Informal Learning|Claudio Pinhanez|[30 Minutes to Introduce AI to Kids](https://github.com/touretzkyds/ai4k12/raw/master/documents/2019-symposium/Pinhanez_AI4K12_2019.pdf)
