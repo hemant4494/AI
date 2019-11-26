@@ -10,7 +10,7 @@ Click here for the [[Symposium Home Page|2019 AAAI Fall Symposium]]
 
 |Time|Session|Speaker|Title|
 |---:|-------|-------|-----|
-9:00 AM|Welcome|Organizing Committee|
+9:00 AM|Welcome|Organizing Committee|[Symposium Overview](https://github.com/touretzkyds/ai4k12/raw/master/documents/2019-symposium/Symposium_Overview_AI4K12_2019.pdf), and [AI4K12 Initiative Update](https://github.com/touretzkyds/ai4k12/raw/master/documents/2019-symposium/AI4K12_Initiative_Update_2019.pdf)
 || Opening remarks| Chia Shen (NSF)
 9:30 AM|Keynote|Hal Abelson|[From Computational Thinking to Computational Action](https://drive.google.com/file/d/1nsrm_jdareIgz0OLTRPQjEDAl1LqGSww/view)
 10:15 AM|MS/HS Curriculum|Sarah Judd|[All means All: bringing project-based, approachable AI curriculum to more high school students through AI4ALL Open Learning](https://github.com/touretzkyds/ai4k12/raw/master/documents/2019-symposium/Judd_AI4K12_2019.pdf)
