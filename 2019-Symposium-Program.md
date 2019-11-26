@@ -34,7 +34,7 @@ Click here for the [[Symposium Home Page|2019 AAAI Fall Symposium]]
 4:00 PM|Teacher PD|Nancye Blair Black|Empowering Educators to Teach Artificial Intelligence
 4:20 PM|Teacher PD|Justin Reich|[INSPIRE CS-AI: Innovative New Spaces for Practice and Rehearsal in Teacher Education in Computer Science with Artificial Intelligence](https://github.com/touretzkyds/ai4k12/raw/master/documents/2019-symposium/Reich_AI4K12_2019.pdf)
 4:40 PM|Teacher PD|Elizabeth Taylor|[K-12 AI Outreach in Higher Education: Pathways for Implementation](https://github.com/touretzkyds/ai4k12/raw/master/documents/2019-symposium/Taylor_AI4K12_2019.pdf)
-5:00 PM|Teacher PD|Caitlin Quarrington|STEM-based AI education in professional development for K-12 teachers
+5:00 PM|Teacher PD|Caitlin Quarrington|[STEM-based AI education in professional development for K-12 teachers](https://github.com/touretzkyds/ai4k12/raw/master/documents/2019-symposium/Quarrington_AI4K12_profdevel_2019.pdf)
 5:20 PM|Discussion
 5:40 PM|Adjourn for the day
 6:00 PM|Plenary session (optional)|Ning Wang|Speakers from all 8 symposia will present brief (2-5 minutes) overviews of their key issues. [slide](https://github.com/touretzkyds/ai4k12/raw/master/documents/2019-symposium/Wang_AI4K12_one_slide_2019.pdf)
@@ -50,7 +50,7 @@ Click here for the [[Symposium Home Page|2019 AAAI Fall Symposium]]
 11:00 AM|International|Larisa Schelkin|[Bringing AI to K-12 Education via Global STEM Classroom®](https://github.com/touretzkyds/ai4k12/raw/master/documents/2019-symposium/Schelkin_AI4K12_2019.pdf)
 11:20 AM|International|Barnas Monteith|A Brief Comparative Review of Multiple International Approaches to AI K-12 Education
 11:40 AM|International Lightning Talks|Burak Gencay| CS in K-12
-||| Caitlin Quarrington | Supporting AI Literacy Through Informal STEM Education
+||| Caitlin Quarrington | [Supporting AI Literacy Through Informal STEM Education](https://github.com/touretzkyds/ai4k12/raw/master/documents/2019-symposium/Quarrington_AI4K12_informal_2019.pdf)
 ||| Fredrik Heintze | [Elements of AI: Teaching the Basics of AI to Everyone in Sweden](https://drive.google.com/open?id=1HupvjbjRGMtV9aH-LDXsW5DXtwOY0IDs) (video)
 ||| Martin Kandlhofer and Julia Lassnig | [European Driving License for Robots and Intelligent Systems](https://drive.google.com/open?id=1mB7PBqdj1SuZYQ4v6oOGfeAa84JCfWOl) (video)
 12:00 PM|**Lunch**|(on your own)
