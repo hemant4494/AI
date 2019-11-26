@@ -37,7 +37,7 @@ Click here for the [[Symposium Home Page|2019 AAAI Fall Symposium]]
 5:00 PM|Teacher PD|Caitlin Quarrington|STEM-based AI education in professional development for K-12 teachers
 5:20 PM|Discussion
 5:40 PM|Adjourn for the day
-6:00 PM|Plenary session (optional)|Ning Wang|Speakers from all 8 symposia will present brief (2-5 minutes) overviews of their key issues.
+6:00 PM|Plenary session (optional)|Ning Wang|Speakers from all 8 symposia will present brief (2-5 minutes) overviews of their key issues. [slide](https://github.com/touretzkyds/ai4k12/raw/master/documents/2019-symposium/Wang_AI4K12_one_slide_2019.pdf)
 
 ## Saturday November 9, 2019
 |Time|Session|Speaker|Title|
