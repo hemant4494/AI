@@ -26,7 +26,6 @@
 ### Academia/Industry ###
 * Hal Abelson, MIT
 * Cynthia Breazeal, MIT Media Lab
-* Matt Dawson, Google
 * Emily Reid, AI4All
 * Matthijs Spaan, TU Delft and AAAI
 
