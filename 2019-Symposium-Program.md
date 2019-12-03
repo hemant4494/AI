@@ -31,7 +31,7 @@ Click here for the [[Symposium Home Page|2019 AAAI Fall Symposium]]
 ||| Handeep Dhoot | [AI Books for Toddlers](https://drive.google.com/open?id=1mLSBufKPeCFaPhH47xL-50Nda_OMSXTE) (video)
 ||| Matthew Turner | [Barriers to Convergence with AI in K-12](https://github.com/touretzkyds/ai4k12/raw/master/documents/2019-symposium/Turner_AI4K12_2019.pdf)
 3:30 PM|**Coffee Break**
-4:00 PM|Teacher PD|Nancye Blair Black|Empowering Educators to Teach Artificial Intelligence
+4:00 PM|Teacher PD|Nancye Blair Black|[Empowering Educators to Teach Artificial Intelligence](https://github.com/touretzkyds/ai4k12/raw/master/documents/2019-symposium/Black_AI4K12_2019.pdf)
 4:20 PM|Teacher PD|Justin Reich|[INSPIRE CS-AI: Innovative New Spaces for Practice and Rehearsal in Teacher Education in Computer Science with Artificial Intelligence](https://github.com/touretzkyds/ai4k12/raw/master/documents/2019-symposium/Reich_AI4K12_2019.pdf)
 4:40 PM|Teacher PD|Elizabeth Taylor|[K-12 AI Outreach in Higher Education: Pathways for Implementation](https://github.com/touretzkyds/ai4k12/raw/master/documents/2019-symposium/Taylor_AI4K12_2019.pdf)
 5:00 PM|Teacher PD|Caitlin Quarrington|[STEM-based AI education in professional development for K-12 teachers](https://github.com/touretzkyds/ai4k12/raw/master/documents/2019-symposium/Quarrington_AI4K12_profdevel_2019.pdf)
