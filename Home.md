@@ -9,13 +9,17 @@ Welcome to the ai4k12 wiki! This interim site is being used to organize the AI f
 * You can also browse our [[Resource Directory]].
 
 ### Upcoming Events
-* [What Should K-12 Students Know About Artificial Intelligence?](http://princetonacm.acm.org/meetings/mtg1911.pdf) November 21, 2019. Princeton ACM / IEEE Computer Society joint meeting, Princeton, NJ.
+
+* EAAI panel, February 2020 in New York City.
 
 ### Recent Events
 
+* [What Should K-12 Students Know About Artificial Intelligence?](http://princetonacm.acm.org/meetings/mtg1911.pdf) November 21, 2019. Princeton ACM / IEEE Computer Society joint meeting, Princeton, NJ.
 * "What's Up in AI for K-12?" ISTE webinar. November 19, 2019. Video link coming soon.
 
 * [["Teaching AI in K-12" symposium|2019 AAAI Fall Symposium]], November 8-9, 2019, in Arlington, VA. Part of the [AAAI 2019 Fall Symposium Series](https://aaai.org/Symposia/Fall/fss19.php). Click [[here|2019 Symposium Program]] for the program.
+
+* [AI in K-12: What Students Should Know](https://github.com/touretzkyds/ai4k12/raw/master/documents/sySTEMnow-2019-10-31.pdf) at sySTEMnow conference, October 31, 2019 in Milwaukee, WI.
 
 * "K-12 AI Education and Outreach" workshop held September 21 at STARS 2019. [(slides)](https://github.com/touretzkyds/ai4k12/raw/master/documents/STARS-AI4K12-Workshop-2019-09-21.pdf)
 
