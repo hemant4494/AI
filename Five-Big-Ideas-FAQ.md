@@ -13,7 +13,7 @@ CSTA’s experience developing the 2011 and 2017 national standards for K-12 com
 
 ### Why are the big ideas presented in this particular order, starting with perception?
 
-The numbers are just for convenient reference. They do not indicate the priority or significance of their respective topics. Nor do they indicate the order in which big ideas must be introduced in a curriculum that aligns with the guidelines. In many cases we expect curriculum modules on complex topics (e.g., self-driving cars, or AI and healthcare) to reference all of the big ideas. 
+The order is aligned with several logical progressions. First, there is a logical flow from input to internal representations to actions and effects. Second, there is a progression from focused and concrete topics (vision, speech recognition) to broad, abstract topics (e.g., giving robots cultural knowledge, or preparing for the economic impacts of AI). Third, children’s first conscious encounters with AI often take the form of interaction with voice-based agents such as Alexa or Siri, or with computer vision applications such as face recognition. So it makes sense to start with perception.
 
 ### Why are the big ideas numbered?
 
