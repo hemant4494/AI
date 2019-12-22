@@ -3,7 +3,7 @@
 * Type: Documentary video
 * Series: PBS Frontline
 * Duration: 1 hour 54 minutes
-* Year: 2019 (November 9)
+* Year: 2019 (November 5)
 * Directors: Neil Docherty &]and David Fanning
 * Narrator: Will Lyman
 * Publisher: PBS.org
