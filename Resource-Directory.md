@@ -38,6 +38,7 @@
 ## Videos
 * [[Documentary: AlphaGo]]
 * [[Documentary: CyberWork and the American Dream]]
+* [[Documentary: Frontline: In the Age of AI]]
 * [[Video Playlist: Computer Vision]] (5 videos on computer vision projects at Google)
 * [[Video Series: Crash Course Artificial Intelligence]] (11 episodes)
 * [[Video Series: Crash Course Computer Science]] (5 episodes deal with AI)
