@@ -18,5 +18,8 @@ Some things to demonstrate:
 * Non-words can sometimes be "corrected" based on context. Try these examples, where we replace 'grapes' or 'drapes' with 'brapes':
 * * _"Start your fruit salad by cutting up the **b**rapes"_
 * * _"Brighten the room by drawing back the **b**rapes"_
+* Common sayings are recognized as a whole, not word by word. Compare these examples:
+* * _"Able was I ere I saw Elba"_ (a well known palindrome; Google recognizes it)
+* * _"Able were you ere you saw Elba"_ (not a palindrome and not well known; Google has trouble with this one)
 
 Also see this Google demo page: [https://www.google.com/intl/en/chrome/demos/speech.html](https://www.google.com/intl/en/chrome/demos/speech.html)
