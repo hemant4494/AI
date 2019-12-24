@@ -14,5 +14,9 @@ Some things to demonstrate:
 * Longer utterances usually work better than one or two word utterances.
 * Grammatical utterances are recognized much more easily than random strings of words.
 * Careful enunciation improves the recognition rate.
+* Homophones can often be disambiguated by context.  Try [these examples](https://examples.yourdictionary.com/examples-of-homophones.html) at yourdictionary.com.
+* Non-words can sometimes be "corrected" based on context. Try these examples, where we replace 'grapes' or 'drapes' with 'brapes':
+* * _"Start your fruit salad by cutting up the **b**rapes"_
+* * _"Brighten the room by opening up the **b**rapes"_
 
 Also see this Google demo page: [https://www.google.com/intl/en/chrome/demos/speech.html](https://www.google.com/intl/en/chrome/demos/speech.html)
