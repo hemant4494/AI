@@ -2,7 +2,7 @@
 * Subject area: various technologies powered by AI
 * Type: Video series
 * Duration: 35 to 60 minutes each
-* Publisher: YouTube Originals
+* Publisher: [YouTube Learning](https://www.youtube.com/channel/UCqVDpXKLmKeBU_yyt_QkItQ)
 * Year: 2019-2020
 * Host: Robert Downey Jr.
 * Watch online: [Series page](https://www.youtube.com/playlist?list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc)
