@@ -42,7 +42,7 @@
 * [[Video Playlist: Computer Vision]] (5 videos on computer vision projects at Google)
 * [[Video Series: Crash Course Artificial Intelligence]] (11 episodes)
 * [[Video Series: Crash Course Computer Science]] (5 episodes deal with AI)
-* [[Video Series: The Age of AI]]
+* [[Video Series: The Age of AI]] (YouTube Learning; 8 episodes)
 * [[Video: How Computer Vision is Finally Taking Off, After 50 Years]]
 * [[Video: How Computer Vision Works]]
 * [[Video: How Snapchat's Filters Work]]
