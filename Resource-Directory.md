@@ -14,6 +14,7 @@
 * [[Competition: WAICY]] (World Artificial Intelligence Competition for Youth)
 
 ## Curriculum Materials
+* [[Curriculum: AI for Oceans]] (Code.org machine learning intro)
 * [[Curriculum: ECS Alternate Curriculum Unit on Artificial Intelligence]]
 * [[Curriculum: IBM Activity Kits on AI]]
 
