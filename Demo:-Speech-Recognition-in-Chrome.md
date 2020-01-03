@@ -21,5 +21,10 @@ Some things to demonstrate:
 * Common sayings are recognized as a whole, not word by word. Compare these examples:
 * * _"Able was I ere I saw Elba"_ (a well known palindrome; Google recognizes it)
 * * _"Able were you ere you saw Elba"_ (not a palindrome and not well known; Google has trouble with this one)
+* Why does Google have problems with _"Able were you ere you saw Elba"_? Two reasons:
+* * The syntax is unusual and slightly awkward.
+* * The word "ere", which means "before", is archaic and not used in modern conversational English, so Google does its best to interpret this sound as some more common word, such as "ear", unless the context strongly points to "ere".
+* Try this quote from _The Hobbit_. Does Google get it? Do you think Google's training corpus might include famous literature?
+* * _"we must away, ere break of day"_
 
 Also see this Google demo page: [https://www.google.com/intl/en/chrome/demos/speech.html](https://www.google.com/intl/en/chrome/demos/speech.html)
