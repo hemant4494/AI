@@ -28,6 +28,6 @@ Some things to demonstrate:
 * * _"we must away, ere break of day"_
 * Google tries really hard to hear famous quotes correctly. Try this example:
 * * _"No man is an island"_ (John Donne,Meditation XVII)
-* * _"No man is an eyelid"_ (no one)
+* * _"No man is an eyelid"_ (unlikely to be in Google's training data)
 
 Also see this Google demo page: [https://www.google.com/intl/en/chrome/demos/speech.html](https://www.google.com/intl/en/chrome/demos/speech.html)
