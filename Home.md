@@ -14,6 +14,8 @@ Welcome to the ai4k12 wiki! This interim site is being used to organize the AI f
 
 ### Recent Events
 
+* [A Year in K-12 AI Education](https://aaai.org/ojs/index.php/aimagazine/article/view/5289) by D. Touretzky, C. Gardner-McCune, C. Breazeal, F. Martin, and D. Seehorn. AI Magazine 40(4):88-90, Winter 2019.
+
 * [What Should K-12 Students Know About Artificial Intelligence?](http://princetonacm.acm.org/meetings/mtg1911.pdf) November 21, 2019. Princeton ACM / IEEE Computer Society joint meeting, Princeton, NJ.
 * "What's Up in AI for K-12?" ISTE webinar. November 19, 2019. Video link coming soon.
 
