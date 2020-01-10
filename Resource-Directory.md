@@ -23,7 +23,7 @@
 * [[Demo: TensorFlow Playground]]
 
 ## Lists of Links
-* [[Links: Deep Fakes]]
+* [[Links: DeepFakes]]
 
 ## Online Professional Development Courses
 * [[Online Course: Artificial Intelligence Explorations and Their Practical Use in Schools]] (ISTE)
