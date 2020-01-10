@@ -22,6 +22,9 @@
 * [[Demo: Speech Recognition in Chrome]]
 * [[Demo: TensorFlow Playground]]
 
+## Lists of Links
+* [[Links: Deep Fakes]]
+
 ## Online Professional Development Courses
 * [[Online Course: Artificial Intelligence Explorations and Their Practical Use in Schools]] (ISTE)
 
