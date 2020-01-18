@@ -3,7 +3,7 @@
 
 **Location**: The [Westin Arlington Gateway](https://www.marriott.com/hotels/travel/wasag-the-westin-arlington-gateway/) in Arlington, Virginia.
 
-## Click here for [[Draft Program|2019 Symposium Program]]
+## Click here for [[Final Program|2019 Symposium Program]]
 
 **Web site**: [http://symposium.AI4K12.org](http://symposium.AI4K12.org)
 
