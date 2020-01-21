@@ -27,6 +27,7 @@
 
 ## Online Professional Development Courses
 * [[Online Course: Artificial Intelligence Explorations and Their Practical Use in Schools]] (ISTE)
+* [[Online Course: Teaching AI in the Classroom]] (CSER, Australia)
 
 ## Online Courses for K-12 Students
 * [[Online Course: AI and ME]] (ReadyAI)
