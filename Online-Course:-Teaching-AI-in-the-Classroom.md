@@ -5,6 +5,6 @@
 * URL: [https://csermoocs.adelaide.edu.au/available-moocs#teaching-ai-in-the-classroom](https://csermoocs.adelaide.edu.au/available-moocs#teaching-ai-in-the-classroom)
 * Provider: CSER (Computer Science Education Research Group), University of Adelaide, Australia
 
-Description: this course comes in two versions, one for the primary classroom and one for the secondary classroom. From the course web site:
+Description: this course comes in two versions, one for the primary classroom and one for the secondary classroom. The overview of AI (part 1) is the same, but the classroom activities (part 2) differs. From the course web site:
 
 >These free online courses are presented as two related parts. Firstly, we provide teachers with the necessary background information to teach and contextualise AI in the classroom. The second half of the course presents the practical implementation of classroom activities suitable for teaching AI and the concepts of AI primary or secondary years.
