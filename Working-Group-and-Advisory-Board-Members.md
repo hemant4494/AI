@@ -12,7 +12,6 @@
 
 ### 6-8 Grade Band ###
 * Padmaja Bandaru, Computer Science Teacher, Advanced Math And Science Academy Charter School, Marlborough, MA
-* Josh Caldwell, Seattle, WA
 * Charlotte Dungan, Instructor of Computer Science, North Carolina School of Science and Mathematics, Durham NC
 * Rachel Smith, Computer Integration Instructor, Newtown Middle School, New Milford, CT
 * **Sheena Vaidyanathan** (lead), Computer Science Teacher, Los Altos School District, Los Altos, CA
