@@ -10,9 +10,11 @@ Welcome to the ai4k12 wiki! This interim site is being used to organize the AI f
 
 ### Upcoming Events
 
-* EAAI panel, February 2020 in New York City.
+* Keynote talk at [IEEE Integrated STEM Education Conference](https://ewh.ieee.org/conf/stem/), March 28, 2020, Princeton, NJ.
 
 ### Recent Events
+
+* Panel on "K-12 AI Education in 2020" at EAAI-20 (Educational Advances in Artificial Intelligence), February 9, 2020, New York City. [slides](https://github.com/touretzkyds/ai4k12/raw/master/documents/EAAI_Panel_2020_02_09.pdf)
 
 * [A Year in K-12 AI Education](https://aaai.org/ojs/index.php/aimagazine/article/view/5289) by D. Touretzky, C. Gardner-McCune, C. Breazeal, F. Martin, and D. Seehorn. AI Magazine 40(4):88-90, Winter 2019.
 
