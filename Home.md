@@ -14,7 +14,7 @@ Welcome to the ai4k12 wiki! This interim site is being used to organize the AI f
 
 ### Recent Events
 
-* Panel on "K-12 AI Education in 2020" at EAAI-20 (Educational Advances in Artificial Intelligence), February 9, 2020, New York City. [(slides)](https://github.com/touretzkyds/ai4k12/raw/master/documents/EAAI_Panel_2020_02_09.pdf)
+* Panel on "K-12 AI Education in 2020" at EAAI-20 (Educational Advances in Artificial Intelligence), February 9, 2020, New York City. Slides: (1) [Touretzky & Gardner-McCune](https://github.com/touretzkyds/ai4k12/raw/master/documents/EAAI_Panel_2020_02_09_DST+CGM.pdf), (2) Breazeal (N/A), (3) [Aliabadi](https://github.com/touretzkyds/ai4k12/raw/master/documents/EAAI_Panel_2020_02_09_Aliabadi.pdf), (4) [Reid](https://github.com/touretzkyds/ai4k12/raw/master/documents/EAAI_Panel_2020_02_09_Reid.pdf)
 
 * [A Year in K-12 AI Education](https://aaai.org/ojs/index.php/aimagazine/article/view/5289) by D. Touretzky, C. Gardner-McCune, C. Breazeal, F. Martin, and D. Seehorn. AI Magazine 40(4):88-90, Winter 2019.
 
