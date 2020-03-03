@@ -12,6 +12,12 @@ Welcome to the ai4k12 wiki! This interim site is being used to organize the AI f
 
 * Keynote talk at [IEEE Integrated STEM Education Conference](https://ewh.ieee.org/conf/stem/), March 28, 2020, Princeton, NJ.
 
+* Workshop on "Learning Activities for Teaching AI in K-12" at CSTA-2020 in Arlington, VA. July 11, 2020 from 1:00 pm to 4:00 pm. Presenters: Sheena, Vaidyanathan, Deborah Seehorn, Kelly Powers, Jared Amalong, Vicky Sedgwick.
+
+* Birds of a Feather session on "Teahing Ethical AI in High Schools" at CSTA-2020 in Arlington, VA. July 13, 2020 from 11:45 AM to 12:45 PM. Moderated by Deborah Seehorn and Charlotte Dungan.
+
+* Breakout session on "Teaching AI Across K-12: What's New?" at CSTA-2020 in Arlington, VA. July 15, 2020 from 9:00 AM to 10:00 AM. Presenters: Sheena Vaidyanathan, Deborah Seehorn, Kelly Powers, Jared Amalong, Vicky Sedgwick.
+
 ### Recent Events
 
 * Panel on "K-12 AI Education in 2020" at EAAI-20 (Educational Advances in Artificial Intelligence), February 9, 2020, New York City. Slides: (1) [Touretzky & Gardner-McCune](https://github.com/touretzkyds/ai4k12/raw/master/documents/EAAI_Panel_2020_02_09_DST+CGM.pdf), (2) Breazeal (N/A), (3) [Aliabadi](https://github.com/touretzkyds/ai4k12/raw/master/documents/EAAI_Panel_2020_02_09_Aliabadi.pdf), (4) [Reid](https://github.com/touretzkyds/ai4k12/raw/master/documents/EAAI_Panel_2020_02_09_Reid.pdf)
