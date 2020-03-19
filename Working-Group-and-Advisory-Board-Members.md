@@ -2,7 +2,6 @@
 * Susan Amsler-Akacem,Tech Innovator and Ed Tech Dept Head, Lincoln School for Girls, Providence, RI
 * April DeGennaro, Teacher, Peeples Elementary, Atlanta, GA
 * **Vicky Sedgwick** (lead), K-8 Technology Teacher, St. Martin's Episcopal School, Winnetka, CA
-* Melissa Unger, Elementary STEAM Teacher, South Fayette School District, South Fayette, PA
 
 ### 3-5 Grade Band ###
 * Marlo Barnett, Technology Intervention Specialist, Carver Middle School, Chicago, IL
