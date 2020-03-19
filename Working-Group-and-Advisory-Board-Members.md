@@ -49,3 +49,10 @@ To contact the working group, email Dave Touretzky at dst (at) cs.cmu.edu
 * Tom Vander Ark, Getting Smart, Federal Way, WA
 * Joyce D. Williams, National Geospatial-Intelligence Agency, Springfield, VA
 
+### Past Working Group Members ###
+* Josh Caldwell
+* Diane O'Grady-Cuniff
+* Juan Palomares
+* Minsoo Park
+* Brian Stamford, Allegheny Intermediate Unit, Pittsburgh, PA
+* Melissa Unger, Elementary STEAM Teacher, South Fayette School District, South Fayette, PA
