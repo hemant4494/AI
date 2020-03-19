@@ -54,5 +54,6 @@ To contact the working group, email Dave Touretzky at dst (at) cs.cmu.edu
 * Diane O'Grady-Cuniff, Maryland Center for Computing Education, Adelphi, MD
 * Juan Palomares, Berendo Middle School, Los Angeles, CA
 * Minsoo Park, Countryside School, Champaign IL
+* Tess Posner, AI4All
 * Brian Stamford, Allegheny Intermediate Unit, Pittsburgh, PA
 * Melissa Unger, Elementary STEAM Teacher, South Fayette School District, South Fayette, PA
