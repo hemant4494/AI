@@ -10,7 +10,7 @@ Welcome to the ai4k12 wiki! This interim site is being used to organize the AI f
 
 ### Upcoming Events
 
-* Keynote talk by Dave Touretzky at [IEEE Integrated STEM Education Conference](https://ewh.ieee.org/conf/stem/), March 28, 2020, Princeton, NJ. "What should every student (and teacher) know about artificial intelligence?"
+* Keynote talk by Dave Touretzky at [IEEE Integrated STEM Education Conference](https://ewh.ieee.org/conf/stem/), POSTPONED (was March 28, 2020), Princeton, NJ. "What should every student (and teacher) know about artificial intelligence?"
 
 * Workshop on "Learning Activities for Teaching AI in K-12" at CSTA-2020 in Arlington, VA. July 11, 2020 from 1:00 pm to 4:00 pm. Presenters: Sheena, Vaidyanathan, Deborah Seehorn, Kelly Powers, Jared Amalong, Vicky Sedgwick.
 
