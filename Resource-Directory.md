@@ -20,6 +20,7 @@
 
 ## Demos
 * [[Demo: Speech Recognition in Chrome]]
+* [[Demo: Teachable Machine]]
 * [[Demo: TensorFlow Playground]]
 
 ## Lists of Links
