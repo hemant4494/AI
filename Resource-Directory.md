@@ -35,6 +35,9 @@
 * [[Online Course: AI4All Open Learning]] (AI4All)
 * [[Online Course: Elements of AI]] (Reaktor + University of Helsinki)
 
+## Resource Directories
+* [[Resource Directory: MIT AI Education]] (Innovating Learning and Education in the Era of AI)
+
 ## Software Packages
 * [[Software: Calypso for Cozmo]]
 * [[Software: Cognimates]]
