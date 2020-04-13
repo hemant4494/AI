@@ -15,6 +15,7 @@
 
 ## Curriculum Materials
 * [[Curriculum: AI for Oceans]] (Code.org machine learning intro)
+* [[Curriculum: AI + Ethics for Middle School]]
 * [[Curriculum: ECS Alternate Curriculum Unit on Artificial Intelligence]]
 * [[Curriculum: IBM Activity Kits on AI]]
 
