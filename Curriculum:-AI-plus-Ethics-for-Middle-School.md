@@ -1,4 +1,5 @@
 # AI + Ethics for Middle School
+* Title: An Ethics of Artificial Intelligence Curriculum for Middle School Students
 * Subject: AI ethics
 * Grades: 5-8 (middle school)
 * Author: Blakely H. Payne, MIT Media Lab
