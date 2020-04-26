@@ -15,7 +15,7 @@ Some things to demonstrate:
 * Grammatical utterances are recognized much more easily than random strings of words.
 * Careful enunciation improves the recognition rate.
 * Homophones such as "which"/"witch" can often be disambiguated by context.  Try [these examples](https://examples.yourdictionary.com/examples-of-homophones.html) at yourdictionary.com.
-* Non-words can sometimes be "corrected" based on context. Try these examples, where we replace 'grapes' or 'drapes' with 'brapes':
+* Non-words can sometimes be corrected based on context. Try these examples, where we replace 'grapes' or 'drapes' with the non-word 'brapes':
 * * _"Start your fruit salad by cutting up the **b**rapes"_
 * * _"Brighten the room by drawing back the **b**rapes"_
 * Common sayings are recognized as a whole, not word by word. Compare these examples:
