@@ -15,7 +15,7 @@
 
 ## Curriculum Materials
 * [[Curriculum: AI for Oceans]] (Code.org machine learning intro)
-* [[Curriculum: AI plus Ethics for Middle School]]
+* [[Curriculum: AI plus Ethics for Middle School]] (Blakely Payne, MIT_
 * [[Curriculum: ECS Alternate Curriculum Unit on Artificial Intelligence]]
 * [[Curriculum: IBM Activity Kits on AI]]
 
@@ -36,8 +36,13 @@
 * [[Online Course: AI4All Open Learning]] (AI4All)
 * [[Online Course: Elements of AI]] (Reaktor + University of Helsinki)
 
+## Reference Sources and Tutorials (Direct Links)
+* [The Artificial Intelligence Wiki](https://pathmind.com/wiki/index) (PathMind): encyclopedia-like accessible explanations of concepts in AI reasoning and machine learning
+* [Towards Data Science](https://towardsdatascience.com): blog with a mix of introductory articles and detailed technical explorations
+* [An Explanation of Machine Learning Even You Can Understand](https://thenextweb.com/neural/2020/04/25/machine-learning-models-explained-to-a-five-year-old-syndication/) (TheNextWeb): quick survey of the fundamentals
+
 ## Resource Directories
-* [[Resource Directory: MIT AI Education]] (Innovating Learning and Education in the Era of AI)
+* [[Resource Directory: MIT AI Education]] (Innovating Learning and Education in the Era of AI
 
 ## Software Packages
 * [[Software: Calypso for Cozmo]]
