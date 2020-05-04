@@ -33,6 +33,8 @@ Welcome to the ai4k12 wiki! This interim site is being used to organize the AI f
 
 * [AI in K-12: What Students Should Know](https://github.com/touretzkyds/ai4k12/raw/master/documents/sySTEMnow-2019-10-31.pdf) at sySTEMnow conference, October 31, 2019 in Milwaukee, WI.
 
+* [Ignite Commitmentt Talk - AI Curiosity](https://player.vimeo.com/video/372548385), Christina Gardner-McCune at the [CSForAll 2019 Summit](https://www.summit.csforall.org/archive-2019), October 22-23, 2019.
+
 * "K-12 AI Education and Outreach" workshop held September 21 at STARS 2019. [(slides)](https://github.com/touretzkyds/ai4k12/raw/master/documents/STARS-AI4K12-Workshop-2019-09-21.pdf)
 
 * "K-12 AI Playground", a workshop at [CSTA 2019](https://www.csteachers.org/page/2019conference) in Phoenix, AZ, on Monday, July 8, 2019, from 1:00 pm to 4:00 pm. [(slides)](https://github.com/touretzkyds/ai4k12/raw/master/documents/CSTA_Workshop_K-12_AI_Playground_20190708.pdf) [(supplement)](https://github.com/touretzkyds/ai4k12/raw/master/documents/CSTA_2019_Machine_Learning_Supplement.pdf)
