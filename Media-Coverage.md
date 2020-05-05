@@ -10,6 +10,8 @@
 
 * Chen, Bernice. "Interview with Dave Touretzky of Carnegie Mellon University." Association of International Researchers for Future Education (AIRFED), March 25, 2019. https://futureready.space/ai-education-for-k12-learners-interview-with-dave-touretzky/
 
+* DeNisco, Alison. "AI instruction readies K-12 students for future careers." District Administration, March 19, 2019. https://districtadministration.com/ai-instruction-readies-k-12-students-for-future-careers/
+
 * Drilinger, Danielle. "AI Curriculum Is Coming for K-12 At Last. What Will It Include?" EdSurge.com, January 15, 2019. https://www.edsurge.com/news/2019-01-15-ai-curriculum-is-coming-for-k-12-at-last-what-will-it-include
 
 * Vander Ark, Tom. "It's Time to Add AI To Your Robotics Competition." Forbes.com, January 11, 2019. https://www.forbes.com/sites/tomvanderark/2019/01/11/its-time-to-add-ai-to-your-robotics-competition/
