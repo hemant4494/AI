@@ -8,6 +8,8 @@
 
 * Fagella, Daniel. "China's AI Education Initiatives and What It Means for the US." Podcast interview with David Touretzky, July, 2019. https://open.spotify.com/episode/5MXfRKz5UoGLABjzGeGnFA
 
+* Cavanagh, Sean. "What Should K-12 Students Know About Artificial Intelligence? New Guidelines Are in the Works." EdWeek Market Brief, April 15, 2019. https://marketbrief.edweek.org/marketplace-k-12/k-12-students-know-artificial-intelligence-new-standards-works/
+
 * Chen, Bernice. "Interview with Dave Touretzky of Carnegie Mellon University." Association of International Researchers for Future Education (AIRFED), March 25, 2019. https://futureready.space/ai-education-for-k12-learners-interview-with-dave-touretzky/
 
 * DeNisco, Alison. "AI instruction readies K-12 students for future careers." District Administration, March 19, 2019. https://districtadministration.com/ai-instruction-readies-k-12-students-for-future-careers/
