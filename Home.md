@@ -71,6 +71,8 @@ Welcome to the ai4k12 wiki! This interim site is being used to organize the AI f
 
 **Five Big Ideas in AI**: a [poster](https://github.com/touretzkyds/ai4k12/raw/master/documents/AI4K12_Five_Big_Ideas_Poster.pdf) you can print, and an illustrative [graphic](https://github.com/touretzkyds/ai4k12/raw/master/documents/AI4K12_Five_Big_Ideas_Graphic.png). Click for [[copyright and licensing information | Licensing Terms]]. Short link: [https://bit.ly/ai4k12-five-big-ideas](https://bit.ly/ai4k12-five-big-ideas). This poster is also available in [Chinese](https://github.com/touretzkyds/ai4k12/raw/master/documents/AI4K12_Five_Big_Ideas_Poster_Chinese.pdf), [Korean](https://github.com/touretzkyds/ai4k12/raw/master/documents/AI4K12_Five_Big_Ideas_Poster_Korean.pdf), [Hebrew](https://github.com/touretzkyds/ai4k12/raw/master/documents/AI4K12_Five_Big_Ideas_Poster_Hebrew.pdf), and [Portugese](https://github.com/touretzkyds/ai4k12/raw/master/documents/AI4K12_Five_Big_Ideas_Poster_Portugese.pdf) and the text is available in [Turkish](https://github.com/touretzkyds/ai4k12/raw/master/documents/AI4K12_Five_Big_Ideas_Turkish.pdf).
 
+We have [icons](https://github.com/touretzkyds/ai4k12/raw/master/icons) available for each of the Five Big Ideas.
+
 Please use [this form](https://docs.google.com/forms/d/e/1FAIpQLSdn9G93qavpHk2r1xKikm4o0ftcRYGPvPCrKZ8UEWnWbGhFAA/viewform) to submit suggestions to our curated directory of AI for K-12 resources.
 
 The AI for K-12 guidelines will be modeled after the 2017 CSTA K-12 Computer Science Standards. You can:
