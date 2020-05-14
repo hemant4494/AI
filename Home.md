@@ -10,15 +10,15 @@ Welcome to the ai4k12 wiki! This interim site is being used to organize the AI f
 
 ### Upcoming Events
 
-* ![STEM for All Showcase Logo](https://github.com/touretzkyds/ai4k12/raw/master/images/STEM-for-All-Showcase.logo.png) Join us in [Sparking AI Curiosity with the AI4K12 Initiative](https://stemforall2020.videohall.com/) at the [STEM For All 2020 Video Showcase](https://stemforall2020.videohall.com/), May 5-11, 2020.
-
 * Workshop on "Learning Activities for Teaching AI in K-12" at CSTA-2020 virtual conference. July 11, 2020. Presenters: Sheena, Vaidyanathan, Deborah Seehorn, Kelly Powers, Jared Amalong, Vicky Sedgwick.
 
-* Birds of a Feather session on "Teahing Ethical AI in High Schools" at the CSTA-2020 virtaul conference. July 13. Moderated by Deborah Seehorn and Charlotte Dungan.
+* Birds of a Feather session on "Teaching Ethical AI in High Schools" at the CSTA-2020 virtaul conference. July 13. Moderated by Deborah Seehorn and Charlotte Dungan.
 
 * Breakout session on "Teaching AI Across K-12: What's New?" at the CSTA-2020 virtual conference. July 15, 2020. Presenters: Sheena Vaidyanathan, Deborah Seehorn, Kelly Powers, Jared Amalong, Vicky Sedgwick.
 
 ### Recent Events
+
+* [Sparking AI Curiosity with the AI4K12 Initiative](https://stemforall2020.videohall.com/presentations/1758) at the [STEM For All 2020 Video Showcase](https://stemforall2020.videohall.com/), May 5-11, 2020. Our video was a [Public Choice](https://stemforall2020.videohall.com/presentations#/winners/id=pc) recognition winner.
 
 * Keynote talk by Dave Touretzky at [IEEE Integrated STEM Education Conference](https://ewh.ieee.org/conf/stem/), POSTPONED (was March 28, 2020), Princeton, NJ. "What should every student (and teacher) know about artificial intelligence?"
 
