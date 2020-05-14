@@ -18,7 +18,7 @@ Welcome to the ai4k12 wiki! This interim site is being used to organize the AI f
 
 ### Recent Events
 
-* [Sparking AI Curiosity with the AI4K12 Initiative](https://stemforall2020.videohall.com/presentations/1758) at the [STEM For All 2020 Video Showcase](https://stemforall2020.videohall.com/), May 5-11, 2020. Our video was a [Public Choice](https://stemforall2020.videohall.com/presentations#/winners/id=pc) recognition winner.
+* Video presentation: [Sparking AI Curiosity with the AI4K12 Initiative](https://stemforall2020.videohall.com/presentations/1758) at the [STEM For All 2020 Video Showcase](https://stemforall2020.videohall.com/), May 5-11, 2020. Our video was a [Public Choice](https://stemforall2020.videohall.com/presentations#/winners/id=pc) recognition winner.
 
 * Keynote talk by Dave Touretzky at [IEEE Integrated STEM Education Conference](https://ewh.ieee.org/conf/stem/), POSTPONED (was March 28, 2020), Princeton, NJ. "What should every student (and teacher) know about artificial intelligence?"
 
