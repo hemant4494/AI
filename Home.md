@@ -10,7 +10,7 @@ Welcome to the ai4k12 wiki! This interim site is being used to organize the AI f
 
 ### Upcoming Events
 
-* CS4ALL Commitments Webinar with Christina Gardner McCune from AI4K12 (and two other panelists), Thursday, May 28, 12:00 to 1:00 PM Eastern time. [Registration link](https://us02web.zoom.us/meeting/register/tZwudu-urj4qGdV7oU_t8MR-vadl9JKJWzCX)
+* CSforALL Commitments Webinar with Christina Gardner-McCune from AI4K12 and two other panelists, Thursday, May 28, 12:00 to 1:00 PM Eastern time. [Registration link](https://us02web.zoom.us/meeting/register/tZwudu-urj4qGdV7oU_t8MR-vadl9JKJWzCX)
 
 * Workshop on "Learning Activities for Teaching AI in K-12" at CSTA-2020 virtual conference. July 11, 2020. Presenters: Sheena, Vaidyanathan, Deborah Seehorn, Kelly Powers, Jared Amalong, Vicky Sedgwick.
 
