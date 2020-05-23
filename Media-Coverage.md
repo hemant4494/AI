@@ -1,5 +1,8 @@
 # Media Coverage of the AI4K12 Initiative
 
+* Greengard, S. "A New Class of AI Ethics." Communications of the ACM, May 22, 2020.
+https://cacm.acm.org/news/245121-a-new-class-of-ai-ethics/fulltext
+
 * Welk, K.N. "AI for K-12: Bringing Next-Level Tech Skills Into the Classroom." The Elective, March 10, 2020. https://elective.collegeboard.org/ai-k-12-bringing-next-level-tech-skills-classroom
 
 * Vander Ark, Tom. "How to Teach Artificial Intelligence." Forbes.com, Febuary 12, 2020. https://www.forbes.com/sites/tomvanderark/2020/02/12/how-to-teach-artificial-intelligence/#54d595c85eac
