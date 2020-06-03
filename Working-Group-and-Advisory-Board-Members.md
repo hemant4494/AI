@@ -39,13 +39,13 @@ To contact the working group, email Dave Touretzky at dst (at) cs.cmu.edu
 * Miles Berry, Roehampton University, UK
 * Amy Eguchi, UCSD, San Diego, CA
 * Laura Schmidt, Milwaukee Tech Hub Coalition, Milwaukee, WI
-* Maitreyee Joshi, Microsoft, Seattle, WA
 * Irene Lee, MIT, Cambridge, MA
 * Dahua Lin, Chinese University of Hong Kong, China
 * Hari Raghavan, IBM, New York, NY
 * Wells Santo, Oakland, CA
 * Joseph South, ISTE, Portland, OR
 * Tom Vander Ark, Getting Smart, Federal Way, WA
+* Karon Weber, Microsoft, Seattle, WA
 * Joyce D. Williams, National Geospatial-Intelligence Agency, Springfield, VA
 
 ### Past Working Group and Advisory Board Members ###
