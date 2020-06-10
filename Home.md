@@ -10,8 +10,7 @@ Welcome to the ai4k12 wiki! This interim site is being used to organize the AI f
 * **NEW**: [Draft Big Idea #1 Progression Chart](https://bit.ly/36InJgi). Your feedback is needed; please fill out this [feedback form](https://forms.gle/hVqjLNSFRbw4dPcN8) by June 15, 2020.
 
 ### Upcoming Events
-
-* CSforALL Commitments Webinar with Christina Gardner-McCune from AI4K12 and two other panelists, Thursday, May 28, 12:00 to 1:00 PM Eastern time. [Registration link](https://us02web.zoom.us/meeting/register/tZwudu-urj4qGdV7oU_t8MR-vadl9JKJWzCX)
+* Workshop: "Write Your First AI Progam in 10 Minutes" at the [Constellations Virtual Computer Science PD Summit](https://hopin.to/events/constellations-virtual-computer-science-professional-development-summit), July 15, 2020 from 10:00 AM to 11:15 AM EST. An introduction to Calypso with Dave Touretzky. Registration for the Summit is free.
 
 * Workshop on "Learning Activities for Teaching AI in K-12" at CSTA-2020 virtual conference. July 11, 2020. Presenters: Sheena, Vaidyanathan, Deborah Seehorn, Kelly Powers, Jared Amalong, Vicky Sedgwick.
 
@@ -20,6 +19,8 @@ Welcome to the ai4k12 wiki! This interim site is being used to organize the AI f
 * Breakout session on "Teaching AI Across K-12: What's New?" at the CSTA-2020 virtual conference. July 15, 2020. Presenters: Sheena Vaidyanathan, Deborah Seehorn, Kelly Powers, Jared Amalong, Vicky Sedgwick.
 
 ### Recent Events
+
+* CSforALL Commitments Webinar with Christina Gardner-McCune from AI4K12 and two other panelists, Thursday, May 28, 12:00 to 1:00 PM Eastern time. [Registration link](https://us02web.zoom.us/meeting/register/tZwudu-urj4qGdV7oU_t8MR-vadl9JKJWzCX)
 
 * Video presentation: [Sparking AI Curiosity with the AI4K12 Initiative](https://stemforall2020.videohall.com/presentations/1758) at the [STEM For All 2020 Video Showcase](https://stemforall2020.videohall.com/), May 5-11, 2020. Our video was a [Public Choice](https://stemforall2020.videohall.com/presentations#/winners/id=pc) recognition winner.
 
