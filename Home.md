@@ -12,6 +12,8 @@ Welcome to the ai4k12 wiki! This interim site is being used to organize the AI f
 ### Upcoming Events
 * Workshop: "Write Your First AI Progam in 10 Minutes" at the [Constellations Virtual Computer Science PD Summit](https://hopin.to/events/constellations-virtual-computer-science-professional-development-summit), July 15, 2020 from 10:00 AM to 11:15 AM EST. An introduction to Calypso with Dave Touretzky. Registration for the Summit is free.
 
+* Panel discussion: "Why should Artificial Intelligence be part of Georgia's CS Courses?" at the [Constellations Virtual Computer Science PD Summit](https://hopin.to/events/constellations-virtual-computer-science-professional-development-summit), July 16, 2020 from 2:45 PM to 3:45 PM. Panelists are members of the AI4K12 Working Group: Dave Touretzky, Vicki Sedgwick, Kelly Powers, Charlotte Dungan, and Jared Amalog. Registration for the Summit is free.
+
 * Workshop on "Learning Activities for Teaching AI in K-12" at CSTA-2020 virtual conference. July 11, 2020. Presenters: Sheena, Vaidyanathan, Deborah Seehorn, Kelly Powers, Jared Amalong, Vicky Sedgwick.
 
 * Birds of a Feather session on "Teaching Ethical AI in High Schools" at the CSTA-2020 virtaul conference. July 13. Moderated by Deborah Seehorn and Charlotte Dungan.
