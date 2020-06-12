@@ -10,23 +10,29 @@ Welcome to the ai4k12 wiki! This interim site is being used to organize the AI f
 * **NEW**: [Draft Big Idea #1 Progression Chart](https://bit.ly/36InJgi). Your feedback is needed; please fill out this [feedback form](https://forms.gle/hVqjLNSFRbw4dPcN8) by June 15, 2020.
 
 ### Upcoming Events
+Constellations Virtual Computer Science PD Summit (June 15-18, 2020):
 * Workshop: "Write Your First AI Progam in 10 Minutes" at the [Constellations Virtual Computer Science PD Summit](https://hopin.to/events/constellations-virtual-computer-science-professional-development-summit), July 15, 2020 from 10:00 AM to 11:15 AM EST. An introduction to Calypso with Dave Touretzky. Registration for the Summit is free.
 
 * Panel discussion: "Why should Artificial Intelligence be part of Georgia's CS Courses?" at the [Constellations Virtual Computer Science PD Summit](https://hopin.to/events/constellations-virtual-computer-science-professional-development-summit), July 16, 2020 from 2:45 PM to 3:45 PM. Panelists are members of the AI4K12 Working Group: Dave Touretzky, Vicky Sedgwick, Kelly Powers, Charlotte Dungan, and Jared Amalog. Registration for the Summit is free.
+***
 
-* Workshop on "Learning Activities for Teaching AI in K-12" at CSTA-2020 virtual conference. July 11, 2020. Presenters: Sheena Vaidyanathan, Deborah Seehorn, Kelly Powers, Jared Amalong, Vicky Sedgwick.
+* Keynote talk by Dave Touretzky at [IEEE Integrated STEM Education Conference](https://ewh.ieee.org/conf/stem/), July 1, 2020. "What should every student (and teacher) know about artificial intelligence?"
 
-* Birds of a Feather session on "Teaching Ethical AI in High Schools" at the CSTA-2020 virtaul conference. July 13. Moderated by Deborah Seehorn and Charlotte Dungan.
+***
+CSTA-2020 Virtual Conference (July 13-14, 2020)
+* Workshop on "Learning Activities for Teaching AI in 6-12" at CSTA-2020 virtual conference. Monday July 13, 2020 from 1:15 to 2:00 PM CST. Presenters: Sheena Vaidyanathan and Jared Amalong.
 
-* Breakout session on "Teaching AI Across K-12: What's New?" at the CSTA-2020 virtual conference. July 15, 2020. Presenters: Sheena Vaidyanathan, Deborah Seehorn, Kelly Powers, Jared Amalong, Vicky Sedgwick.
+* Session on "Teaching AI Across K-12: What's New?" at the CSTA-2020 virtual conference. Monday, July 13, 2020 from 4:00 to 4:45 PM CST. Presenters: Sheena Vaidyanathan, Deborah Seehorn, Kelly Powers, Jared Amalong, Vicky Sedgwick.
+
+* Birds of a Feather session on "Teaching Ethical AI in High Schools" at the CSTA-2020 virtaul conference. Tuesday July 14, 2020 from 9:15 to 10:00 AM CSG. Moderated by Deborah Seehorn and Charlotte Dungan.
+
+* Workshop on "Learning Activities for Teaching AI in K-5" at CSTA-2020 virtual conference. Tuesday July 14, 2020 from 10:00 to 10:45 AM CST. Presenters: Vicky Sedgwick and Kelly Powers.
 
 ### Recent Events
 
 * CSforALL Commitments Webinar with Christina Gardner-McCune from AI4K12 and two other panelists, Thursday, May 28, 12:00 to 1:00 PM Eastern time. [Registration link](https://us02web.zoom.us/meeting/register/tZwudu-urj4qGdV7oU_t8MR-vadl9JKJWzCX)
 
 * Video presentation: [Sparking AI Curiosity with the AI4K12 Initiative](https://stemforall2020.videohall.com/presentations/1758) at the [STEM For All 2020 Video Showcase](https://stemforall2020.videohall.com/), May 5-11, 2020. Our video was a [Public Choice](https://stemforall2020.videohall.com/presentations#/winners/id=pc) recognition winner.
-
-* Keynote talk by Dave Touretzky at [IEEE Integrated STEM Education Conference](https://ewh.ieee.org/conf/stem/), POSTPONED (was March 28, 2020), Princeton, NJ. "What should every student (and teacher) know about artificial intelligence?"
 
 * Panel on "K-12 AI Education in 2020" at EAAI-20 (Educational Advances in Artificial Intelligence), February 9, 2020, New York City. Slides: (1) [Touretzky & Gardner-McCune](https://github.com/touretzkyds/ai4k12/raw/master/documents/EAAI_Panel_2020_02_09_DST+CGM.pdf), (2) Breazeal (N/A), (3) [Aliabadi](https://github.com/touretzkyds/ai4k12/raw/master/documents/EAAI_Panel_2020_02_09_Aliabadi.pdf), (4) [Reid](https://github.com/touretzkyds/ai4k12/raw/master/documents/EAAI_Panel_2020_02_09_Reid.pdf)
 
