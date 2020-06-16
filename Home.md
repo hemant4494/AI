@@ -7,7 +7,7 @@ Welcome to the ai4k12 wiki! This interim site is being used to organize the AI f
 * To read about the progress of the initiative, see these [slides](https://github.com/touretzkyds/ai4k12/raw/master/documents/ISTE_2019_Presentation_website_final.pdf).
 * To join the AI for K-12 mailing list, visit [this page](https://aaai.org/Organization/mailing-lists.php).
 * You can also browse our [[Resource Directory]] or index of [[Media Coverage]].
-* **NEW**: [Draft Big Idea #1 Progression Chart](https://bit.ly/36InJgi). Your feedback is needed; please fill out this [feedback form](https://forms.gle/hVqjLNSFRbw4dPcN8) by June 15, 2020.
+* **NEW**: [Draft Big Idea #1 Progression Chart](https://bit.ly/36InJgi). Your feedback is needed; please fill out this [feedback form](https://forms.gle/hVqjLNSFRbw4dPcN8) by June 22, 2020.
 
 ### Upcoming Events
 Constellations Virtual Computer Science PD Summit (June 15-18, 2020):
