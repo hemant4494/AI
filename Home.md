@@ -13,8 +13,6 @@ Welcome to the ai4k12 wiki! This interim site is being used to organize the AI f
 
 * Panel discussion: "Ideas from NC: #IAmCS, Teacher PD, Open Source and Artificial Intelligence" at the [Constellations Virtual Computer Science PD Summit](https://hopin.to/events/constellations-virtual-computer-science-professional-development-summit), July 17, 2020 from 2:45 PM to 3:45 PM. Panelists include Tiffany Barnes, Aria Chernik, and Charlotte Dungan, and Mary Hemphill. Registration for the Summit is free.
 
-***
-
 * Keynote talk by Dave Touretzky at [IEEE Integrated STEM Education Conference](https://ewh.ieee.org/conf/stem/), July 1, 2020. "What should every student (and teacher) know about artificial intelligence?"
 
 ***
@@ -29,7 +27,6 @@ CSTA-2020 Virtual Conference (July 13-14, 2020)
 
 ### Recent Events
 
-Constellations Virtual Computer Science PD Summit (June 15-18, 2020):
 * Workshop: "Write Your First AI Program in 10 Minutes" at the [Constellations Virtual Computer Science PD Summit](https://hopin.to/events/constellations-virtual-computer-science-professional-development-summit), July 15, 2020 from 10:00 AM to 11:15 AM EST. An introduction to Calypso with Dave Touretzky. [slides](https://github.com/touretzkyds/ai4k12/raw/master/documents/Constellations_2020_Calypso.pdf)
 
 * Presentation: "Artificial Intelligence is Elementary!" at the [Constellations Virtual Computer Science PD Summit](https://hopin.to/events/constellations-virtual-computer-science-professional-development-summit), July 16, 2020 from 10:00 AM to 11:15 AM EST. Presented by April DeGennaro. [slides](https://github.com/touretzkyds/ai4k12/raw/master/documents/Constellations_2020_AI_Is_Elementary.pdf)
