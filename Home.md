@@ -10,12 +10,6 @@ Welcome to the ai4k12 wiki! This interim site is being used to organize the AI f
 * **NEW**: [Draft Big Idea #1 Progression Chart](https://bit.ly/36InJgi). Your feedback is needed; please fill out this [feedback form](https://forms.gle/hVqjLNSFRbw4dPcN8) by June 22, 2020.
 
 ### Upcoming Events
-Constellations Virtual Computer Science PD Summit (June 15-18, 2020):
-* Workshop: "Write Your First AI Program in 10 Minutes" at the [Constellations Virtual Computer Science PD Summit](https://hopin.to/events/constellations-virtual-computer-science-professional-development-summit), July 15, 2020 from 10:00 AM to 11:15 AM EST. An introduction to Calypso with Dave Touretzky. [slides](https://github.com/touretzkyds/ai4k12/raw/master/documents/Constellations_2020_Calypso.pdf)
-
-* Presentation: "Artificial Intelligence is Elementary!" at the [Constellations Virtual Computer Science PD Summit](https://hopin.to/events/constellations-virtual-computer-science-professional-development-summit), July 16, 2020 from 10:00 AM to 11:15 AM EST. Presented by April DeGennaro. [slides](https://github.com/touretzkyds/ai4k12/raw/master/documents/Constellations_2020_AI_Is_Elementary.pdf)
-
-* Panel discussion: "Why should Artificial Intelligence be part of Georgia's CS Courses?" at the [Constellations Virtual Computer Science PD Summit](https://hopin.to/events/constellations-virtual-computer-science-professional-development-summit), July 16, 2020 from 2:45 PM to 3:45 PM. Panelists are members of the AI4K12 Working Group: Dave Touretzky, Vicky Sedgwick, Kelly Powers, Charlotte Dungan, and Jared Amalog. [slides](https://github.com/touretzkyds/ai4k12/raw/master/documents/Constellations_2020_AI_Panel.pdf)
 
 * Panel discussion: "Ideas from NC: #IAmCS, Teacher PD, Open Source and Artificial Intelligence" at the [Constellations Virtual Computer Science PD Summit](https://hopin.to/events/constellations-virtual-computer-science-professional-development-summit), July 17, 2020 from 2:45 PM to 3:45 PM. Panelists include Tiffany Barnes, Aria Chernik, and Charlotte Dungan, and Mary Hemphill. Registration for the Summit is free.
 
@@ -34,6 +28,13 @@ CSTA-2020 Virtual Conference (July 13-14, 2020)
 * Workshop on "Learning Activities for Teaching AI in K-5" at [CSTA-2020](https://web.cvent.com/event/c6254b47-740f-4232-a896-064f09fd0ab1/summary) virtual conference. Tuesday July 14, 2020 from 10:00 to 10:45 AM CST. Presenters: Vicky Sedgwick and Kelly Powers.
 
 ### Recent Events
+
+Constellations Virtual Computer Science PD Summit (June 15-18, 2020):
+* Workshop: "Write Your First AI Program in 10 Minutes" at the [Constellations Virtual Computer Science PD Summit](https://hopin.to/events/constellations-virtual-computer-science-professional-development-summit), July 15, 2020 from 10:00 AM to 11:15 AM EST. An introduction to Calypso with Dave Touretzky. [slides](https://github.com/touretzkyds/ai4k12/raw/master/documents/Constellations_2020_Calypso.pdf)
+
+* Presentation: "Artificial Intelligence is Elementary!" at the [Constellations Virtual Computer Science PD Summit](https://hopin.to/events/constellations-virtual-computer-science-professional-development-summit), July 16, 2020 from 10:00 AM to 11:15 AM EST. Presented by April DeGennaro. [slides](https://github.com/touretzkyds/ai4k12/raw/master/documents/Constellations_2020_AI_Is_Elementary.pdf)
+
+* Panel discussion: "Why should Artificial Intelligence be part of Georgia's CS Courses?" at the [Constellations Virtual Computer Science PD Summit](https://hopin.to/events/constellations-virtual-computer-science-professional-development-summit), July 16, 2020 from 2:45 PM to 3:45 PM. Panelists are members of the AI4K12 Working Group: Dave Touretzky, Vicky Sedgwick, Kelly Powers, Charlotte Dungan, and Jared Amalog. [slides](https://github.com/touretzkyds/ai4k12/raw/master/documents/Constellations_2020_AI_Panel.pdf)
 
 * CSforALL Commitments Webinar with Christina Gardner-McCune from AI4K12 and two other panelists, Thursday, May 28, 12:00 to 1:00 PM Eastern time. [slides](https://docs.google.com/presentation/d/1IfBR3GKDjnr787kQK4Idqbmw-iOnaE5ED5jMtWDP6hk/edit#slide=id.g7fdbbec8a5_0_190), [video](https://drive.google.com/file/d/101Q9RTF2yMxvmzGYsaffgE_KTlJ9tn9L/view?usp=sharing)
 
