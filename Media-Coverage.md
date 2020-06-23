@@ -1,5 +1,8 @@
 # Media Coverage of the AI4K12 Initiative
 
+* Doleatto, K. "Artificial intelligence in early learning: weird or warranted?" The Sarasota Herald-Tribune, June 22, 2020.
+https://www.heraldtribune.com/news/20200622/artificial-intelligence-in-early-learning-weird-or-warranted
+
 * Greengard, S. "A New Class of AI Ethics." Communications of the ACM, May 22, 2020.
 https://cacm.acm.org/news/245121-a-new-class-of-ai-ethics/fulltext
 
