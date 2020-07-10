@@ -11,7 +11,7 @@ Welcome to the ai4k12 wiki! This interim site is being used to organize the AI f
 
 ### Upcoming Events
 
-* Keynote talk: Dave Touretzky, "Developing National Guidelines for Teaching AI in K-12". July 10, 2020. [International Workshop on Education in Artificial Intelligence K-12 (EDUAI-20)](http://eduai19.ist.tugraz.at/index.php/workshop-program)
+* Keynote talk: Dave Touretzky, "Developing National Guidelines for Teaching AI in K-12". [International Workshop on Education in Artificial Intelligence K-12 (EDUAI-20)](http://eduai19.ist.tugraz.at/index.php/workshop-program), July 10, 2020. [slides](https://github.com/touretzkyds/ai4k12/raw/master/documents/EduAI2020_Touretzky_Keynote.pdf)
 
 * Keynote talk by Dave Touretzky at [IEEE Integrated STEM Education Conference](https://ewh.ieee.org/conf/stem/), August 1, 2020. "What should every student (and teacher) know about artificial intelligence?"
 
