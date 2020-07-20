@@ -20,6 +20,7 @@
 * [[Curriculum: IBM Activity Kits on AI]]
 
 ## Demos
+* [[Demos: Spectrograms and Waveforms]]
 * [[Demo: Speech Recognition in Chrome]]
 * [[Demo: Teachable Machine]]
 * [[Demo: TensorFlow Playground]]
