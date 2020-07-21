@@ -16,5 +16,5 @@ https://musiclab.chromeexperiments.com/Spectrogram/
 
 ***
 
-### Creatbility with Google: Seeing Music
+### Creatability with Google: Seeing Music
 https://creatability.withgoogle.com/seeing-music/
