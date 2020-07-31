@@ -15,7 +15,7 @@
 
 ## Curriculum Materials
 * [[Curriculum: AI for Oceans]] (Code.org machine learning intro)
-* [[Curriculum: AI plus Ethics for Middle School]] (Blakely Payne, MIT_
+* [[Curriculum: AI plus Ethics for Middle School]] (Blakely Payne, MIT)
 * [[Curriculum: ECS Alternate Curriculum Unit on Artificial Intelligence]]
 * [[Curriculum: IBM Activity Kits on AI]]
 
