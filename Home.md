@@ -31,7 +31,7 @@ EAAI conference, February 2021.
 * Workshop on [Learning Activities for Teaching AI in K-5](https://github.com/touretzkyds/ai4k12/raw/master/documents/CSTA2020_Learning_Activities_K-5.pdf)
  at [CSTA-2020](https://web.cvent.com/event/c6254b47-740f-4232-a896-064f09fd0ab1/summary) virtual conference. Tuesday July 14, 2020 from 10:00 to 10:45 AM CST. Presenters: Deborah Seehorn, Vicky Sedgwick and Kelly Powers.
 
-* Invited talk: Dave Touretzky, "Teaching Artificial Intelligence in K-12", July 3, 2020. [Software Edu Fest 2020](https://sef.connect.or.kr/trackc)
+* Invited talk: Dave Touretzky, [Teaching Artificial Intelligence in K-12](https://github.com/touretzkyds/ai4k12/raw/master/documents/SEF2020_Touretzky_keynote.pdf), July 3, 2020. [Software Edu Fest 2020](https://sef.connect.or.kr/trackc)
 
 * Panel discussion: "Ideas from NC: #IAmCS, Teacher PD, Open Source and Artificial Intelligence" at the [Constellations Virtual Computer Science PD Summit](https://hopin.to/events/constellations-virtual-computer-science-professional-development-summit), June 17, 2020 from 2:45 PM to 3:45 PM. Panelists include Tiffany Barnes, Aria Chernik, and Charlotte Dungan, and Mary Hemphill. Registration for the Summit is free.
 
