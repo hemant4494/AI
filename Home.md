@@ -22,11 +22,9 @@ EAAI conference, February 2021.
 
 * Keynote talk: Dave Touretzky, "Developing National Guidelines for Teaching AI in K-12". [International Workshop on Education in Artificial Intelligence K-12 (EDUAI-20)](http://eduai19.ist.tugraz.at/index.php/workshop-program), July 10, 2020. [slides](https://github.com/touretzkyds/ai4k12/raw/master/documents/EduAI2020_Touretzky_Keynote.pdf)
 
-***
-CSTA-2020 Virtual Conference (July 13-14, 2020)
 * Workshop on "Learning Activities for Teaching AI in 6-12" at [CSTA-2020](https://web.cvent.com/event/c6254b47-740f-4232-a896-064f09fd0ab1/summary) virtual conference. Monday July 13, 2020 from 1:15 to 2:00 PM CST. Presenters: Sheena Vaidyanathan and Jared Amalong.
 
-* Session on "Teaching AI Across K-12: What's New?" at the [CSTA-2020](https://web.cvent.com/event/c6254b47-740f-4232-a896-064f09fd0ab1/summary) virtual conference. Monday, July 13, 2020 from 4:00 to 4:45 PM CST. Presenters: Sheena Vaidyanathan, Deborah Seehorn, Kelly Powers, Jared Amalong, Vicky Sedgwick.
+* Session on [Teaching AI Across K-12: What's New?](https://github.com/touretzkyds/ai4k12/raw/master/documents/CSTA2020_Teaching_AI_Across_K-12.pdf) at the [CSTA-2020](https://web.cvent.com/event/c6254b47-740f-4232-a896-064f09fd0ab1/summary) virtual conference. Monday, July 13, 2020 from 4:00 to 4:45 PM CST. Presenters: Vicky Sedgwick, Sheena Vaidyanathan, Kelly Powers, Jared Amalong, and Deborah Seehorn.
 
 * Birds of a Feather session on "Teaching Ethical AI in High Schools" at the [CSTA-2020](https://web.cvent.com/event/c6254b47-740f-4232-a896-064f09fd0ab1/summary) virtual conference. Tuesday July 14, 2020 from 9:15 to 10:00 AM CSG. Moderated by Deborah Seehorn and Charlotte Dungan.
 
