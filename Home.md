@@ -22,13 +22,14 @@ EAAI conference, February 2021.
 
 * Keynote talk: Dave Touretzky, "Developing National Guidelines for Teaching AI in K-12". [International Workshop on Education in Artificial Intelligence K-12 (EDUAI-20)](http://eduai19.ist.tugraz.at/index.php/workshop-program), July 10, 2020. [slides](https://github.com/touretzkyds/ai4k12/raw/master/documents/EduAI2020_Touretzky_Keynote.pdf)
 
-* Workshop on "Learning Activities for Teaching AI in 6-12" at [CSTA-2020](https://web.cvent.com/event/c6254b47-740f-4232-a896-064f09fd0ab1/summary) virtual conference. Monday July 13, 2020 from 1:15 to 2:00 PM CST. Presenters: Sheena Vaidyanathan and Jared Amalong.
-
 * Session on [Teaching AI Across K-12: What's New?](https://github.com/touretzkyds/ai4k12/raw/master/documents/CSTA2020_Teaching_AI_Across_K-12.pdf) at the [CSTA-2020](https://web.cvent.com/event/c6254b47-740f-4232-a896-064f09fd0ab1/summary) virtual conference. Monday, July 13, 2020 from 4:00 to 4:45 PM CST. Presenters: Vicky Sedgwick, Kelly Powers, Sheena Vaidyanathan, Jared Amalong, and Deborah Seehorn.
 
 * Birds of a Feather session on "Teaching Ethical AI in High Schools" at the [CSTA-2020](https://web.cvent.com/event/c6254b47-740f-4232-a896-064f09fd0ab1/summary) virtual conference. Tuesday July 14, 2020 from 9:15 to 10:00 AM CSG. Moderated by Deborah Seehorn and Charlotte Dungan.
 
-* Workshop on "Learning Activities for Teaching AI in K-5" at [CSTA-2020](https://web.cvent.com/event/c6254b47-740f-4232-a896-064f09fd0ab1/summary) virtual conference. Tuesday July 14, 2020 from 10:00 to 10:45 AM CST. Presenters: Vicky Sedgwick and Kelly Powers.
+* Workshop on [Learning Activities for Teaching AI in 6-12](https://github.com/touretzkyds/ai4k12/raw/master/documents/CSTA2020_Learning_Activities_6-12.pdf_ at [CSTA-2020](https://web.cvent.com/event/c6254b47-740f-4232-a896-064f09fd0ab1/summary) virtual conference. Monday July 13, 2020 from 1:15 to 2:00 PM CST. Presenters: Sheena Vaidyanathan and Jared Amalong.
+
+* Workshop on [Learning Activities for Teaching AI in K-5](https://github.com/touretzkyds/ai4k12/raw/master/documents/CSTA2020_Learning_Activities_K-5.pdf)
+ at [CSTA-2020](https://web.cvent.com/event/c6254b47-740f-4232-a896-064f09fd0ab1/summary) virtual conference. Tuesday July 14, 2020 from 10:00 to 10:45 AM CST. Presenters: Deborah Seehorn, Vicky Sedgwick and Kelly Powers.
 
 * Invited talk: Dave Touretzky, "Teaching Artificial Intelligence in K-12", July 3, 2020. [Software Edu Fest 2020](https://sef.connect.or.kr/trackc)
 
