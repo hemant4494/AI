@@ -16,6 +16,10 @@ EAAI conference, February 2021.
 
 * Keynote talk by Dave Touretzky at [IEEE Integrated STEM Education Conference](https://ewh.ieee.org/conf/stem/), August 1, 2020. "What should every student (and teacher) know about artificial intelligence?" [slides](https://github.com/touretzkyds/ai4k12/raw/master/documents/ISEC2020_Touretzky_Keynote.pdf)
 
+* [Introduction to Teachable Machine and Machine Learning For Kids](https://www.youtube.com/watch?v=FC6_7V0bHiU), Fred Martin, July 30, 2020, on the [RoboFun](https://www.robofun.org/) podcast with Laura Hart.
+
+* [Why your kids should learn about artificial intelligence](https://youtu.be/xRa32c3tEgw), Fred Martin, July 16, 2020, on the [RoboFun](https://www.robofun.org/) podcast with Laura Hart.
+
 * Keynote talk: Dave Touretzky, "Developing National Guidelines for Teaching AI in K-12". [International Workshop on Education in Artificial Intelligence K-12 (EDUAI-20)](http://eduai19.ist.tugraz.at/index.php/workshop-program), July 10, 2020. [slides](https://github.com/touretzkyds/ai4k12/raw/master/documents/EduAI2020_Touretzky_Keynote.pdf)
 
 ***
