@@ -10,10 +10,13 @@ Welcome to the ai4k12 wiki! This interim site is being used to organize the AI f
 * **NEW**: [Draft Big Idea #1 Progression Chart](https://bit.ly/36InJgi). Your feedback is needed; please fill out this [feedback form](https://forms.gle/hVqjLNSFRbw4dPcN8) by June 22, 2020.
 
 ### Upcoming Events
+EAAI conference, February 2021.
+
+### Recent Events
+
+* Keynote talk by Dave Touretzky at [IEEE Integrated STEM Education Conference](https://ewh.ieee.org/conf/stem/), August 1, 2020. "What should every student (and teacher) know about artificial intelligence?" [slides](https://github.com/touretzkyds/ai4k12/raw/master/documents/ISEC2020_Touretzky_Keynote.pdf)
 
 * Keynote talk: Dave Touretzky, "Developing National Guidelines for Teaching AI in K-12". [International Workshop on Education in Artificial Intelligence K-12 (EDUAI-20)](http://eduai19.ist.tugraz.at/index.php/workshop-program), July 10, 2020. [slides](https://github.com/touretzkyds/ai4k12/raw/master/documents/EduAI2020_Touretzky_Keynote.pdf)
-
-* Keynote talk by Dave Touretzky at [IEEE Integrated STEM Education Conference](https://ewh.ieee.org/conf/stem/), August 1, 2020. "What should every student (and teacher) know about artificial intelligence?"
 
 ***
 CSTA-2020 Virtual Conference (July 13-14, 2020)
@@ -25,7 +28,6 @@ CSTA-2020 Virtual Conference (July 13-14, 2020)
 
 * Workshop on "Learning Activities for Teaching AI in K-5" at [CSTA-2020](https://web.cvent.com/event/c6254b47-740f-4232-a896-064f09fd0ab1/summary) virtual conference. Tuesday July 14, 2020 from 10:00 to 10:45 AM CST. Presenters: Vicky Sedgwick and Kelly Powers.
 
-### Recent Events
 * Invited talk: Dave Touretzky, "Teaching Artificial Intelligence in K-12", July 3, 2020. [Software Edu Fest 2020](https://sef.connect.or.kr/trackc)
 
 * Panel discussion: "Ideas from NC: #IAmCS, Teacher PD, Open Source and Artificial Intelligence" at the [Constellations Virtual Computer Science PD Summit](https://hopin.to/events/constellations-virtual-computer-science-professional-development-summit), June 17, 2020 from 2:45 PM to 3:45 PM. Panelists include Tiffany Barnes, Aria Chernik, and Charlotte Dungan, and Mary Hemphill. Registration for the Summit is free.
