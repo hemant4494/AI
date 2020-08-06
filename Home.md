@@ -3,7 +3,7 @@
 # Direct link: [AI4K12.org](http://AI4K12.org)
 ## [[Resource Directory]] <-- Click Here
 
-Welcome to the ai4k12 wiki! This interim site is being used to organize the AI for K-12 initiative jointly sponsored by [AAAI](https://AAAI.org) and [CSTA](https://csteachers.org). This page will help us get started on the dialog that will eventually result in (1) national guidelines for AI education for K-12, (2) an online, curated resource Directory to facilitate AI instruction, and (3) a community of resource and tool developers focused on the AI for K-12 audience. 
+Welcome to the ai4k12 wiki! This interim site is being used to organize the AI for K-12 initiative jointly sponsored by the [Association for the Advancement of Artificial Intelligence](https://AAAI.org) (AAAI) and the [Computer Science Teachers Association](https://csteachers.org) (CSTA). This page will help us get started on the dialog that will eventually result in (1) national guidelines for AI education for K-12, (2) an online, curated resource Directory to facilitate AI instruction, and (3) a community of resource and tool developers focused on the AI for K-12 audience. 
 * To read about the progress of the initiative, see these [slides](https://github.com/touretzkyds/ai4k12/raw/master/documents/ISTE_2019_Presentation_website_final.pdf).
 * To join the AI for K-12 mailing list, visit [this page](https://aaai.org/Organization/mailing-lists.php).
 * You can also browse our [[Resource Directory]] or index of [[Media Coverage]].
