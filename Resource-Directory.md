@@ -35,6 +35,7 @@
 
 ## Online Courses for K-12 Students
 * [[Online Course: AI and ME]] (ReadyAI)
+* [[Online Course: AI Foundations Powered by ISTE and IBM]]
 * [[Online Course: AI4All Open Learning]] (AI4All)
 * [[Online Course: Elements of AI]] (Reaktor + University of Helsinki)
 
