@@ -1,4 +1,4 @@
-* Series Title: AI and Me
+* Series Title: AI+Me
 * Subject: The Five Big Ideas in AI (one per book)
 * Type: Kindle e-books or printed softcover volumes
 * Age range: K-2
