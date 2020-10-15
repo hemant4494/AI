@@ -10,6 +10,7 @@
 
 ## Children's Books
 * [[Book Series: AI and ME]] (ReadyAI)
+* [[Book Series: AI Made Simple]] (edsquare)
 * [[Book Series: The World of Artificial Intelligence 4D]]
 * [[Book Series: Tinker Toddlers]]
 
