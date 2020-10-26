@@ -27,6 +27,7 @@
 
 ## Demos
 * [[Demos: Spectrograms and Waveforms]]
+* [[Demo: Erase Your Face]]
 * [[Demo: Speech Recognition in Chrome]]
 * [[Demo: Teachable Machine]]
 * [[Demo: TensorFlow Playground]]
