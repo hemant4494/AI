@@ -1,4 +1,4 @@
-= Erase Your Face =
+# Erase Your Face #
 * Name: Erase  Your Face
 * Subject area: Facial recognition
 * Type: Online demo
