@@ -29,7 +29,7 @@
 
 ### Steering Committee ###
 * Christina Gardner-McCune, University of Florida (co-chair), Gainesville, FL
-* Fred Martin, U. Mass. Lowell and CSTA Chair
+* Fred Martin (emeritus member), U. Mass. Lowell and former CSTA Board Chair
 * Deborah Seehorn, CSTA
 * Dave Touretzky, Carnegie Mellon (chair), Pittsburgh, PA
 
@@ -38,11 +38,12 @@ To contact the working group, email Dave Touretzky at dst (at) cs.cmu.edu
 ### Advisory Board ###
 * Miles Berry, Roehampton University, UK
 * Amy Eguchi, UCSD, San Diego, CA
-* Laura Schmidt, Milwaukee Tech Hub Coalition, Milwaukee, WI
+* Morgan Grimes, Amazon, Cincinatti, OH
 * Irene Lee, MIT, Cambridge, MA
 * Dahua Lin, Chinese University of Hong Kong, China
 * Hari Raghavan, IBM, New York, NY
 * Wells Santo, Oakland, CA
+* Laura Schmidt, Milwaukee Tech Hub Coalition, Milwaukee, WI
 * Joseph South, ISTE, Portland, OR
 * Tom Vander Ark, Getting Smart, Federal Way, WA
 * Karon Weber, Microsoft, Seattle, WA
