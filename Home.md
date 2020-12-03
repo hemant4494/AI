@@ -15,6 +15,8 @@ Welcome to the ai4k12 wiki! This interim site is being used to organize the AI f
 
 ### Recent Events
 
+* Talk by Dave Touretzky at the [2020 Global SW Education Conference](https://www.youtube.com/watch?v=MQi5NAXgNzU), November 3-4, 2020, in Seoul, Korea. [slides](https://github.com/touretzkyds/ai4k12/raw/master/documents/GlobalSWEdu2020_Touretzky.pdf)
+
 * Keynote talk by Dave Touretzky at [IEEE Integrated STEM Education Conference](https://ewh.ieee.org/conf/stem/), August 1, 2020. "What should every student (and teacher) know about artificial intelligence?" [slides](https://github.com/touretzkyds/ai4k12/raw/master/documents/ISEC2020_Touretzky_Keynote.pdf)
 
 * [Introduction to Teachable Machine and Machine Learning For Kids](https://www.youtube.com/watch?v=FC6_7V0bHiU) (part 2), Fred Martin, July 30, 2020, on the [RoboFun](https://www.robofun.org/) podcast with Laura Hart.
