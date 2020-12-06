@@ -52,7 +52,7 @@
 * [The difference between AI and machine learning, explained](https://thenextweb.com/syndication/2018/11/21/the-difference-between-ai-and-machine-learning-explained/) (TheNextWeb): insightful discussion of the nature of AI and its relationship to ML
 
 ## Resource Directories
-* [[Resource Directory: MIT AI Education]] (Innovating Learning and Education in the Era of AI
+* [[Resource Directory: MIT AI Education]] (Innovating Learning and Education in the Era of AI)
 
 ## Software Packages
 * [[Software: Calypso for Cozmo]]
