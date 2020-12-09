@@ -7,15 +7,15 @@
 |------|
 | Welcome and Workshop Overview
 | Introductions
-| AI Visions Activity - Why Teach K-12 AI in your state?
+| AI Visions Activity - Why Teach K-12 AI in Your State?
 | Overview of the AI4K12 Initiative
 | Four Currrent K-12 AI State & District Models Presentations
 | Presenter Q&A
 | Coffee Break
-| Overview: AI Implementation Plan (adaptation of SCRIPT) Part 1: Inrastructure
+| Overview: AI Implementation Plan (adaptation of SCRIPT) Part 1: Infrastructure
 | Breakout: AI Implementation Plan Part 1
 | Day 1 Wrap-Up
-| Adjourn until tomorow
+| Adjourn until tomorrow
 
 ## Day 2: Friday, January 29, 2021
 |Agenda|
