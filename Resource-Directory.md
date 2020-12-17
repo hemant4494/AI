@@ -9,6 +9,7 @@
 * [[Report: Automation and Artificial Intelligence: How machines are affecting people and places]]
 
 ## Children's Books
+* [[Book: How to Train Your Robot]]
 * [[Book Series: AI and ME]] (ReadyAI)
 * [[Book Series: AI Made Simple]] (edsquare)
 * [[Book Series: The World of Artificial Intelligence 4D]]
