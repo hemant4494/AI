@@ -73,6 +73,7 @@
 * [[Video: How Computer Vision is Finally Taking Off, After 50 Years]]
 * [[Video: How Computer Vision Works]]
 * [[Video: How Snapchat's Filters Work]]
+* [[Video: How to Train Your Robot]] (for K-8)
 * [[Video: Humans Need Not Apply]]
 * [[Video: The Power and Limits of Artificial Intelligence]]
 * [[Video: The Rise of AI]]
