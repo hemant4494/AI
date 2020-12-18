@@ -1,5 +1,6 @@
 # The State of K-12 AI Education in Your State: A Planning Workshop
 ### An Invitation-Only Workshop
+### Funded by National Science Foundation award DRL-1846073
 
 ## Day 1: Thursday, January 28, 2021
 
