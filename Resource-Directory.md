@@ -27,6 +27,7 @@
 * [[Curriculum: IBM Activity Kits on AI]]
 
 ## Demos
+* [[Demos: Convolutional Neural Nets]]
 * [[Demos: Spectrograms and Waveforms]]
 * [[Demo: Erase Your Face]]
 * [[Demo: Speech Recognition in Chrome]]
