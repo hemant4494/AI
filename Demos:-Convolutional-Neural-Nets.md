@@ -1,0 +1,9 @@
+# Convolutional Neural Net Demos
+
+* [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
+
+* [ConvNetJS MNIST demo](https://cs.stanford.edu/people/karpathy/convnetjs/demo/mnist.html)
+
+* [ConvNetjS CIFAR-10 demo](https://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html)
+
+* [Face Detection Demo](https://www.cs.cmu.edu/~dst/FaceDemo)
