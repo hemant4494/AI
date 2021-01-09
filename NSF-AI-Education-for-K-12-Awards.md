@@ -17,15 +17,13 @@
 
 * [1933961](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1933961) and [1933915](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1933915) “Integrating Physical Computing and Data Science in Movement Based Learning”; DesPortes, Kayla, New York University and Ben Shapiro, University of Colorado, Boulder
 
-* 1938778 “Collaborative Research: Building Capacity for K-12 Artificial Intelligence Education Research”
-Wang, Ning; University of Southern California;
-https://www.nsf.gov/awardsearch/showAward?AWD_ID=19387581842385 “Learning Mathematical Concepts and Computational Thinking through Explainable Artificial
-Intelligence in a Simulation-based Learning Environment” Wang, Ning; University of Southern California;
-https://www.nsf.gov/awardsearch/showAward?AWD_ID=1842385
-AISL
-* 1906895 “Innovative approaches to Informal Education in Artificial Intelligence” Soep, Elisabeth; Youth
-Radio;
-https://www.nsf.gov/awardsearch/showAward?AWD_ID=1906895
+* [1938778](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1938758) “Collaborative Research: Building Capacity for K-12 Artificial Intelligence Education Research”; Wang, Ning; University of Southern California
+
+* [1842385](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1842385) “Learning Mathematical Concepts and Computational Thinking through Explainable Artificial Intelligence in a Simulation-based Learning Environment” Wang, Ning; University of Southern California
+
+## AISL
+
+* [1906895](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1906895) “Innovative approaches to Informal Education in Artificial Intelligence” Soep, Elisabeth; Youth Radio
 
 ## CS for All
 
