@@ -5,7 +5,7 @@
 
 * [2048746](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2048746) “Everyday AI for Youth: Investigating Middle School Teacher Education, Classroom Implementation, and the Associated Student Learning Outcomes of an Innovative AI Curriculum” Irene Lee, MIT; Helen Zhang, Boston University
 
-* [1846073](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1846073) “Developing K-12 Education Guidelines for Artificial Intelligence” Touretzky, David S; Carnegie-Mellon University
+* [1846073](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1846073) “Developing K-12 Education Guidelines for Artificial Intelligence” David S. Touretzky; Carnegie-Mellon University
 
 * [1949110](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1949110&HistoricalAwards=false) “Narrative Modeling with StoryQ: Integrating Mathematics, Language Arts, and Computing to Create Pathways to Artificial Intelligence Careers” Jie Chao (Concord Consortium), William Finzer (Concord Consortium), Carolyn Rose (CMU), Shiyan Jiang (NCSU)
 
