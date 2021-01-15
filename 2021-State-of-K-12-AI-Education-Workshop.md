@@ -28,14 +28,14 @@
 |11:00 AM| Welcome Back & Objectives
 |11:10 AM| AI Showcase
 |11:50 AM| Coffee Break
-|11:55 AM| Overview: AI Implementation Plan (adaptation of SCRIPT) Part 2: Teacher Capacity, Professional Learning, Curriculum & Resources
+|11:55 AM| Overview: AI Implementation Plan Part 2: Teacher Capacity, Professional Learning, Curriculum & Resources
 |12:10 PM| Breakout: AI Implementation Plan Part 2: Teacher Capacity, Professional Learning, Curriculum & Resources
 |1:00 PM| Coffee Break
 |1:10 PM| State & District Share Out (3 mins each)
 |1:50 PM| Transition
 |1:55 PM| Peer & Facilitator Feedback
 |2:45 PM| Transition
-|2:47 PM| Stqate Refinement & Incorporate Feedback
+|2:47 PM| State Refinement & Incorporate Feedback
 |3:02 PM| Transition
 |3:04 PM| Day 2 Survey & Next Steps
 |3:24 PM| Evaluation
