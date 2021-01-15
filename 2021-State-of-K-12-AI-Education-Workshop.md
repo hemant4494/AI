@@ -24,7 +24,7 @@
 
 ## Day 2: Friday, January 29, 2021
 |Start|Agenda|
-|-----|------|
+|--------|------|
 |11:00 AM| Welcome Back & Objectives
 |11:10 AM| AI Showcase
 |11:50 AM| Coffee Break
