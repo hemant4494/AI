@@ -46,7 +46,7 @@ Welcome to the ai4k12 wiki! This interim site is being used to organize the AI f
 
 * Workshop: "Write Your First AI Program in 10 Minutes" at the [Constellations Virtual Computer Science PD Summit](https://hopin.to/events/constellations-virtual-computer-science-professional-development-summit), June 15, 2020 from 10:00 AM to 11:15 AM EST. An introduction to Calypso with Dave Touretzky. [slides](https://github.com/touretzkyds/ai4k12/raw/master/documents/Constellations_2020_Calypso.pdf)
 
-* CSforALL Commitments Webinar with Christina Gardner-McCune from AI4K12 and two other panelists, Thursday, May 28, 12:00 to 1:00 PM Eastern time. [slides](https://docs.google.com/presentation/d/1IfBR3GKDjnr787kQK4Idqbmw-iOnaE5ED5jMtWDP6hk/edit#slide=id.g7fdbbec8a5_0_190), [video](https://drive.google.com/file/d/101Q9RTF2yMxvmzGYsaffgE_KTlJ9tn9L/view?usp=sharing)
+* CSforALL Commitments Webinar with Christina Gardner-McCune from AI4K12 and two other panelists, Thursday, May 28, 2000, 12:00 to 1:00 PM Eastern time. [slides](https://docs.google.com/presentation/d/1IfBR3GKDjnr787kQK4Idqbmw-iOnaE5ED5jMtWDP6hk/edit#slide=id.g7fdbbec8a5_0_190), [video](https://drive.google.com/file/d/101Q9RTF2yMxvmzGYsaffgE_KTlJ9tn9L/view?usp=sharing)
 
 * Video presentation: [Sparking AI Curiosity with the AI4K12 Initiative](https://stemforall2020.videohall.com/presentations/1758) at the [STEM For All 2020 Video Showcase](https://stemforall2020.videohall.com/), May 5-11, 2020. Our video was a [Public Choice](https://stemforall2020.videohall.com/presentations#/winners/id=pc) recognition winner.
 
