@@ -11,7 +11,7 @@ Welcome to the ai4k12 wiki! This interim site is being used to organize the AI f
 * You can also browse our [[Resource Directory]] or index of [[Media Coverage]].
 * **NEW**: [Draft of Big Idea #3 Progression Chart (Learning)](https://bit.ly/3nDgcqa). Your feedback is needed; please fill out this [feedback form](https://bit.ly/3lNvdFq)
 * [Draft Big Idea #1 Progression Chart (Perception)](https://bit.ly/36InJgi). Your feedback is needed; please fill out this [feedback form](https://forms.gle/hVqjLNSFRbw4dPcN8).
-* Book chapter: [AI Thinking in K-12](https://github.com/touretzkyds/ai4k12/raw/master/documents/Touretzky_Gardner-McCune_AI-Thinking_2021.pdf)
+* Book chapter: [Artificial Intelligence Thinking in K-12](https://github.com/touretzkyds/ai4k12/raw/master/documents/Touretzky_Gardner-McCune_AI-Thinking_2021.pdf)
 
 ### Upcoming Events
 * [EAAI-21](https://pages.mtu.edu/~lebrown/eaai/) (Educational Advances in Artificial Intelligence) virtual conference, February 6-7 2021. Includes a special track on "Demos, Tools, and Activities for Teaching AI in K-12". 
