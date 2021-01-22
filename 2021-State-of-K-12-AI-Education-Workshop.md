@@ -2,7 +2,7 @@
 ### An Invitation-Only Workshop
 ### Funded by National Science Foundation award DRL-1846073
 
-## Day 1: Thursday, January 28, 2021
+## Day 1: Thursday, January 28, 2021; Times are EST
 
 |Start|Agenda|
 |-----|------|
@@ -22,7 +22,7 @@
 |3:40 PM| Adjourn until tomorrow
 |3:40 PM| Networking: Extend the day / After Party
 
-## Day 2: Friday, January 29, 2021
+## Day 2: Friday, January 29, 2021; Times are EST
 |Start|Agenda|
 |--------|------|
 |11:00 AM| Welcome Back & Objectives
