@@ -35,7 +35,7 @@
 |1:50 PM| Transition
 |1:55 PM| Peer & Facilitator Feedback
 |2:45 PM| Transition
-|2:47 PM| State Refinement & Incorporate Feedback
+|2:47 PM| State Refinement & Incorporation of Feedback
 |3:02 PM| Transition
 |3:04 PM| Day 2 Survey & Next Steps
 |3:24 PM| Evaluation
