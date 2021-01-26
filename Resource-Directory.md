@@ -70,6 +70,7 @@
 * [[Video Series: Crash Course Artificial Intelligence]] (11 episodes)
 * [[Video Series: Crash Course Computer Science]] (5 episodes deal with AI)
 * [[Video Series: EverydAI]]
+* [[Video Series: How AI Works]] (from Code.org)
 * [[Video Series: The Age of AI]] (YouTube Learning; 8 episodes)
 * [[Video: How Computer Vision is Finally Taking Off, After 50 Years]]
 * [[Video: How Computer Vision Works]]
