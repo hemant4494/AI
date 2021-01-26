@@ -57,6 +57,7 @@
 * [[Resource Directory: MIT AI Education]] (Innovating Learning and Education in the Era of AI)
 
 ## Software Packages
+* [[Software: AI with MIT App Inventor]]
 * [[Software: Calypso for Cozmo]]
 * [[Software: Cognimates]]
 * [[Software: eCraft2Learn]]
