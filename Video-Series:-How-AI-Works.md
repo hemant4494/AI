@@ -1,6 +1,7 @@
 * Title: How AI Works
 * Type: Video Series
-* Subject areas: AI, machine learning, neural networks
+* Subject areas: AI, machine learning, neural networks, ethics
+* Duration: 2 to 7 minutes each
 * Publisher: [Code.org](https://code.org)
 * URL: [https://code.org/ai#ai-videos](https://code.org/ai#ai-videos)
 * Year: 2020
