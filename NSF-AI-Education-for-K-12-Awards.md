@@ -1,13 +1,17 @@
 # NSF AI Education for K12 Awards (FY18-FY20)
 ## ITEST
 
+* [2048480](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2048480) “Fostering Computer Science and AI Learning through Youth-Led Conversational App Development Experiences” Kristy Boyer & Maya Israel, University of Florida
+
 * [2049022](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2049022) “Preparing High School Students for Careers in Machine Learning through Mentored Scientific Research” Mark Weckel & Preeti Gupta, AMNH; Irene Lee, MIT
 
 * [2048746](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2048746) “Everyday AI for Youth: Investigating Middle School Teacher Education, Classroom Implementation, and the Associated Student Learning Outcomes of an Innovative AI Curriculum” Irene Lee, MIT; Helen Zhang, Boston University
 
-* [1846073](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1846073) “Developing K-12 Education Guidelines for Artificial Intelligence” David S. Touretzky; Carnegie-Mellon University
+* [2022402](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2022502) “EAGER: Developing AI Literacy Interventions to Teach Fundamental Concepts in AI”, Irene Lee, Cynthia Breazeal (MIT); Helen Zhang (Boston University)
 
 * [1949110](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1949110&HistoricalAwards=false) “Narrative Modeling with StoryQ: Integrating Mathematics, Language Arts, and Computing to Create Pathways to Artificial Intelligence Careers” Jie Chao (Concord Consortium), William Finzer (Concord Consortium), Carolyn Rose (CMU), Shiyan Jiang (NCSU)
+
+* [1846073](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1846073) “Developing K-12 Education Guidelines for Artificial Intelligence” David S. Touretzky; Carnegie-Mellon University
 
 ## STEM+C
 
