@@ -53,6 +53,9 @@
 * [An Explanation of Machine Learning Even You Can Understand](https://thenextweb.com/neural/2020/04/25/machine-learning-models-explained-to-a-five-year-old-syndication/) (TheNextWeb): quick survey of the fundamentals
 * [The difference between AI and machine learning, explained](https://thenextweb.com/syndication/2018/11/21/the-difference-between-ai-and-machine-learning-explained/) (TheNextWeb): insightful discussion of the nature of AI and its relationship to ML
 
+## Research
+* [[NSF AI Education for K-12 Awards]]
+
 ## Resource Directories
 * [[Resource Directory: MIT AI Education]] (Innovating Learning and Education in the Era of AI)
 
