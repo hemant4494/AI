@@ -1,5 +1,8 @@
 # Media Coverage of the AI4K12 Initiative
 
+* Spice, B. "Workshop Sparks State Initiatives in AI Education." Carnegie Mellon University Computer Science Department, February 8, 2021.
+https://www.cs.cmu.edu/news/workshop-sparks-state-initiatives-ai-education
+
 * Doleatto, K. "Artificial intelligence in early learning: weird or warranted?" The Sarasota Herald-Tribune, June 22, 2020.
 https://www.heraldtribune.com/news/20200622/artificial-intelligence-in-early-learning-weird-or-warranted
 
