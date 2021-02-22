@@ -6,6 +6,9 @@ https://www.cs.cmu.edu/news/workshop-sparks-state-initiatives-ai-education
 * Vander Ark, T. "The Two Most Important Things We Don't Teach." Forbes.com, February 3, 2021.
 https://www.forbes.com/sites/tomvanderark/2021/02/03/the-two-most-important-things-we-dont-teach/
 
+* Mendoza, N. F. "Teaching AI to Fourth Graders is a Thing Now." TechRepublic.com, June 24, 2020.
+https://www.techrepublic.com/article/teaching-ai-to-fourth-graders-is-a-thing-now/
+
 * Doleatto, K. "Artificial intelligence in early learning: weird or warranted?" The Sarasota Herald-Tribune, June 22, 2020.
 https://www.heraldtribune.com/news/20200622/artificial-intelligence-in-early-learning-weird-or-warranted
 
