@@ -14,9 +14,13 @@ Welcome to the ai4k12 wiki! This interim site is being used to organize the AI f
 * Book chapter: [Artificial Intelligence Thinking in K-12](https://github.com/touretzkyds/ai4k12/raw/master/documents/Touretzky_Gardner-McCune_AI-Thinking_2021.pdf)
 
 ### Upcoming Events
-* [EAAI-21](https://pages.mtu.edu/~lebrown/eaai/) (Educational Advances in Artificial Intelligence) virtual conference, February 6-7 2021. Includes a special track on "Demos, Tools, and Activities for Teaching AI in K-12". 
+Stay tuned.
 
 ### Recent Events
+
+* [EAAI-21](https://pages.mtu.edu/~lebrown/eaai/) (Educational Advances in Artificial Intelligence) virtual conference, February 6-7 2021. Includes a special track on "Demos, Tools, and Activities for Teaching AI in K-12".
+
+* "The State of K-12 AI Education in Your State: A Planning Workshop", January 28-29, 2021. Invitation-only workshop for state-level planning for incorporating AI into the K-12 curriculum. See this [press release](https://ai4k12.org/wp-content/uploads/2021/02/AI4K12-workshop-PR-2021-02-05.pdf) and [workshop schedule](https://ai4k12.org/news/the-state-of-k-12-ai-education-in-your-state-a-planning-workshop/).
 
 * Talk by Dave Touretzky at the [2020 Global SW Education Conference](https://www.youtube.com/watch?v=MQi5NAXgNzU), November 3-4, 2020, in Seoul, Korea. [slides](https://github.com/touretzkyds/ai4k12/raw/master/documents/GlobalSWEdu2020_Touretzky.pdf)
 
