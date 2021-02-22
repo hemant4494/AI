@@ -22,6 +22,10 @@ Stay tuned.
 
 * "The State of K-12 AI Education in Your State: A Planning Workshop", January 28-29, 2021. Invitation-only workshop for state-level planning for incorporating AI into the K-12 curriculum. See this [press release](https://ai4k12.org/wp-content/uploads/2021/02/AI4K12-workshop-PR-2021-02-05.pdf) and [workshop schedule](https://ai4k12.org/news/the-state-of-k-12-ai-education-in-your-state-a-planning-workshop/).
 
+* "AI & Machine Learning" track at [The Future of CS: Emerging Concepts in CS Education](https://www.csteachers.org/Events/the-future-of-cs-emerging-concepts-in-cs-educ), hosted by CSTA. January 16, 2021. Introduction by Christina Gardner-McCune, and multiple presentations by AI4K12 Working Group members.
+
+* Talk by Dave Touretzky, "Why AI4K12?", at the workshop on Engaging High School Teachers and Students in Artificial Intelligence Applications and Developments, January 15, 2021. Sponsored by Colorado State University - Pueblo, and District 60 and District 70 Schools.
+
 * Talk by Dave Touretzky at the [2020 Global SW Education Conference](https://www.youtube.com/watch?v=MQi5NAXgNzU), November 3-4, 2020, in Seoul, Korea. [slides](https://github.com/touretzkyds/ai4k12/raw/master/documents/GlobalSWEdu2020_Touretzky.pdf)
 
 * Keynote talk by Dave Touretzky at [IEEE Integrated STEM Education Conference](https://ewh.ieee.org/conf/stem/), August 1, 2020. "What should every student (and teacher) know about artificial intelligence?" [slides](https://github.com/touretzkyds/ai4k12/raw/master/documents/ISEC2020_Touretzky_Keynote.pdf)
