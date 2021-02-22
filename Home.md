@@ -18,6 +18,8 @@ Stay tuned.
 
 ### Recent Events
 
+* Talk by Dave Touretzky, "Artificial Intelligence Thinking in K-12", at the February meeting of the Silicon Valley chapter of CSTA. February 17, 2021. [slides](https://github.com/touretzkyds/ai4k12/raw/master/documents/SV_CSTA_2021_Touretzky.pdf)
+
 * [EAAI-21](https://pages.mtu.edu/~lebrown/eaai/) (Educational Advances in Artificial Intelligence) virtual conference, February 6-7 2021. Includes a special track on "Demos, Tools, and Activities for Teaching AI in K-12".
 
 * "The State of K-12 AI Education in Your State: A Planning Workshop", January 28-29, 2021. Invitation-only workshop for state-level planning for incorporating AI into the K-12 curriculum. See this [press release](https://ai4k12.org/wp-content/uploads/2021/02/AI4K12-workshop-PR-2021-02-05.pdf) and [workshop schedule](https://ai4k12.org/news/the-state-of-k-12-ai-education-in-your-state-a-planning-workshop/).
