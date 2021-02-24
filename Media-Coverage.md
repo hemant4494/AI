@@ -1,5 +1,8 @@
 # Media Coverage of the AI4K12 Initiative
 
+* NSF Director Sethuraman Panchanathan highlighted the work of the AI4K12 Initiative in his opening remarks to a meeting of the National Science Board on February 23, 2021.
+https://www.youtube.com/watch?v=6JjWhwMhIKM&feature=youtu.be&t=1384
+
 * Spice, B. "Workshop Sparks State Initiatives in AI Education." Carnegie Mellon University Computer Science Department, February 8, 2021.
 https://www.cs.cmu.edu/news/workshop-sparks-state-initiatives-ai-education
 Reprinted by [DailyAdvent.com](https://www.dailyadvent.com/news/f8ffa63592fa2a3eda7a25ab4abb830b-Workshop-Sparks-State-Initiatives-in-AI-Education)
