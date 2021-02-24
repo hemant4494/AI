@@ -34,6 +34,8 @@ Stay tuned.
 
 * Talk by Dave Touretzky at the [2020 Global SW Education Conference](https://www.youtube.com/watch?v=MQi5NAXgNzU), November 3-4, 2020, in Seoul, Korea. [slides](https://github.com/touretzkyds/ai4k12/raw/master/documents/GlobalSWEdu2020_Touretzky.pdf)
 
+* Panel discussion on "Paving Pathways for Equitable AI" at the 2020 GTC (GPU Technology Conference) on October 6 2020, featuring Hodan Omaar (moderator; AI policy Analyst, ITIF’s Center for Data Innovation), Christina Gardner-McCune(AI4K12 Co-Chair), Tess Posner (AI4ALL CEO), and Lisa Abel-Palmieri (Boys & Girls Clubs of Western Pennsylvania's President & CEO). The panel was part of the GTC program on [Advancing Equitable AI](https://www.nvidia.com/en-us/gtc/session-catalog/?search.language=1594320459782001LCjF&tab.catalogtabfields=1600209910618002Tlxt&search=a21718#/session/1598373115891001puCM)
+
 * Keynote talk by Dave Touretzky at [IEEE Integrated STEM Education Conference](https://ewh.ieee.org/conf/stem/), August 1, 2020. "What should every student (and teacher) know about artificial intelligence?" [slides](https://github.com/touretzkyds/ai4k12/raw/master/documents/ISEC2020_Touretzky_Keynote.pdf)
 
 * [Introduction to Teachable Machine and Machine Learning For Kids](https://www.youtube.com/watch?v=FC6_7V0bHiU) (part 2), Fred Martin, July 30, 2020, on the [RoboFun](https://www.robofun.org/) podcast with Laura Hart.
