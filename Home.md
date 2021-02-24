@@ -28,7 +28,7 @@ Stay tuned.
 * * AI in the K-12 Landscape. Christina Gardner-McCune, AI4K12 co-chair. Slides: [pdf](https://github.com/touretzkyds/ai4k12/raw/master/documents/CSTA_Future_2021_Gardner-McCune.pdf) or [Google doc](https://docs.google.com/presentation/d/1-YgQQUV2C_6LYdcyTtz16ba1wQ_Kc8dNqTeXjHX_7yA/edit?usp=sharing)
 * * Integrating AI in the K-5 Classroom. Vicky Sedgwick, Kelly Powers, and Alexis Cobo, AI4K12 Working Group. Slides: [pdf](https://github.com/touretzkyds/ai4k12/raw/master/documents/CSTA_Future_2021_K-5.pdf) or [Google doc](https://docs.google.com/presentation/d/1Nlv_8c324Bov6jcYW8OCIoJwUQrPQtacIlcN5gJy2_8/view)
 * * Middle School AI Integration. Charlotte Dungan, AI4K12 Working Group. No slides.
-* * Artificial Intelligence Pathways in 9-12. Jared Amalong and John Chapin, AI4K12 Working Group. Slides: [pdf] (https://github.com/touretzkyds/ai4k12/raw/master/documents/CSTA_Future_2021_grades_9-12.pdf) or [Google doc](https://docs.google.com/presentation/d/17tSOybisKAekRqGA_Vq-9EXEzrFaEf2I9p0wmjBCJ5U/view)
+* * Artificial Intelligence Pathways in 9-12. Jared Amalong and John Chapin, AI4K12 Working Group. Slides: [pdf](https://github.com/touretzkyds/ai4k12/raw/master/documents/CSTA_Future_2021_grades_9-12.pdf) or [Google doc](https://docs.google.com/presentation/d/17tSOybisKAekRqGA_Vq-9EXEzrFaEf2I9p0wmjBCJ5U/view)
 
 * Talk by Dave Touretzky, "Why AI4K12?", at the workshop on Engaging High School Teachers and Students in Artificial Intelligence Applications and Developments, January 15, 2021. Sponsored by Colorado State University - Pueblo, and District 60 and District 70 Schools.
 
