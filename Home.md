@@ -24,7 +24,11 @@ Stay tuned.
 
 * "The State of K-12 AI Education in Your State: A Planning Workshop", January 28-29, 2021. Invitation-only workshop for state-level planning for incorporating AI into the K-12 curriculum. See this [press release](https://ai4k12.org/wp-content/uploads/2021/02/AI4K12-workshop-PR-2021-02-05.pdf) and [workshop schedule](https://ai4k12.org/news/the-state-of-k-12-ai-education-in-your-state-a-planning-workshop/).
 
-* "AI & Machine Learning" track at [The Future of CS: Emerging Concepts in CS Education](https://www.csteachers.org/Events/the-future-of-cs-emerging-concepts-in-cs-educ), hosted by CSTA. January 16, 2021. Introduction by Christina Gardner-McCune, and multiple presentations by AI4K12 Working Group members.
+* "AI & Machine Learning" track at [The Future of CS: Emerging Concepts in CS Education Summit](https://www.csteachers.org/Events/the-future-of-cs-emerging-concepts-in-cs-educ), hosted by CSTA. January 16, 2021.
+* * AI in the K-12 Landscape. Christina Gardner-McCune, AI4K12 co-chair. Slides: [pdf](https://github.com/touretzkyds/ai4k12/raw/master/documents/CSTA_Future_2021_Gardner-McCune.pdf) [Google Doc](https://docs.google.com/presentation/d/1-YgQQUV2C_6LYdcyTtz16ba1wQ_Kc8dNqTeXjHX_7yA/edit?usp=sharing)
+* * Integrating AI in the K-5 Classroom. Vicky Sedgwick, Kelly Powers, and Alexis Cobo, AI4K12 Working Group. Slides: [pdf](https://github.com/touretzkyds/ai4k12/raw/master/documents/CSTA_Future_2021_K-5.pdf) [Google Doc](https://docs.google.com/presentation/d/1Nlv_8c324Bov6jcYW8OCIoJwUQrPQtacIlcN5gJy2_8/view)
+* * Middle School AI Integration. Charlotte Dungan, AI4K12 Working Group. No slides.
+* * Artificial Intelligence Pathways in 9-12. Jared Amalong and John Chapin, AI4K12 Working Group. Slides: [pdf](https://github.com/touretzkyds/ai4k12/raw/master/documents/CSTA_Future_2021_grades_9-12.pdf) [Google Doc]https://docs.google.com/presentation/d/17tSOybisKAekRqGA_Vq-9EXEzrFaEf2I9p0wmjBCJ5U/view)
 
 * Talk by Dave Touretzky, "Why AI4K12?", at the workshop on Engaging High School Teachers and Students in Artificial Intelligence Applications and Developments, January 15, 2021. Sponsored by Colorado State University - Pueblo, and District 60 and District 70 Schools.
 
