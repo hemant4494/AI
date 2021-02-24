@@ -2,9 +2,19 @@
 
 * Spice, B. "Workshop Sparks State Initiatives in AI Education." Carnegie Mellon University Computer Science Department, February 8, 2021.
 https://www.cs.cmu.edu/news/workshop-sparks-state-initiatives-ai-education
+Reprinted by [DailyAdvent.com](https://www.dailyadvent.com/news/f8ffa63592fa2a3eda7a25ab4abb830b-Workshop-Sparks-State-Initiatives-in-AI-Education)
 
 * Vander Ark, T. "The Two Most Important Things We Don't Teach." Forbes.com, February 3, 2021.
 https://www.forbes.com/sites/tomvanderark/2021/02/03/the-two-most-important-things-we-dont-teach/
+
+* Hand, M. "At GTC, executives focus on equity in AI and developer diversity." marc-hand.com, October, 2020.
+https://marc-hand.com/2020/10/at-gtc-executives-focus-on-equity-in-ai-and-developer-diversity/
+
+* University of Florida Department of Computer & Information Science & Engineering. "A National Effort to Define K-12 AI Curriculum." Bytes: A News Magazine. September 29, 2020, p. 11.
+https://issuu.com/ufwertheim/docs/fall_2020_uf_cise_bytes_news_magazine
+
+* University of Florida Department of Computer & Information Science & Engineering. "Gardner-McCune working on national effort to define K-12 AI curriculum." August 13, 2020.
+https://www.cise.ufl.edu/gardner-mccune-working-on-national-effort-to-define-k-12-ai-curriculum/
 
 * Mendoza, N. F. "Teaching AI to Fourth Graders is a Thing Now." TechRepublic.com, June 24, 2020.
 https://www.techrepublic.com/article/teaching-ai-to-fourth-graders-is-a-thing-now/
