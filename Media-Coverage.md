@@ -7,8 +7,8 @@ Reprinted by [DailyAdvent.com](https://www.dailyadvent.com/news/f8ffa63592fa2a3e
 * Vander Ark, T. "The Two Most Important Things We Don't Teach." Forbes.com, February 3, 2021.
 https://www.forbes.com/sites/tomvanderark/2021/02/03/the-two-most-important-things-we-dont-teach/
 
-* Hand, M. "At GTC, executives focus on equity in AI and developer diversity." marc-hand.com, October, 2020.
-https://marc-hand.com/2020/10/at-gtc-executives-focus-on-equity-in-ai-and-developer-diversity/
+* Stewart, L. "At GTC, Educators and Leaders Focus on Equity in AI, Developer Diversity." NVIDIA blog, October 14, 2020.
+https://blogs.nvidia.com/blog/2020/10/14/gtc-ai-equity-developer-diversity/
 
 * University of Florida Department of Computer & Information Science & Engineering. "A National Effort to Define K-12 AI Curriculum." Bytes: A News Magazine. September 29, 2020, p. 11.
 https://issuu.com/ufwertheim/docs/fall_2020_uf_cise_bytes_news_magazine
