@@ -1,7 +1,7 @@
 # NSF AI Education for K12 Awards (FY18-FY20)
 ## ITEST
 
-* [2049029](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2049029) and [2048502](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2048502) "Collaborative Research: AI4GA - Developing Artificial Intelligence Competencies, Career Awareness, and Interest in Georgia Middle School Teachers and Students" David Touretzky, Carnegie Mellon, and Christina Gardner-McCune, University of Florida
+* [2049029](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2049029) and [2048502](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2048502) "Collaborative Research: AI4GA - Developing Artificial Intelligence Competencies, Career Awareness, and Interest in Georgia Middle School Teachers and Students" David Touretzky, Carnegie Mellon University, and Christina Gardner-McCune, University of Florida
 
 * [2048480](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2048480) “Fostering Computer Science and AI Learning through Youth-Led Conversational App Development Experiences” Kristy Boyer & Maya Israel, University of Florida
 
@@ -13,7 +13,7 @@
 
 * [1949110](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1949110&HistoricalAwards=false) “Narrative Modeling with StoryQ: Integrating Mathematics, Language Arts, and Computing to Create Pathways to Artificial Intelligence Careers” Jie Chao (Concord Consortium), William Finzer (Concord Consortium), Carolyn Rose (CMU), Shiyan Jiang (NCSU)
 
-* [1846073](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1846073) “Developing K-12 Education Guidelines for Artificial Intelligence” David S. Touretzky; Carnegie-Mellon University
+* [1846073](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1846073) “Developing K-12 Education Guidelines for Artificial Intelligence” David S. Touretzky; Carnegie Mellon University
 
 ## STEM+C
 
