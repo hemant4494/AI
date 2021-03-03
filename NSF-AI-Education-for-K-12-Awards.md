@@ -1,6 +1,8 @@
 # NSF AI Education for K12 Awards (FY18-FY20)
 ## ITEST
 
+* [2049029](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2049029) and [2048502](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2048502) "Collaborative Research: AI4GA - Developing Artificial Intelligence Competencies, Career Awareness, and Interest in Georgia Middle School Teachers and Students" David Touretzky, Carnegie Mellon, and Christina Gardner-McCune, University of Florida
+
 * [2048480](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2048480) “Fostering Computer Science and AI Learning through Youth-Led Conversational App Development Experiences” Kristy Boyer & Maya Israel, University of Florida
 
 * [2049022](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2049022) “Preparing High School Students for Careers in Machine Learning through Mentored Scientific Research” Mark Weckel & Preeti Gupta, AMNH; Irene Lee, MIT
@@ -17,7 +19,7 @@
 
 * [1934151](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1934151) “Integrating AI Ethics into Robotics Learning Experiences” Yeh, Tom; University of Colorado at Boulder
 
-* [1934153](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1934153) and [1934128](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1934128 “PrimaryAI: Integrating Artificial Intelligence into Upper Elementary Science with Immersive Problem-Based Learning”; Lester, James, North Carolina State University and Glazewwski, Krista, Indiana University
+* [1934153](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1934153) and [1934128](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1934128) “PrimaryAI: Integrating Artificial Intelligence into Upper Elementary Science with Immersive Problem-Based Learning”; Lester, James, North Carolina State University and Glazewwski, Krista, Indiana University
 
 * [1933961](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1933961) and [1933915](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1933915) “Integrating Physical Computing and Data Science in Movement Based Learning”; DesPortes, Kayla, New York University and Ben Shapiro, University of Colorado, Boulder
 
