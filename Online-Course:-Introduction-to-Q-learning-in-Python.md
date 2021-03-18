@@ -10,4 +10,4 @@
 This course is organized as a Jupyter notebook that runs in the browser.
 
 
-![](https://github.com/touretzkyds/ai4k12/raw/master/images/Loislab-graphic.png)
+![](https://github.com/touretzkyds/ai4k12/raw/master/images/LoisLab-graphic.png)
