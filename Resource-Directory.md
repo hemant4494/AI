@@ -47,6 +47,7 @@
 * [[Online Course: AI Foundations Powered by ISTE and IBM]]
 * [[Online Course: AI4All Open Learning]] (AI4All)
 * [[Online Course: Elements of AI]] (Reaktor + University of Helsinki)
+* [[Online Course: Introduction to Q-Learning]] (LoisLab)
 
 ## Reference Sources and Tutorials (Direct Links)
 * [The Artificial Intelligence Wiki](https://pathmind.com/wiki/index) (PathMind): encyclopedia-like accessible explanations of concepts in AI reasoning and machine learning
