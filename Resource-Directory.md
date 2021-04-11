@@ -29,8 +29,9 @@
 
 ## Demos
 * [[Demos: Convolutional Neural Nets]]
-* [[Demos: Spectrograms and Waveforms]]
 * [[Demo: Erase Your Face]]
+* [Demos: University of Karlsruhe](https://lecture-demo.ira.uka.de/)
+* [[Demos: Spectrograms and Waveforms]]
 * [[Demo: Speech Recognition in Chrome]]
 * [[Demo: Teachable Machine]]
 * [[Demo: TensorFlow Playground]]
