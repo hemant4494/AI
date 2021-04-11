@@ -86,5 +86,6 @@
 * [[Video: How Snapchat's Filters Work]]
 * [[Video: How to Train Your Robot]] (for K-8)
 * [[Video: Humans Need Not Apply]]
+* [Video: Lidar vs. Vslam For Robot Vacuums](https://www.youtube.com/watch?v=5O8VmDiab3w) [direct link]
 * [[Video: The Power and Limits of Artificial Intelligence]]
 * [[Video: The Rise of AI]]
