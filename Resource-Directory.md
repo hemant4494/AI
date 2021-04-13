@@ -63,6 +63,7 @@
 
 ## Resource Directories
 * [[Resource Directory: MIT AI Education]] (Innovating Learning and Education in the Era of AI)
+* [[Resource Directory: AI for Teachers]]
 
 ## Software Packages
 * [[Software: AI with MIT App Inventor]]
