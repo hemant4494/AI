@@ -25,6 +25,7 @@
 * [[Curriculum: AI for Oceans]] (Code.org machine learning intro)
 * [[Curriculum: AI plus Ethics for Middle School]] (Blakely Payne, MIT)
 * [[Curriculum: ECS Alternate Curriculum Unit on Artificial Intelligence]]
+* [Curriculum: FarmBeats for Students](https://education.microsoft.com/en-us/lesson/5d991297) (Microsoft Education) [direct link]
 * [[Curriculum: IBM Activity Kits on AI]]
 
 ## Demos
