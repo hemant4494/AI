@@ -31,12 +31,12 @@
 ## Demos
 * [[Demos: Convolutional Neural Nets]]
 * [[Demo: Erase Your Face]]
-* [Demos: University of Karlsruhe](https://lecture-demo.ira.uka.de/) [direct link]
 * [[Demos: Spectrograms and Waveforms]]
 * [[Demo: Speech Recognition in Chrome]]
 * [Demo: Talk to Transformer](https://app.inferkit.com/demo) [direct link]
 * [[Demo: Teachable Machine]]
 * [[Demo: TensorFlow Playground]]
+* [Demos: University of Karlsruhe](https://lecture-demo.ira.uka.de/) [direct link]
 
 ## Lists of Links
 * [[Links: DeepFakes]]
