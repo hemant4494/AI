@@ -31,7 +31,7 @@
 ## Demos
 * [[Demos: Convolutional Neural Nets]]
 * [[Demo: Erase Your Face]]
-* [Demo: Scroobly Doodle Animation](https://www.scroobly.com/) [direct link]
+* [Demo: Scroobly Doodle Animation](https://www.scroobly.com/) [direct link] [see video](https://www.youtube.com/watch?v=mq2jK5X9JNY)
 * [[Demos: Spectrograms and Waveforms]]
 * [[Demo: Speech Recognition in Chrome]]
 * [Demo: Talk to Transformer](https://app.inferkit.com/demo) [direct link]
