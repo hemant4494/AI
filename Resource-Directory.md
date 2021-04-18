@@ -40,6 +40,7 @@
 * [Demo: Talk to Transformer](https://app.inferkit.com/demo) [direct link]
 * [[Demo: Teachable Machine]]
 * [[Demo: TensorFlow Playground]]
+* [Demos: TensorFlow.js Models](https://www.tensorflow.org/js/models) [direct link]
 * [Demos: University of Karlsruhe](https://lecture-demo.ira.uka.de/) [direct link]
 
 ## Lists of Links
