@@ -31,6 +31,7 @@
 ## Demos
 * [[Demos: Convolutional Neural Nets]]
 * [[Demo: Erase Your Face]]
+* [Demo: FaceMesh](https://storage.googleapis.com/tfjs-models/demos/facemesh/index.html) [direct link]
 * [Demo: Scroobly Doodle Animation](https://www.scroobly.com/) [direct link] [see video](https://www.youtube.com/watch?v=mq2jK5X9JNY)
 * [[Demos: Spectrograms and Waveforms]]
 * [[Demo: Speech Recognition in Chrome]]
