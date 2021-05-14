@@ -18,7 +18,7 @@ Stay tuned.
 
 ### Recent Events
 
-* Talk by Dave Touretzky, "Why and How to Teach Artificial Intelligence in K-12", at the [5th Annual Rutgers University Computer Science Summit](https://sites.google.com/view/njcssummit/home), May 14, 2021.
+* Talk by Dave Touretzky, "Why and How to Teach Artificial Intelligence in K-12", at the [5th Annual Rutgers University Computer Science Summit](https://sites.google.com/view/njcssummit/home), May 14, 2021. [slides](https://github.com/touretzkyds/ai4k12/raw/master/documents/Touretzky_NJCS_Summit_slides_v2.pdf)
 
 * Talk by Dave Touretzky, "Artificial Intelligence Thinking in K-12", at the February meeting of the Silicon Valley chapter of CSTA. February 17, 2021. [video](http://bit.ly/cstasvaik12davetalk), [slides](https://github.com/touretzkyds/ai4k12/raw/master/documents/SV_CSTA_2021_Touretzky.pdf)
 
