@@ -29,5 +29,6 @@ Some things to demonstrate:
 * Google tries really hard to hear famous quotes correctly. Try this example:
 * * _"No man is an island"_ (John Donne,Meditation XVII)
 * * _"No man is an eyelid"_ (unlikely to be in Google's training data)
+* Try the English word "Kalamazoo". Then switch the language model from English to Spanish and try "Kalamazoo" again.
 
 Also see this Google demo page: [https://www.google.com/intl/en/chrome/demos/speech.html](https://www.google.com/intl/en/chrome/demos/speech.html)
