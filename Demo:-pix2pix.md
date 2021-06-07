@@ -7,3 +7,5 @@
 [pix2pix home: zhu](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
 
 [pix2pix paper](https://arxiv.org/abs/1611.07004)
+
+![](https://github.com/touretzkyds/ai4k12/raw/master/images/pix2pix-shoes.png)
