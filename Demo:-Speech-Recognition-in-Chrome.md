@@ -30,5 +30,6 @@ Some things to demonstrate:
 * * _"No man is an island"_ (John Donne,Meditation XVII)
 * * _"No man is an eyelid"_ (unlikely to be in Google's training data)
 * Try the English word "Kalamazoo". Then switch the language model from English to Spanish and try "Kalamazoo" again.
+* Switch the language model from English to Spanish and try speaking English to the Spanish model. It actually works pretty well. Now try switching the language model to Mandarin and try speaking English to that model.
 
 Also see this Google demo page: [https://www.google.com/intl/en/chrome/demos/speech.html](https://www.google.com/intl/en/chrome/demos/speech.html)
