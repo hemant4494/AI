@@ -1,6 +1,6 @@
 # Media Coverage of the AI4K12 Initiative
 
-* Gura, M. "Getting Serious About Teaching Kids Artificial Intelligence". EdTecg Digest, June 10, 2021. 
+* Gura, M. "Getting Serious About Teaching Kids Artificial Intelligence". EdTech Digest, June 10, 2021. 
 https://www.edtechdigest.com/2021/06/10/getting-serious-about-teaching-kids-artificial-intelligence/
 
 * Malyn-Smith, J., Juliuson, J., MacGillivray, S., Lee, I., and McCurdy-Kirlis, C. (2021) K-8 STEM Career Competencies: Developing Foundational Skills for the Future of Work. Education Development Center, Inc. May, 2021.
