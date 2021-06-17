@@ -1,9 +1,9 @@
 # Media Coverage of the AI4K12 Initiative
 
-Malyn-Smith, J., Juliuson, J., MacGillivray, S., Lee, I., and McCurdy-Kirlis, C. (2021) K-8 STEM Career Competencies: Developing Foundational Skills for the Future of Work. Education Development Center, Inc.
-
 * Gura, M. "Getting Serious About Teaching Kids Artificial Intelligence". EdTecg Digest, June 10, 2021. 
 https://www.edtechdigest.com/2021/06/10/getting-serious-about-teaching-kids-artificial-intelligence/
+
+* Malyn-Smith, J., Juliuson, J., MacGillivray, S., Lee, I., and McCurdy-Kirlis, C. (2021) K-8 STEM Career Competencies: Developing Foundational Skills for the Future of Work. Education Development Center, Inc. May, 2021.
 
 * NSF Director Sethuraman Panchanathan highlighted the work of the AI4K12 Initiative in his opening remarks to a meeting of the National Science Board on February 23, 2021.
 https://www.youtube.com/watch?v=6JjWhwMhIKM&feature=youtu.be&t=1384
