@@ -14,7 +14,7 @@ Welcome to the ai4k12 wiki! This interim site is being used to organize the AI f
 * Book chapter: [Artificial Intelligence Thinking in K-12](https://github.com/touretzkyds/ai4k12/raw/master/documents/Touretzky_Gardner-McCune_AI-Thinking_2021.pdf)
 
 ### Upcoming Events
-* Keynote address by Dave Touretzky, "Educating Children In An Age of Somewhat Intelligent Machines". (https://www.eduhk.hk/iclt2021/index.html)[International Conference on Learning and Teaching 2021]. December 8-10, 2021, Hong Kong.
+* Keynote address by Dave Touretzky, "Educating Children In An Age of Somewhat Intelligent Machines". [International Conference on Learning and Teaching 2021](https://www.eduhk.hk/iclt2021/index.html). December 8-10, 2021, Hong Kong.
 
 ### Recent Events
 
