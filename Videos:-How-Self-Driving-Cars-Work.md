@@ -1,4 +1,4 @@
-This page offers a selection of links to videos that demonstrate how self-driving cars work. Most of the links are to longer lectures but are pre-cued to the time where the cool demos are shown.
+This page offers a selection of links to videos that demonstrate how self-driving cars work. Links to longer lectures are pre-cued to the time where the cool demos are shown.
 
 * [How Does It Work? Autonomous Car](https://www.youtube.com/watch?v=gEy91PGGLR0). A short (3 minutes) animation by Thomas Schwenke that explains the basics of self-driving cars.
 
