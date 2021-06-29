@@ -91,6 +91,7 @@
 * [[Video Series: The Age of AI]] (YouTube Learning; 8 episodes)
 * [[Video: How Computer Vision is Finally Taking Off, After 50 Years]]
 * [[Video: How Computer Vision Works]]
+* [[Videos: How Self-Driving Cars Work]]
 * [[Video: How Snapchat's Filters Work]]
 * [[Video: How to Train Your Robot]] (for K-8)
 * [[Video: Humans Need Not Apply]]
