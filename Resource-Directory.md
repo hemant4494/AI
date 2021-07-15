@@ -22,6 +22,7 @@
 
 ## Curriculum Materials
 * [[Curriculum: AI4ALL Open Learning]]
+* [[Curriculum: AI and Machine Learning Module]] (Code.org middle school curriculum)
 * [[Curriculum: AI for Oceans]] (Code.org machine learning intro)
 * [[Curriculum: AI plus Ethics for Middle School]] (Blakely Payne, MIT)
 * [[Curriculum: ECS Alternate Curriculum Unit on Artificial Intelligence]]
