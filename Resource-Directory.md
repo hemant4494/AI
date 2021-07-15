@@ -69,8 +69,10 @@
 * [[NSF AI Education for K-12 Awards]]
 
 ## Resource Directories
-* [[Resource Directory: MIT AI Education]] (Innovating Learning and Education in the Era of AI)
 * [[Resource Directory: AI for Teachers]]
+* [[Resource Directory: Learn About AI at Code.org]]
+* [[Resource Directory: MIT AI Education]] (Innovating Learning and Education in the Era of AI)
+
 
 ## Software Packages
 * [[Software: AI with MIT App Inventor]]
