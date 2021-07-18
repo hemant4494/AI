@@ -21,7 +21,7 @@
 * * [Web search #17](https://www.youtube.com/watch?v=PnFwdCGmVG0&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=18)
 * * [Algorithmic bias and fairness #18](https://www.youtube.com/watch?v=gV0_raKR2UQ&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=19)
 * * [Cats vs dogs? Let's make an AI to settle this #19](https://www.youtube.com/watch?v=_DZJV9ey1nE&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=20)
-* * [The future of artificial intelligence #20](https://www.youtube.com/watch?v=T7Rv4tGRlfc&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=21
+* * [The future of artificial intelligence #20](https://www.youtube.com/watch?v=T7Rv4tGRlfc&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=21)
 * Type: Video series
 * Duration: about 12 minutes each
 * Host: Jabril Ashe
