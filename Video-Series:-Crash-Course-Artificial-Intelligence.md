@@ -5,7 +5,7 @@
 * * [What is Artificial Intelligence? #1](https://www.youtube.com/watch?v=a0_lo_GDcFw&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=3)
 * * [Supervised Learning #2](https://www.youtube.com/watch?v=4qVRBYAdLAo&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=4)
 * * [Neural Networks and Deep Learning #3](https://www.youtube.com/watch?v=oV3ZY6tJiA0&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=5)
-* * [Training Neural Networks] #4(https://www.youtube.com/watch?v=lgKrup5oi_A&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=6)
+* * [Training Neural Networks #4](https://www.youtube.com/watch?v=lgKrup5oi_A&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=6)
 * * [How to make an AI read your handwriting #5](https://www.youtube.com/watch?v=6nGCGYWMObE&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=7)
 * * [Unsupervised Learning #6](https://www.youtube.com/watch?v=JnnaDNNb380&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=8)
 * * [Natural Language Processing #7](https://www.youtube.com/watch?v=oi0JXuL19TA&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=9)
