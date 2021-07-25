@@ -4,7 +4,7 @@
 * Series: PBS Frontline
 * Duration: 1 hour 54 minutes
 * Year: 2019 (November 5)
-* Directors: Neil Docherty &]and David Fanning
+* Directors: Neil Docherty and David Fanning
 * Narrator: Will Lyman
 * Publisher: PBS.org
 * Level: high school and up
