@@ -86,6 +86,7 @@
 * [[Documentary: AlphaGo]]
 * [[Documentary: CyberWork and the American Dream]]
 * [[Documentary: Frontline: In the Age of AI]]
+* [[Documentary: Nova: Look Who's Driving]]
 * [[Video Playlist: Computer Vision]] (5 videos on computer vision projects at Google)
 * [[Video Series: Careers in AI]]
 * [[Video Series: Crash Course Artificial Intelligence]] (20 episodes)
