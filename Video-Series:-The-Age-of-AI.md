@@ -8,7 +8,7 @@
 * Trailer: [YouTube](https://www.youtube.com/watch?v=5IvQ3fYKnfM&list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc&index=9)
 * Watch online: [Series page](https://www.youtube.com/playlist?list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc)
 * Episodes (8 total)
-* * Ep. 1: [How Far Is Too Far?](https://www.youtube.com/watch?v=lIvrIKaNCRE&list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc&index=1)
+* * Ep. 1: [How Far Is Too Far?](https://www.youtube.com/watch?v=UwsrzCVZAb8&list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc&index=1)
 * * Ep. 2: [Healed Through AI](https://www.youtube.com/watch?v=lIvrIKaNCRE&list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc&index=2)
 * * Ep. 3: [Using AI to Build a Better Human](https://www.youtube.com/watch?v=lIvrIKaNCRE&list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc&index=3)
 * * Ep. 4: [Love, Art and Stories: Decoded](https://www.youtube.com/watch?v=lIvrIKaNCRE&list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc&index=4)
