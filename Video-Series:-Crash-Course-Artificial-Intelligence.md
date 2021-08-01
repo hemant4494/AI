@@ -16,7 +16,7 @@
 * * [AI Playing Games #12](https://www.youtube.com/watch?v=nw7zmdBLQ6U&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=13)
 * * [Let's make an AI that destroys video games #13](https://www.youtube.com/watch?v=osbmLJb2Tkc&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=14)
 * * [Humans and AI working together #14](https://www.youtube.com/watch?v=PIAPzioNt9Y&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=15)
-* * [How YouTube know what you should watch #15](https://www.youtube.com/watch?v=kiInh5STnyQ&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=16)
+* * [How YouTube knows what you should watch #15](https://www.youtube.com/watch?v=kiInh5STnyQ&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=16)
 * * [Let's make a movie recommendation system #16](https://www.youtube.com/watch?v=iaIW3CO4rcY&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=17)
 * * [Web search #17](https://www.youtube.com/watch?v=PnFwdCGmVG0&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=18)
 * * [Algorithmic bias and fairness #18](https://www.youtube.com/watch?v=gV0_raKR2UQ&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=19)
