@@ -17,7 +17,7 @@
 * * Ep. 7: [Saving the world one algorithm at a time](https://www.youtube.com/watch?v=0wy4u34fii4&list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc&index=7)
 * * Ep. 8: [How AI is Searching for Aliens](https://www.youtube.com/watch?v=VwtC_4t2g5M&list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc&index=8)
 
-The Age of A.I. is an eight-part documentary series discussing the ways Artificial Intelligence, Machine Learning and Neural Networks will change the world. The trailer for the tech-based show was released on December 12 and the series launched on December 18, with each episode ranging roughly half-an-hour to an hour in length.
+The Age of A.I. is an eight-part documentary series discussing the ways Artificial Intelligence, Machine Learning and Neural Networks will change the world. The trailer for the tech-based show was released on December 12, 2019 and the series launched on December 18, with each episode ranging roughly half-an-hour to an hour in length.
 
 
 ![](https://github.com/touretzkyds/ai4k12/raw/master/images/YouTube-Age-of-AI.jpg)
