@@ -6,6 +6,8 @@ This page offers a selection of links to videos that demonstrate how self-drivin
 
 * [Chris Urmson: How a driverless car sees the road](https://www.youtube.com/watch?v=tiwVMrTLUWg&t=469s). A 15.5 minute video by Google's Chris Urmson, but skip ahead to 7:49 to get to the good stuff.
 
+* [Waymo 360° Experience: A Fully Autonomous Driving Journey](https://www.youtube.com/watch?v=B8R148hFxPw). A 3.5 minute video by Waymo explaining how their self-driving car works and giving a view from inside.
+
 ### Bonus Resource ###
 
 [How Do Self-Driving Cars Work?](https://interestingengineering.com/how-do-self-driving-cars-work) page at InterestingEngineering.com has lots of informative diagrams as well as a good technical discussion.
