@@ -6,7 +6,7 @@
 * Publisher: Citris Productions, UC Berkeley
 * Year: 2020
 * Level: K-8
-* Watch online: [https://vimeopro.com/citrisproductions/how-to-train-your-robot](Vimeo)
+* Watch online: [Vimeo](https://vimeopro.com/citrisproductions/how-to-train-your-robot)
 
 This is a video presentation of the book by the same title; see [[Book: How to Train Your Robot]].
 
