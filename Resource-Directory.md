@@ -71,6 +71,7 @@
 
 ## Resource Directories
 * [[Resource Directory: AI for Teachers]]
+* [[Resource Directory: Explore AI Ethics]]
 * [[Resource Directory: Learn About AI at Code.org]]
 * [[Resource Directory: MIT AI Education]] (Innovating Learning and Education in the Era of AI)
 
