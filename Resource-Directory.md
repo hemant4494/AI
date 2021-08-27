@@ -2,11 +2,11 @@
 * [[Book: AI Super-Powers: China, Silicon Valley, and The New World Order]]
 * [[Book: Architects of Intelligence: The truth about AI from the people building it]]
 * [[Book: Artificial Intelligence: A Modern Approach]]
-* [[Book: Hands-On AI Projects for the Classroom]]
 * [[Book: How Smart Machines Think]]
 * [[Book: Teaching AI: Exploring New Frontiers for Learning]]
 * [[Book: The Future Computed: Artificial Intelligence and Its Role in Society]]
 * [[Book: What to Think About Machines That Think]]
+* [[Book Series: Hands-On AI Projects for the Classroom]]
 * [[Report: Automation and Artificial Intelligence: How machines are affecting people and places]]
 
 ## Children's Books
