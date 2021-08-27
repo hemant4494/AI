@@ -91,12 +91,12 @@
 * [[Documentary: Nova: Look Who's Driving]]
 * [[Video Playlist: Computer Vision]] (5 videos on computer vision projects at Google)
 * [[Video Series: Careers in AI]]
-* [Video: Computer Scientist Explains Machine Learning in 5 Levels of Difficulty](https://www.youtube.com/watch?v=5q87K1WaoFI) [direct link]
 * [[Video Series: Crash Course Artificial Intelligence]] (20 episodes)
 * [[Video Series: Crash Course Computer Science]] (5 episodes deal with AI)
 * [[Video Series: EverydAI]]
 * [[Video Series: How AI Works]] (from Code.org)
 * [[Video Series: The Age of AI]] (YouTube Learning; 8 episodes)
+* [Video: Computer Scientist Explains Machine Learning in 5 Levels of Difficulty](https://www.youtube.com/watch?v=5q87K1WaoFI) [direct link]
 * [[Video: How Computer Vision is Finally Taking Off, After 50 Years]]
 * [[Video: How Computer Vision Works]]
 * [[Videos: How Self-Driving Cars Work]]
