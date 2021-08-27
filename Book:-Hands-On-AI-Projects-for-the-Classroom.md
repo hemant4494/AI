@@ -8,4 +8,4 @@
 
 
 
-![](https://github.com/touretzkyds/ai4k12/master/raw/images/hands-on-ai-projects.png)
+![](https://github.com/touretzkyds/ai4k12/raw/master/images/hands-on-ai-projects.png)
