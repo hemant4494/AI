@@ -8,6 +8,7 @@
 * Authors: Google Creative Lab
 * License: Apache 2.0
 * GitHub repo: [github.com/googlecreativelab/teachablemachine-community](https://github.com/googlecreativelab/teachablemachine-community)
+* iPad version by Jonathan Tse: [apps.apple.com](https://apps.apple.com/app/teachablemachine/id1580328312)
 
 Description: This is one of the most popular online machine learning demos. Teachable Machine is a browser-based machine learning demo that allows you to train a classifier for images, sounds, or poses in just a few minutes. Training data can be collected using a laptop's webcam or microphone, or uploaded from files. The image classifier is based on MobileNet. The trained classifier can be immediately tested interactively in the browser, or exported for incorporation into user applications written in Javascript, Python, or Java.
 
