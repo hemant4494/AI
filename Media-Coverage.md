@@ -15,6 +15,9 @@ Reprinted by [DailyAdvent.com](https://www.dailyadvent.com/news/f8ffa63592fa2a3e
 * Vander Ark, T. "The Two Most Important Things We Don't Teach." Forbes.com, February 3, 2021.
 https://www.forbes.com/sites/tomvanderark/2021/02/03/the-two-most-important-things-we-dont-teach/
 
+* Holland, B. (2020) Artificial Intelligence (AI) in K-12. CoSN (Colloquium for School Networking).
+[direct link](https://emma-assets.s3.amazonaws.com/paqab/71de919fd20c5e29fc83197664a59888/CoSN_AI_Report_2020_R8_4.24.pdf)
+
 * Stewart, L. "At GTC, Educators and Leaders Focus on Equity in AI, Developer Diversity." NVIDIA blog, October 14, 2020.
 https://blogs.nvidia.com/blog/2020/10/14/gtc-ai-equity-developer-diversity/
 
