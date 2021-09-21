@@ -8,6 +8,8 @@ This page offers a selection of links to videos that demonstrate how self-drivin
 
 * [Waymo 360° Experience: A Fully Autonomous Driving Journey](https://www.youtube.com/watch?v=B8R148hFxPw). A 3.5 minute video by Waymo explaining how their self-driving car works and giving a view from inside.
 
+* [Nuro R2 delivering Dominos pizzas](https://www.youtube.com/watch?v=yFYljZc968I&t=144s) A 2.5 minute video by Nuro of their R2 delivery robot navigating around Mountain View, Houston, and Phoenix, and showing its perceptual processing and map representation.
+
 ### Bonus Resource ###
 
 [How Do Self-Driving Cars Work?](https://interestingengineering.com/how-do-self-driving-cars-work) page at InterestingEngineering.com has lots of informative diagrams as well as a good technical discussion.
