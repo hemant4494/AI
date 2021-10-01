@@ -96,6 +96,7 @@
 * [[Video Series: EverydAI]]
 * [[Video Series: How AI Works]] (from Code.org)
 * [[Video Series: The Age of AI]] (YouTube Learning; 8 episodes)
+* [[Video: AI Ethics and Fairness in 7 Minutes]]
 * [Video: Computer Scientist Explains Machine Learning in 5 Levels of Difficulty](https://www.youtube.com/watch?v=5q87K1WaoFI) [direct link]
 * [[Video: How Computer Vision is Finally Taking Off, After 50 Years]]
 * [[Video: How Computer Vision Works]]
