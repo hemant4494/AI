@@ -10,6 +10,7 @@
 * [[Report: Automation and Artificial Intelligence: How machines are affecting people and places]]
 
 ## Children's Books
+* [[Book: A Fresh Squeeze On Data]]
 * [[Book: How to Train Your Robot]]
 * [[Book Series: AI and ME]] (ReadyAI)
 * [[Book Series: AI Made Simple]] (edsquare)
