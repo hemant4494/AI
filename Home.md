@@ -18,6 +18,10 @@ Welcome to the ai4k12 wiki! This interim site is being used to organize the AI f
 
 ### Recent Events
 
+* "Preparing for the Age of Artificial Intelligence” gallery walk by Hal Speed and Marco Zennaro at the [mEducation Alliance Symposium](https://meducationalliance.org/2021-symposium/), September 29, 2021. [slides](https://ai4k12.org/wp-content/uploads/2021/09/K-12-mEducation-Alliance-Symposium-2021.09.29.pdf)
+
+Talk by Hal Speed, “Teaching Artificial Intelligence in K-12”, at the ISAS Technology Directors Conference, September 13, 2021. [slides](https://ai4k12.org/wp-content/uploads/2021/09/AI4K12-Initiative-ISAS-2021.09.13.pdf)
+
 * Talk by Dave Touretzky (CMU) and Rooz Aliabadi (ReadyAI), "Resources for Teaching Artificial Intelligence (AI): AI4K12 and WAICY". ICTENSW (ICT Educators of New South Wales) webinar. September 11, 2021.
 
 * Talks by Dave Touretzky, "Introduction to AI for K-12 Educators" [(slides)](https://github.com/touretzkyds/ai4k12/raw/master/documents/RockCS21_Intro_to_AI.pdf) and "Deep Dive Into AI4K12's Five Big Ideas" [(slides)](https://github.com/touretzkyds/ai4k12/raw/master/documents/RockCS21_Deep_Dive.pdf), at the [Rocky Mountain Computer Science Conference for P-12 Educators](http://rockcs.org/), June 5, 2021.
