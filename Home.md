@@ -18,6 +18,8 @@ Welcome to the ai4k12 wiki! This interim site is being used to organize the AI f
 
 ### Recent Events
 
+* Talk by Dave Touretzky (CMU) and Rooz Aliabadi (ReadyAI), "Resources for Teaching Artificial Intelligence (AI): AI4K12 and WAICY". ICTENSW (ICT Educators of New South Wales) webinar. September 11, 2021.
+
 * Talks by Dave Touretzky, "Introduction to AI for K-12 Educators" [(slides)](https://github.com/touretzkyds/ai4k12/raw/master/documents/RockCS21_Intro_to_AI.pdf) and "Deep Dive Into AI4K12's Five Big Ideas" [(slides)](https://github.com/touretzkyds/ai4k12/raw/master/documents/RockCS21_Deep_Dive.pdf), at the [Rocky Mountain Computer Science Conference for P-12 Educators](http://rockcs.org/), June 5, 2021.
 
 * Talk by Dave Touretzky, "Why and How to Teach Artificial Intelligence in K-12", at the [5th Annual Rutgers University Computer Science Summit](https://sites.google.com/view/njcssummit/home), May 14, 2021. [slides](https://github.com/touretzkyds/ai4k12/raw/master/documents/Touretzky_NJCS_Summit_slides_v2.pdf)
