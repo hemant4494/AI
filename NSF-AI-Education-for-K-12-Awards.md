@@ -1,4 +1,4 @@
-# NSF AI Education for K12 Awards (FY18-FY20)
+# NSF AI Education for K12 Awards (FY18-FY21)
 ## ITEST
 
 * [2049029](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2049029) and [2048502](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2048502) "Collaborative Research: AI4GA - Developing Artificial Intelligence Competencies, Career Awareness, and Interest in Georgia Middle School Teachers and Students" David Touretzky, Carnegie Mellon University, and Christina Gardner-McCune, University of Florida
