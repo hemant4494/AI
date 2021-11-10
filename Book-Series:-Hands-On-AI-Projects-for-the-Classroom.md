@@ -4,7 +4,9 @@
 * Publisher: ISTE in partnership with General Motors
 * Year: 2021
 * Audience: K-12 teachers
-* Available online at ISTE.org:
+* Available online at ISTE.org: [ISTE AI in Education Page](https://www.iste.org/areas-of-focus/AI-in-education)
+* Languages: English, Spanish, Arabic
+* Direct links to English versions:
 * *  [Hands-On AI Projects for the Classroom: A Guide for Elementary Teachers](https://cdn.iste.org/www-root/Libraries/Documents%20%26%20Files/Artificial%20Intelligence/AIGDK5_1120.pdf)
 * *  [Hands-On AI Projects for the Classroom: A Guide for Secondary Teachers](https://cdn.iste.org/www-root/Libraries/Documents%20%26%20Files/Artificial%20Intelligence/AIGDSE_1120.pdf)
 * *  [Hands-On AI Projects for the Classroom: A Guide for Electives Teachers](https://cdn.iste.org/www-root/Libraries/Documents%20%26%20Files/Artificial%20Intelligence/AIGDEL_0820-red.pdf)
