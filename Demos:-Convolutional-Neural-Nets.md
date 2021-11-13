@@ -1,7 +1,7 @@
 # Convolutional Neural Net Demos
 
 ## Digit recognition
-* [MNIST Basic ConvNet](https://transcranial.github.io/keras-js/#/mnist-cnn) - draw a digit and see the activation maps
+* [Basic ConvNet for MNIST](https://transcranial.github.io/keras-js/#/mnist-cnn) - draw a digit and see the activation maps
 
 * [ConvNetJS MNIST demo](https://cs.stanford.edu/people/karpathy/convnetjs/demo/mnist.html)
 
