@@ -9,7 +9,7 @@
 
 ## Object recognition
 
-* [CNN Explainer](https://poloclub.github.io/cnn-explainer/) - ImageNet
+* [CNN Explainer](https://poloclub.github.io/cnn-explainer/) - shallow convolutional net with 10 image classes
 
 * [ConvNetjS CIFAR-10 demo](https://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html)
 
