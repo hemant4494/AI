@@ -99,6 +99,7 @@
 * [[Video Series: The Age of AI]] (YouTube Learning; 8 episodes)
 * [[Video: AI Ethics and Fairness in 7 Minutes]]
 * [Video: Computer Scientist Explains Machine Learning in 5 Levels of Difficulty](https://www.youtube.com/watch?v=5q87K1WaoFI) [direct link]
+* [Video: Deconstructing Robotics](https://www.youtube.com/watch?v=vxhO7oq3-dY) [direct link]
 * [[Video: How Computer Vision is Finally Taking Off, After 50 Years]]
 * [[Video: How Computer Vision Works]]
 * [[Videos: How Self-Driving Cars Work]]
@@ -106,5 +107,6 @@
 * [[Video: How to Train Your Robot]] (for K-8)
 * [[Video: Humans Need Not Apply]]
 * [Video: Lidar vs. Vslam For Robot Vacuums](https://www.youtube.com/watch?v=5O8VmDiab3w) [direct link]
+* [Video: Nerual Networks for Babies](https://www.youtube.com/watch?v=IX6acE4l1YQ) [direct link]
 * [[Video: The Power and Limits of Artificial Intelligence]]
 * [[Video: The Rise of AI]]
