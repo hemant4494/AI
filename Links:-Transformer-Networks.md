@@ -30,3 +30,6 @@ Transformer networks are deep neural networks now widely used for neural natural
 * [Attention Is All You Need](https://arxiv.org/abs/1706.03762), Vaswani et al. 2017.
 * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805), Devlin et al. 2019.
 * [Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/abs/1609.08144) Wu et al. 2016.
+
+### Other Resources
+* [SQuAD: Stanford Question Answering Dataset](https://rajpurkar.github.io/SQuAD-explorer/) used to train some BERT models
