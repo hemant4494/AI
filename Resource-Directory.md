@@ -50,6 +50,7 @@
 ## Lists of Links
 * [[Links: DeepFakes]]
 * [[Links: Diversity and Inclusion in AI]]
+* [[Links: Transformer Networks]]
 
 ## Online Professional Development Courses
 * [[Online Course: Artificial Intelligence Explorations and Their Practical Use in Schools]] (ISTE)
