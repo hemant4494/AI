@@ -11,6 +11,7 @@ Transformer networks are deep neural networks now widely used for neural natural
 * [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
 
 ### Videos on Transformers
+* [The Narrated Transformer Language Model](https://www.youtube.com/watch?v=-QH8fRhqFHM)
 * [Tensor2Tensor Transformers](https://www.youtube.com/watch?v=rBCqOTEfxvg)
 * A Visual Guide to Transformer Neural Networks (series):
 * * [Episode 1: Position Embeddings](https://www.youtube.com/watch?v=dichIcUZfOw&list=PL86uXYUJ7999zE8u2-97i4KG_2Zpufkfb&index=2)
