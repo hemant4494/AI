@@ -14,11 +14,13 @@ Welcome to the ai4k12 wiki! This interim site is being used to organize the AI f
 * Book chapter: [Artificial Intelligence Thinking in K-12](https://github.com/touretzkyds/ai4k12/raw/master/documents/Touretzky_Gardner-McCune_AI-Thinking_2021.pdf)
 
 ### Upcoming Events
-* Keynote address by Dave Touretzky, "Educating Children In An Age of Somewhat Intelligent Machines". [International Conference on Learning and Teaching 2021](https://www.eduhk.hk/iclt2021/index.html). December 8-10, 2021, Hong Kong.
 
 * [EAAI-22[https://pages.mtu.edu/~lebrown/eaai/] special track on Demos, Software Tools, and Activities for Teaching AI in K-12. February 26-27, 2022. Vancouver, BC, Canada.
 
 ### Recent Events
+* Talk by Dave Touretzky, "Show Don't Tell: Designing Effective AI Demos for K-12 Students", [International Conference on Artificial Intelligence and Big Data in Education (AIDE 2021](https://aide.changyan.cn/web/subDetail.html?i=17), December 16-18, Beijing.
+
+* Keynote address by Dave Touretzky, "Educating Children In An Age of Somewhat Intelligent Machines". [International Conference on Learning and Teaching 2021](https://www.eduhk.hk/iclt2021/index.html). December 8-10, 2021, Hong Kong.
 
 * "Preparing for the Age of Artificial Intelligence” gallery walk by Hal Speed and Marco Zennaro at the [mEducation Alliance Symposium](https://meducationalliance.org/2021-symposium/), September 29, 2021. [slides](https://ai4k12.org/wp-content/uploads/2021/09/K-12-mEducation-Alliance-Symposium-2021.09.29.pdf)
 
