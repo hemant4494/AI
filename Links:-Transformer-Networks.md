@@ -1,9 +1,11 @@
 Transformer networks are deep neural networks now widely used for neural natural langauge processing, including handling search queries, question answering, image captioning, and translating between languages.
 
 ### Introductory Tutorials on Transformers
+* [Transformers, explained: Understand the model behind GPT, BERT, and T5](https://www.youtube.com/watch?v=SZorAJ4I-sA)
+* [Language Processing with BERT: The 3 Minute Intro (Deep learning for NLP)](https://www.youtube.com/watch?v=ioGry-89gqE)
+* [The Narrated Transformer Language Model](https://www.youtube.com/watch?v=-QH8fRhqFHM)
 * [How Transformers Work in Deep Learning and NLP](https://theaisummer.com/transformer/)
 * [Getting Meaning From Text](https://peltarion.com/blog/data-science/self-attention-video)
-* [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 
 ### More Technical Tutorials
 * [Transformers From Scratch (Rohrer)](https://e2eml.school/transformers.html)
