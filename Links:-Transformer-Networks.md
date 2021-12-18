@@ -3,7 +3,6 @@ Transformer networks are deep neural networks now widely used for neural natural
 ### Introductory Tutorials on Transformers
 * [video](https://www.youtube.com/watch?v=SZorAJ4I-sA) (9:10) and [text](https://daleonai.com/transformers-explained): Transformers Explained: Understand the Model Behind GPT, BERT, and T5
 * [Language Processing with BERT: The 3 Minute Intro (Deep learning for NLP)](https://www.youtube.com/watch?v=ioGry-89gqE)
-* [The Narrated Transformer Language Model](https://www.youtube.com/watch?v=-QH8fRhqFHM)
 * [How Transformers Work in Deep Learning and NLP](https://theaisummer.com/transformer/)
 * [Getting Meaning From Text](https://peltarion.com/blog/data-science/self-attention-video)
 
@@ -35,4 +34,5 @@ Transformer networks are deep neural networks now widely used for neural natural
 * [Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/abs/1609.08144) Wu et al. 2016.
 
 ### Other Resources
+* [Simple Transformer Language Model](https://colab.research.google.com/github/jalammar/jalammar.github.io/blob/master/notebooks/Simple_Transformer_Language_Model.ipynb#scrollTo=BstYQU6NkkDA) (Python notebook in CoLab)
 * [SQuAD: Stanford Question Answering Dataset](https://rajpurkar.github.io/SQuAD-explorer/) used to train some BERT models
