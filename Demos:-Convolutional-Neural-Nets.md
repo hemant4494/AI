@@ -7,6 +7,8 @@
 
 * [OKAI digit recognition](https://okai.brown.edu/chapter0.html) - combination tutorial and interactive handwritten digit recognition demo
 
+* [I AM AI digit recognition](https://www.i-am.ai/neural-numbers.html) - draw a digit and see the classification
+
 ## Object recognition
 
 * [CNN Explainer](https://poloclub.github.io/cnn-explainer/) - shallow convolutional net with 10 image classes
