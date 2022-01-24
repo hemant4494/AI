@@ -23,6 +23,8 @@ Welcome to the ai4k12 wiki! This interim site is being used to organize the AI f
 
 * Talk by Dave Touretzky, "Show Don't Tell: Designing Effective AI Demos for K-12 Students", [International Conference on Artificial Intelligence and Big Data in Education (AIDE 2021)](https://aide.changyan.cn/web/subDetail.html?i=17), December 16-18, Beijing. [(slides)](https://github.com/touretzkyds/ai4k12/raw/master/documents/Touretzky_AIDE_conf_2021.pdf)
 
+* Talk by Fred Martin and Deborah Seehorn, "How to Teach AI Across K-12", 2021 Global Software Education Conference, Seoul, South Korea, December, 2021. [(slides)](https://github.com/touretzkyds/ai4k12/raw/master/documents/Martin_Seehorn_GSWEC_Korea_2021.pdf)
+
 * Keynote address by Dave Touretzky, "Educating Children In An Age of Somewhat Intelligent Machines". [International Conference on Learning and Teaching 2021](https://www.eduhk.hk/iclt2021/index.html). December 8-10, 2021, Hong Kong.
 
 * "Preparing for the Age of Artificial Intelligence” gallery walk by Hal Speed and Marco Zennaro at the [mEducation Alliance Symposium](https://meducationalliance.org/2021-symposium/), September 29, 2021. [slides](https://ai4k12.org/wp-content/uploads/2021/09/K-12-mEducation-Alliance-Symposium-2021.09.29.pdf)
