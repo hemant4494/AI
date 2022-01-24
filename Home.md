@@ -19,7 +19,7 @@ Welcome to the ai4k12 wiki! This interim site is being used to organize the AI f
 
 ### Recent Events
 
-* Talk by Dave Touretzky and Fred Martin, "Teaching Artificial Intelligence in K-12", Raspberry Pi Foundation Research Seminar, January 11, 2022. [(video)](https://www.youtube.com/watch?v=JNh_llZEmTQ) [(slides)](https://github.com/touretzkyds/ai4k12/raw/master/documents/Touretzky_Martin_Raspberry_Pi_2022.pdf)
+* Talk by Dave Touretzky and Fred Martin, "Teaching Artificial Intelligence in K-12", Raspberry Pi Foundation Research Seminar, January 11, 2022. [(video)](https://www.youtube.com/watch?v=JNh_llZEmTQ) [(slides)](https://github.com/touretzkyds/ai4k12/raw/master/documents/Touretzky_Martin_Raspberry_Pi_2022.pdf) [(blog article)](https://www.blogdot.tv/the-ai4k12-project-big-ideas-for-ai-education)
 
 * Talk by Dave Touretzky, "Show Don't Tell: Designing Effective AI Demos for K-12 Students", [International Conference on Artificial Intelligence and Big Data in Education (AIDE 2021)](https://aide.changyan.cn/web/subDetail.html?i=17), December 16-18, Beijing. [(slides)](https://github.com/touretzkyds/ai4k12/raw/master/documents/Touretzky_AIDE_conf_2021.pdf)
 
