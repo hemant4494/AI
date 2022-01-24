@@ -1,5 +1,7 @@
 # Media Coverage of the AI4K12 Initiative
 
+* Richter, Maria. "The AI4K12 project: Big ideas for AI education". Blogdot.TV, January 20, 2022. https://www.blogdot.tv/the-ai4k12-project-big-ideas-for-ai-education/
+
 * Gura, M. "Getting Serious About Teaching Kids Artificial Intelligence". EdTech Digest, June 10, 2021. 
 https://www.edtechdigest.com/2021/06/10/getting-serious-about-teaching-kids-artificial-intelligence/
 
