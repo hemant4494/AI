@@ -27,7 +27,7 @@ Welcome to the ai4k12 wiki! This interim site is being used to organize the AI f
 
 * Keynote address by Dave Touretzky, "Educating Children In An Age of Somewhat Intelligent Machines". [International Conference on Learning and Teaching 2021](https://www.eduhk.hk/iclt2021/index.html). December 8-10, 2021, Hong Kong.
 
-* Talk by Dave Touretzky, "Beyond Computational Thinking: Artificial Intelligence Thinking in K-12". MIT RAISE seminar, November 30, 2021. [(vide)](https://mit.zoom.us/rec/play/jKCdaI99nsIA2lqZEh7thX6FqenUtl9hz23hCe2tmyDm2iBSXa-etLa8LzOHDdRiUk-96szS7Ym1xb6n.6Si9NWM2p91YimYB?startTime=1638305771000)
+* Talk by Dave Touretzky, "Beyond Computational Thinking: Artificial Intelligence Thinking in K-12". MIT RAISE seminar, November 30, 2021. [(slides)](https://github.com/touretzkyds/ai4k12/raw/master/documents/Touretzky_MIT_RAISE_2021.pdf) [(video)](https://mit.zoom.us/rec/play/jKCdaI99nsIA2lqZEh7thX6FqenUtl9hz23hCe2tmyDm2iBSXa-etLa8LzOHDdRiUk-96szS7Ym1xb6n.6Si9NWM2p91YimYB?startTime=1638305771000)
 
 * "Preparing for the Age of Artificial Intelligence” gallery walk by Hal Speed and Marco Zennaro at the [mEducation Alliance Symposium](https://meducationalliance.org/2021-symposium/), September 29, 2021. [slides](https://ai4k12.org/wp-content/uploads/2021/09/K-12-mEducation-Alliance-Symposium-2021.09.29.pdf)
 
