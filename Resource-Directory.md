@@ -27,6 +27,7 @@
 * [[Curriculum: AI and Machine Learning Module]] (Code.org middle school curriculum)
 * [[Curriculum: AI for Oceans]] (Code.org machine learning intro)
 * [[Curriculum: AI plus Ethics for Middle School]] (Blakely Payne, MIT)
+* [Curriculum: Computational Thinking & AI in Elementary School](http://tssp.creuter.lu/ki/index.php) [direct link]
 * [[Curriculum: ECS Alternate Curriculum Unit on Artificial Intelligence]]
 * [Curriculum: FarmBeats for Students](https://education.microsoft.com/en-us/lesson/5d991297) (Microsoft Education) [direct link]
 * [[Curriculum: IBM Activity Kits on AI]]
