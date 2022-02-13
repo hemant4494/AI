@@ -108,6 +108,7 @@
 * [[Video: How Snapchat's Filters Work]]
 * [[Video: How to Train Your Robot]] (for K-8)
 * [[Video: Humans Need Not Apply]]
+* [Vide: Inside Google Translate](https://www.youtube.com/watch?v=_GdSC1Z1Kzs) [direct link]
 * [Video: Lidar vs. Vslam For Robot Vacuums](https://www.youtube.com/watch?v=5O8VmDiab3w) [direct link]
 * [Video: Nerual Networks for Babies](https://www.youtube.com/watch?v=IX6acE4l1YQ) [direct link]
 * [[Video: The Power and Limits of Artificial Intelligence]]
