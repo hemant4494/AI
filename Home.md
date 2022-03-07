@@ -16,7 +16,7 @@ Welcome to the ai4k12 wiki! This interim site is being used to organize the AI f
 ### Upcoming Events
 ### Recent Events
 
-* Talk by Dave Touretzky, Christina Gardner-McCune, Fed Martin, and Deborah Seehorn, "You Know AI Has Arrived When We're Teaching It in Elementary School". AAAI/EAAI Outstanding Educator of the Year invited talk, February 26, 2022.
+* Talk by Dave Touretzky, Christina Gardner-McCune, Fed Martin, and Deborah Seehorn, "You Know AI Has Arrived When We're Teaching It in Elementary School". AAAI/EAAI Outstanding Educator of the Year Award invited talk, February 26, 2022.
 
 * [EAAI-22](https://pages.mtu.edu/~lebrown/eaai/) special track on Demos, Software Tools, and Activities for Teaching AI in K-12. February 26-27, 2022. Virtual conference.
 
