@@ -16,7 +16,9 @@ Welcome to the ai4k12 wiki! This interim site is being used to organize the AI f
 ### Upcoming Events
 ### Recent Events
 
-* [EAAI-22(https://pages.mtu.edu/~lebrown/eaai/) special track on Demos, Software Tools, and Activities for Teaching AI in K-12. February 26-27, 2022. Vancouver, BC, Canada.
+* Talk by Dave Touretzky, Christina Gardner-McCune, Fed Martin, and Deborah Seehorn, "You Know AI Has Arrived When We're Teaching It in Elementary School". AAAI/EAAI Outstanding Educator of the Year invited talk, February 26, 2022.
+
+* [EAAI-22](https://pages.mtu.edu/~lebrown/eaai/) special track on Demos, Software Tools, and Activities for Teaching AI in K-12. February 26-27, 2022. Virtual conference.
 
 * Talk by Dave Touretzky and Fred Martin, "Teaching Artificial Intelligence in K-12", Raspberry Pi Foundation Research Seminar, January 11, 2022. [(video)](https://www.youtube.com/watch?v=JNh_llZEmTQ) [(slides)](https://github.com/touretzkyds/ai4k12/raw/master/documents/Touretzky_Martin_Raspberry_Pi_2022.pdf) [(blog article)](https://www.blogdot.tv/the-ai4k12-project-big-ideas-for-ai-education)
 
