@@ -14,10 +14,9 @@ Welcome to the ai4k12 wiki! This interim site is being used to organize the AI f
 * Book chapter: [Artificial Intelligence Thinking in K-12](https://github.com/touretzkyds/ai4k12/raw/master/documents/Touretzky_Gardner-McCune_AI-Thinking_2021.pdf)
 
 ### Upcoming Events
-
-* [EAAI-22[https://pages.mtu.edu/~lebrown/eaai/] special track on Demos, Software Tools, and Activities for Teaching AI in K-12. February 26-27, 2022. Vancouver, BC, Canada.
-
 ### Recent Events
+
+* [EAAI-22(https://pages.mtu.edu/~lebrown/eaai/) special track on Demos, Software Tools, and Activities for Teaching AI in K-12. February 26-27, 2022. Vancouver, BC, Canada.
 
 * Talk by Dave Touretzky and Fred Martin, "Teaching Artificial Intelligence in K-12", Raspberry Pi Foundation Research Seminar, January 11, 2022. [(video)](https://www.youtube.com/watch?v=JNh_llZEmTQ) [(slides)](https://github.com/touretzkyds/ai4k12/raw/master/documents/Touretzky_Martin_Raspberry_Pi_2022.pdf) [(blog article)](https://www.blogdot.tv/the-ai4k12-project-big-ideas-for-ai-education)
 
