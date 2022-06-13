@@ -29,6 +29,7 @@
 * [[Curriculum: AI plus Ethics for Middle School]] (Blakely Payne, MIT)
 * [Curriculum: Computational Thinking & AI in Elementary School](http://tssp.creuter.lu/ki/index.php) (Claude Reuter) [direct link]
 * [[Curriculum: ECS Alternate Curriculum Unit on Artificial Intelligence]]
+* [Curriculum: Exploring the Future Through Robotics and Artificial Intelligence](https://osf.io/tua5k/) (Matthew Reuben) [direct link]
 * [Curriculum: FarmBeats for Students](https://education.microsoft.com/en-us/lesson/5d991297) (Microsoft Education) [direct link]
 * [[Curriculum: IBM Activity Kits on AI]]
 
