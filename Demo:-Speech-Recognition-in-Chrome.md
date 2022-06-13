@@ -29,6 +29,9 @@ Some things to demonstrate:
 * Google tries really hard to hear famous quotes correctly. Try this example:
 * * _"No man is an island"_ (John Donne, Meditation XVII)
 * * _"No man is an eyelid"_ (unlikely to be in Google's training data)
+* Sometimes the bias is so strong that Google refuses to recognize what you actually said:
+* * _"Four blind mites"_ can be recognized with careful enunciation.
+* * _"Three blind mites"_ cannot be recognized; Google always hears "Three blind mice" which matches the children's rhyme.
 * Try the English word "Kalamazoo". Then switch the language model from English to Spanish and try "Kalamazoo" again.
 * Switch the language model from English to Spanish and try speaking English to the Spanish model. It actually works pretty well. Now try switching the language model to Mandarin and try speaking English to that model.
 
