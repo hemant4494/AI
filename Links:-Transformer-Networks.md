@@ -11,6 +11,7 @@ Transformer networks are deep neural networks now widely used for neural natural
 * [Transformers From Scratch (Rohrer)](https://e2eml.school/transformers.html)
 * [Transformers From Scratch (Bloem)](http://peterbloem.nl/blog/transformers)
 * [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
+* [Transformer model for language understanding](https://www.tensorflow.org/text/tutorials/transformer) (TensorFlow tutorial on language translation)
 
 ### Technical Videos on Transformers
 * [The Narrated Transformer Language Model](https://www.youtube.com/watch?v=-QH8fRhqFHM)
