@@ -1,6 +1,6 @@
 * Name: IBM AI Education
 * Subject: AI education
-* Type: online course with recorded webinars
+* Type: online course with recorded webinars (free, but registration required)
 * Audience: K-12 teachers
 * URL: [www.mindspark.org/ibm-ai](https://www.mindspark.org/ibm-ai)
 * Provider: IBM and mindSpark Learning
