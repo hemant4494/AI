@@ -3,7 +3,7 @@
 * Type: online course with recorded webinars
 * Audience: K-12 teachers
 * URL: [www.mindspark.org/ibm-ai](https://www.mindspark.org/ibm-ai)
-* Provider: IBM and MindSpark
+* Provider: IBM and mindSpark Learning
 * Certification available: IBM "AI Foundations for Educators" badge
 
 Description (from the web site): _IBM AI Education is an immersive, online professional learning suite of FREE live and on-demand webinars, crafted by and for educators.  The nine webinars will guide educators through AI’s foundational concepts and K-12 classroom connections, with topics including introduction to AI, natural language processing, ethics, robotics, and more._
