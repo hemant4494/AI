@@ -19,7 +19,7 @@ Some things to demonstrate:
 * * _"Let me **ax** you a question."_
 * * _"I love fruit, **exspecially** bananas."_
 * * _"My hamster **exscaped** from his cage and is hiding under the bed."_
-* Non-words can sometimes be corrected based on context. Try these examples, where we replace 'grapes' or 'drapes' with the non-word 'brapes':
+* Non-words can sometimes be corrected based on context. Try these examples, where the non-word 'brapes' is best interpreted as either 'grapes' or 'drapes' depending on the context:
 * * _"Start your fruit salad by cutting up the **b**rapes"_
 * * _"Brighten the room by drawing back the **b**rapes"_
 * Common sayings are recognized as a whole, not word by word. Compare these examples:
