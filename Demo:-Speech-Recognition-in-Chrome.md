@@ -15,7 +15,7 @@ Some things to demonstrate:
 * Grammatical utterances are recognized much more easily than random strings of words.
 * Careful enunciation improves the recognition rate.
 * Homophones such as "which"/"witch" can often be disambiguated by context.  Try [these examples](https://examples.yourdictionary.com/examples-of-homophones.html) at yourdictionary.com.
-* Common mipronunciations (or dialectical variants) may be corrected automatically to Standard American English. Try these examples:
+* Common mispronunciations (or dialectical variants) may be corrected automatically to Standard American English. Try these examples:
 * * _"Let me **ax** you a question."_
 * * _"I love fruit, **exspecially** bananas."_
 * * _"My hamster **exscaped** from his cage and is hiding under the bed."_
