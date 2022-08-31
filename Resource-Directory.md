@@ -36,6 +36,7 @@
 ## Demos
 * [[Demos: Convolutional Neural Nets]]
 * [[Demo: Erase Your Face]]
+* [Demo: FaceDemo: TinyYOLOV2 Face Detection](http://www.cs.cmu.edu/~dst/FaceDemo) [direct link]
 * [Demo: FaceMesh](https://storage.googleapis.com/tfjs-models/demos/facemesh/index.html) [direct link] Real-time face mesh from webcam
 * [Demo: Hand Pose Detector](https://storage.googleapis.com/tfjs-models/demos/handtrack/index.html) [direct link] Real-time palm and finger detection from webcam images [(source)](https://github.com/tensorflow/tfjs-models/tree/master/handpose)
 * [Demo: Object Detection](https://tensorflow-js-object-detection.glitch.me/) [direct link] Real-time object detection from webcam images
@@ -46,6 +47,7 @@
 * [Demo: Talk to Transformer](https://app.inferkit.com/demo) [direct link]
 * [[Demo: Teachable Machine]]
 * [[Demo: TensorFlow Playground]]
+* [Demo: Word Embedding Demo](https://www.cs.cmu.edu/~dst/WordEmbeddingDemo) [direct link]
 * [Demos: TensorFlow.js Models](https://www.tensorflow.org/js/models) [direct link] [(video)](https://www.youtube.com/watch?v=c3aZeMZ0cvs)
 * [Demos: University of Karlsruhe](https://lecture-demo.ira.uka.de/) [direct link]
 
