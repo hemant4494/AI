@@ -10,10 +10,13 @@ Description: this demo uses the Google Speech API to record audio from the compu
 
 Note: this demo only works in Google Chrome because other browsers do not yet implement in-browser speech recognition. Also, the machine must have a microphone, and a working network connection in order to access the Google Speech recognition service.
 
-Some things to demonstrate:
+Some things to consider:
 * Longer utterances usually work better than one or two word utterances.
 * Grammatical utterances are recognized much more easily than random strings of words.
 * Careful enunciation improves the recognition rate.
+
+Experiments you can try:
+* Speaking a single word such as "break" or "night" or "led" will display all the homophones Google knows that match it.
 * Homophones such as "which"/"witch" can often be disambiguated by context.  Try [these examples](https://examples.yourdictionary.com/examples-of-homophones.html) at yourdictionary.com.
 * Common mispronunciations (or dialectical variants) may be corrected automatically to Standard American English. Try these examples:
 * * _"Let me **ax** you a question."_
