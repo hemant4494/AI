@@ -22,12 +22,16 @@ Experiments you can try:
 * * _"Let me **ax** you a question."_
 * * _"I love fruit, **exspecially** bananas."_
 * * _"My hamster **exscaped** from his cage and is hiding under the bed."_
+* Even gross mispronunciations may be corrected to a closest matching word. Try these variants of "traumatized":
+* * _"troo-matized"_
+* * _"tree-matized"_
 * Non-words can sometimes be corrected based on context. Try these examples, where the non-word 'brapes' is best interpreted as either 'grapes' or 'drapes' depending on the context:
 * * _"Start your fruit salad by cutting up the **b**rapes"_
 * * _"Brighten the room by drawing back the **b**rapes"_
 * Common sayings are recognized as a whole, not word by word. Compare these examples:
 * * _"Able was I ere I saw Elba"_ (a well known palindrome; Google recognizes it)
 * * _"Able were you ere you saw Elba"_ (not a palindrome and not well known; Google has trouble with this one)
+* * _"pie Felicia"_ (corrected to "bye Felicia", a line from a movie "Friday") vs. _"pie Filipa"_ (recognized correctly)
 * Why does Google have problems with _"Able were you ere you saw Elba"_? Two reasons:
 * * The syntax is unusual and slightly awkward.
 * * The word "ere", which means "before", is archaic and not used in modern conversational English, so Google does its best to interpret this sound as some more common word, such as "ear", unless the context strongly points to "ere".
