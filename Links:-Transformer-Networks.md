@@ -6,6 +6,7 @@ Transformer networks are deep neural networks now widely used for neural natural
 * [Language Processing with BERT: The 3 Minute Intro (Deep learning for NLP)](https://www.youtube.com/watch?v=ioGry-89gqE)
 * [How Transformers Work in Deep Learning and NLP](https://theaisummer.com/transformer/)
 * [Getting Meaning From Text](https://peltarion.com/blog/data-science/self-attention-video)
+* [A deep dive into BERT: How BERT launched a rocket into natural language understanding](https://searchengineland.com/a-deep-dive-into-bert-how-bert-launched-a-rocket-into-natural-language-understanding-324522)
 
 ### More Technical Tutorials
 * [Transformers From Scratch (Rohrer)](https://e2eml.school/transformers.html)
