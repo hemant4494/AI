@@ -38,6 +38,9 @@ Transformer networks are deep neural networks now widely used for neural natural
 * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805), Devlin et al. 2019.
 * [Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/abs/1609.08144) Wu et al. 2016.
 
+### Capabilites of Large Language Models
+* [Google's AI Is Something Even Stranger Than Conscious](https://www.theatlantic.com/technology/archive/2022/06/google-palm-ai-artificial-consciousness/661329/), Stephen Marche, The Atlantic, June 19, 2022
+
 ### Other Resources
 * [Simple Transformer Language Model](https://colab.research.google.com/github/jalammar/jalammar.github.io/blob/master/notebooks/Simple_Transformer_Language_Model.ipynb#scrollTo=BstYQU6NkkDA) (Python notebook in CoLab)
 * [SQuAD: Stanford Question Answering Dataset](https://rajpurkar.github.io/SQuAD-explorer/) used to train some BERT models
