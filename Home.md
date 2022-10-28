@@ -15,6 +15,8 @@ Welcome to the ai4k12 wiki! This interim site is being used to organize the AI f
 
 ### Upcoming Events
 ### Recent Events
+* New paper: [Machine Learning and the Five Big Ideas in AI](https://github.com/touretzkyds/ai4k12/raw/master/documents/Touretzky_et_al_IJAIED_2022.pdf), by David Touretzky, Chrstina Gardner-McCune, and Deborah Seehorn. International Journl of Artificial Intelligence in Education, October 27, 2022.
+
 * Webinar by Dave Touretzky, "Tools for Teaching AI in K-12" (parts 1 and 2). FDU CS Hub Professional Development Workshop, June 13 and 14, 2022.
 
 * Talk by Dave Touretzky, Christina Gardner-McCune, Fed Martin, and Deborah Seehorn, "You Know AI Has Arrived When We're Teaching It in Elementary School". AAAI/EAAI Outstanding Educator of the Year Award invited talk, February 27, 2022. [(slides)](https://github.com/touretzkyds/ai4k12/raw/master/documents/AAAI_EAAI_Award_Talk_2022_02_27.pdf)
