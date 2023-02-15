@@ -7,6 +7,6 @@
 
 Description: a highly readable and well-informed introduction to the history and major ideas of artificial intelligence, written for the intelligent layman and suitable for high school students.
 
-![](https://github.com/touretzkyds/ai4k12/raw/master/images/melanie_mitchell_artificial_intelligence.jpg)
+![](https://github.com/touretzkyds/ai4k12/raw/master/images/melanie_mitchell_artificial_intelligence.png)
 
 
