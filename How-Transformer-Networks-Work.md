@@ -20,4 +20,7 @@
 ### Training ###
 * Word prediction training data
 * Fine tuning of BERT on specific tasks
-* GPT-3 tuning using RLHF (Reinforcement Learning from Human Feedback)
+* GPT-3 training: https://www.youtube.com/watch?v=VPRSBzXzavo
+* * Generative pre-training
+* * Supervised fine-tuning from human examples
+* * RLHF (Reinforcement Learning from Human Feedback)
