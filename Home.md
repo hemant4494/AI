@@ -15,9 +15,9 @@ Welcome to the ai4k12 wiki! This interim site is being used to organize the AI f
 
 ### Upcoming Events
 ### Recent Events
-* Talk by Dave Touretzky, "How Chat GPT Works and Why You Should Care". FDU CS Hub, March 7, 2023.
+* Talk by Dave Touretzky, "How Chat GPT Works and Why You Should Care". FDU CS Hub, March 7, 2023. [(slides)](https://github.com/touretzkyds/ai4k12/raw/master/documents/Touretzky_FDU_CS_Hub_ChatGPT_2023.pdf)
 
-* New paper: [Machine Learning and the Five Big Ideas in AI](https://github.com/touretzkyds/ai4k12/raw/master/documents/Touretzky_et_al_IJAIED_2022.pdf), by David Touretzky, Chrstina Gardner-McCune, and Deborah Seehorn. International Journl of Artificial Intelligence in Education, October 27, 2022. [(slides)](https://github.com/touretzkyds/ai4k12/raw/master/documents/Touretzky_FDU_CS_Hub_ChatGPT_2023.pdf)
+* New paper: [Machine Learning and the Five Big Ideas in AI](https://github.com/touretzkyds/ai4k12/raw/master/documents/Touretzky_et_al_IJAIED_2022.pdf), by David Touretzky, Chrstina Gardner-McCune, and Deborah Seehorn. International Journl of Artificial Intelligence in Education, October 27, 2022.
 
 * Webinar by Dave Touretzky, "Tools for Teaching AI in K-12" (parts 1 and 2). FDU CS Hub Professional Development Workshop, June 13 and 14, 2022.
 
