@@ -15,6 +15,8 @@ Welcome to the ai4k12 wiki! This interim site is being used to organize the AI f
 
 ### Upcoming Events
 ### Recent Events
+* Talk by Dave Touretzky, "What Can We Teach K-12 Students About Large Language Models?". Second AIEDinK12 Workshop, July 7, Tokyo, Japan.[(slides)](https://github.com/touretzkyds/ai4k12/raw/master/documents/Touretzky_2023_AIED_Workshop.pdf)
+
 * Talk by Dave Touretzky, "How Chat GPT Works and Why You Should Care". FDU CS Hub, Fairleigh Dickinson University, March 7, 2023. [(slides)](https://github.com/touretzkyds/ai4k12/raw/master/documents/Touretzky_FDU_CS_Hub_ChatGPT_2023.pdf)
 
 * New paper: [Machine Learning and the Five Big Ideas in AI](https://github.com/touretzkyds/ai4k12/raw/master/documents/Touretzky_et_al_IJAIED_2022.pdf), by David Touretzky, Chrstina Gardner-McCune, and Deborah Seehorn. International Journal of Artificial Intelligence in Education, October 27, 2022.
