@@ -14,8 +14,10 @@ Welcome to the ai4k12 wiki! This interim site is being used to organize the AI f
 * Book chapter: [Artificial Intelligence Thinking in K-12](https://github.com/touretzkyds/ai4k12/raw/master/documents/Touretzky_Gardner-McCune_AI-Thinking_2021.pdf)
 
 ### Upcoming Events
+[EAAI-24: Educational Advances in Artificial Intelligence](https://eaai-conf.github.io/year/eaai-24.html), special track on Resources for Teaching AI in K-12. Abstracts due August 31, 2023; conference dates February 24-25, 2024.
+
 ### Recent Events
-* Talk by Dave Touretzky, "What Can We Teach K-12 Students About Large Language Models?". Second AIEDinK12 Workshop, July 7, Tokyo, Japan.[(slides)](https://github.com/touretzkyds/ai4k12/raw/master/documents/Touretzky_2023_AIED_Workshop.pdf)
+* Talk by Dave Touretzky, "What Can We Teach K-12 Students About Large Language Models?". Second AIEDinK12 Workshop, July 7, Tokyo, Japan. [(slides)](https://github.com/touretzkyds/ai4k12/raw/master/documents/Touretzky_2023_AIED_Workshop.pdf)
 
 * Talk by Dave Touretzky, "How Chat GPT Works and Why You Should Care". FDU CS Hub, Fairleigh Dickinson University, March 7, 2023. [(slides)](https://github.com/touretzkyds/ai4k12/raw/master/documents/Touretzky_FDU_CS_Hub_ChatGPT_2023.pdf)
 
