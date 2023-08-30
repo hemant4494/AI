@@ -33,6 +33,7 @@
 * [Curriculum: Exploring the Future Through Robotics and Artificial Intelligence](https://osf.io/tua5k/) (Matthew Reuben) [direct link]
 * [Curriculum: FarmBeats for Students](https://education.microsoft.com/en-us/lesson/5d991297) (Microsoft Education) [direct link]
 * [[Curriculum: IBM Activity Kits on AI]]
+* [[Curriculum: Thinking with KIBO: Introducing Artificial Intelligence in Early Grades]] (KinderLab Robotics)
 
 ## Demos
 * [[Demos: Convolutional Neural Nets]]
