@@ -2,7 +2,7 @@
 * Subject area: agent strategy game
 * Type: web site where you can upload agents to compete against other players
 * Grades: high school and undergraduate
-* URL: [kaggle.com](https://www.kaggle.com/competitions/halite)
+* URL: [www.kaggle.com/competitions/halite](https://www.kaggle.com/competitions/halite)
 * Announcement: [twosigma.com](https://www.twosigma.com/articles/introducing-halite-our-limited-release-ai-challenge/)
 * Creator: [Two Sigma](https://www.twosigma.com/) Recruiting
 
