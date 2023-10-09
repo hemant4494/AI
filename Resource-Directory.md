@@ -18,7 +18,6 @@
 * [[Book Series: The World of Artificial Intelligence 4D]]
 * [[Book Series: Tinker Toddlers]]
 
-
 ## Competitions
 * [[Competition: Halite]]
 * [[Competition: WAICY]] (World Artificial Intelligence Competition for Youth)
@@ -85,6 +84,7 @@
 * [[Resource Directory: Explore AI Ethics]]
 * [[Resource Directory: Learn About AI at Code.org]]
 * [[Resource Directory: MIT AI Education]] (Innovating Learning and Education in the Era of AI)
+* [The Best Online Machine Learning Courses](https://aifwd.com/education/best-online-machine-learning-course/) (2022)
 
 
 ## Software Packages
