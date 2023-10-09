@@ -59,6 +59,7 @@
 * [[Links: Transformer Networks]]
 
 ## Online Professional Development Courses
+* [Online Course: AI 101 for Teachers](https://code.org/ai/pl/101) (Code.org)
 * [[Online Course: Artificial Intelligence Explorations and Their Practical Use in Schools]] (ISTE)
 * [[Online Course: IBM AI Education]] (IBM/MindSpark)
 * [[Online Course: Teaching AI in the Classroom]] (CSER, Australia)
