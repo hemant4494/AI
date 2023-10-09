@@ -27,6 +27,7 @@
 * [[Curriculum: AI and Machine Learning Module]] (Code.org middle school curriculum)
 * [[Curriculum: AI for Oceans]] (Code.org machine learning intro)
 * [[Curriculum: AI plus Ethics for Middle School]] (Blakely Payne, MIT)
+* [Curriculum: Code.org AI Curricula](https://code.org/ai) (Code.org) [direct llink]
 * [Curriculum: Computational Thinking & AI in Elementary School](http://tssp.creuter.lu/ki/index.php) (Claude Reuter) [direct link]
 * [[Curriculum: ECS Alternate Curriculum Unit on Artificial Intelligence]]
 * [Curriculum: Exploring the Future Through Robotics and Artificial Intelligence](https://osf.io/tua5k/) (Matthew Reuben) [direct link]
