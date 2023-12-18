@@ -41,6 +41,7 @@
 * [Demo: FaceDemo: TinyYOLOV2 Face Detection](http://www.cs.cmu.edu/~dst/FaceDemo) [direct link]
 * [Demo: FaceMesh](https://storage.googleapis.com/tfjs-models/demos/facemesh/index.html) [direct link] Real-time face mesh from webcam
 * [Demo: Hand Pose Detector](https://storage.googleapis.com/tfjs-models/demos/handtrack/index.html) [direct link] Real-time palm and finger detection from webcam images [(source)](https://github.com/tensorflow/tfjs-models/tree/master/handpose)
+* [Demo: Markov Chain Demo](https://www.cs.cmu.edu/~dst/MarkovChainDemo) [direct link] Generate text using a statistical language model
 * [Demo: Neuron Sandbox](https://www.cs.cmu.edu/~dst/NeuronSandbox) [direct link] Solve problems using a simulated linear threshold unit
 * [Demo: Object Detection](https://tensorflow-js-object-detection.glitch.me/) [direct link] Real-time object detection from webcam images
 * [[Demo: pix2pix]]
