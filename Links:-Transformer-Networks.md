@@ -40,6 +40,7 @@ Transformer networks are deep neural networks now widely used for neural natural
 
 ### Capabilites of Large Language Models
 * [Google's AI Is Something Even Stranger Than Conscious](https://www.theatlantic.com/technology/archive/2022/06/google-palm-ai-artificial-consciousness/661329/), Stephen Marche, The Atlantic, June 19, 2022
+* [How Does ChatGPT Work? Tracing the Evolution of AIGC](https://www.dtonomy.com/how-does-chatgpt-work/) DTonomy, December 31, 2022
 
 ### Other Resources
 * [Simple Transformer Language Model](https://colab.research.google.com/github/jalammar/jalammar.github.io/blob/master/notebooks/Simple_Transformer_Language_Model.ipynb#scrollTo=BstYQU6NkkDA) (Python notebook in CoLab)
