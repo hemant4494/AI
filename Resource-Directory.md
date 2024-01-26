@@ -49,7 +49,8 @@
 * [[Demos: Spectrograms and Waveforms]]
 * [[Demo: Speech Recognition in Chrome]]
 * [Demo: Talk to Transformer](https://app.inferkit.com/demo) [direct link]
-* [[Demo: Teachable Machine]]
+* [[Demo: Teachable Machine]] (Google)
+* * [Extension of Teachable Machine](https://tm.generation-ai-stn.fi/image/general) (GenAI Project, Finland) [direct link]
 * [[Demo: TensorFlow Playground]]
 * [Demo: Word Embedding Demo](https://www.cs.cmu.edu/~dst/WordEmbeddingDemo) [direct link]
 * [Demos: TensorFlow.js Models](https://www.tensorflow.org/js/models) [direct link] [(video)](https://www.youtube.com/watch?v=c3aZeMZ0cvs)
