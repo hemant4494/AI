@@ -17,7 +17,7 @@ Welcome to the ai4k12 wiki! This interim site is being used to organize the AI f
 [EAAI-24: Educational Advances in Artificial Intelligence](https://eaai-conf.github.io/year/eaai-24.html), special track on Resources for Teaching AI in K-12. Abstracts due August 31, 2023; conference dates February 24-25, 2024.
 
 ### Recent Events
-* Talk by Dave Touretzky, "Teaching AI in K-5". FDU CS Hub, March 5, 2024, Fairleigh Dickinson University.
+* Talk by Dave Touretzky, "Teaching AI in K-5". FDU CS Hub, March 5, 2024, Fairleigh Dickinson University. [(slides)](https://github.com/touretzkyds/ai4k12/raw/master/documents/Touretzky_2024_FDU_Teaching_AI_in_K-5.pdf)
 
 * Talk by Dave Touretzky, "What Can We Teach K-12 Students About Large Language Models?". Second AIEDinK12 Workshop, July 7, 2023, Tokyo, Japan. [(slides)](https://github.com/touretzkyds/ai4k12/raw/master/documents/Touretzky_2023_AIED_Workshop.pdf)
 
